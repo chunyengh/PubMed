@@ -1,0 +1,1428 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Curated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "37189446"
+                },
+                "DateCompleted": {
+                    "Year": "2023",
+                    "Month": "09",
+                    "Day": "07"
+                },
+                "DateRevised": {
+                    "Year": "2023",
+                    "Month": "09",
+                    "Day": "07"
+                },
+                "Article": {
+                    "@PubModel": "Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "2218-273X"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "13",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2023",
+                                "Month": "Apr",
+                                "Day": "20"
+                            }
+                        },
+                        "Title": "Biomolecules",
+                        "ISOAbbreviation": "Biomolecules"
+                    },
+                    "ArticleTitle": "Biomolecules of Fermented Tropical Fruits and Fermenting Microbes as Regulators of Human Hair Loss, Hair Quality, and Scalp Microbiota.",
+                    "ELocationID": [
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "699"
+                        },
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.3390/biom13040699"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": "Plant-derived secondary metabolites (polyphenols/terpenes/alkaloids) and microbial exometabolites/membrane components of fermented tropical fruits are known as highly bioavailable biomolecules causing skin and hair improvement effects (wound healing, anti-inflammatory, antioxidant, antidiabetic, antiacne, skin/hair microbiota balancing, hair growth-promoting, and hair loss-inhibiting). Caffein is considered as a hair growth promoter. A randomized placebo- and caffein-controlled clinical trial on the efficacy of fermented papaya (FP) plus fermented mangosteen (FM) towards human hair quality and loss was conducted. Shampoo and lotion hair care products containing FP, FM, and caffein as active agents were developed and applied to 154 subjects of both sexes with clinically confirmed androgenic or diffuse alopecia for 3 months. Their clinical efficacy was assessed subjectively by questionnaires filled in by dermatologists/trichologists, and by the objective trichomicroscopical calculations. Hair and scalp skin quality was determined by microbiota pattern and ATP, SH-groups, protein, and malonyl dialdehyde quantification. Comparative clinical data showed that the experimental hair care cosmetics significantly inhibited hair loss, increased hair density/thickness, and improved hair follicle structure versus placebo and caffein controls. The cosmetics with FP and FM substantially normalized the microbiota pattern and increased ATP content in hair follicle, while inhibiting lipid peroxidation in the scalp skin, and SH-group formation in the hair shaft."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Mayer",
+                                "ForeName": "Wolfgang",
+                                "Initials": "W",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Medena AG, 16 Industriestrasse, CH-8910 Affoltern-am-Albis, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Weibel",
+                                "ForeName": "Michaela",
+                                "Initials": "M",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Medena AG, 16 Industriestrasse, CH-8910 Affoltern-am-Albis, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "De Luca",
+                                "ForeName": "Chiara",
+                                "Initials": "C",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Medena AG, 16 Industriestrasse, CH-8910 Affoltern-am-Albis, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ibragimova",
+                                "ForeName": "Galina",
+                                "Initials": "G",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Centre for Innovative Biotechnological Investigations Nanolab (CIBI-NANOLAB), 197 Vernadskiy Pr., 119571 Moscow, Russia."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Trakhtman",
+                                "ForeName": "Ilya",
+                                "Initials": "I",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Swiss Dekotra GmbH, 549 Badenerstrasse, CH-8048 Zurich, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kharaeva",
+                                "ForeName": "Zaira",
+                                "Initials": "Z",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0003-2302-2491"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Microbiology, Virology, and Immunology, Kabardino-Balkar Berbekov's State University, 176 Chernishevskiy St., 360000 Nal'chik, Russia."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Chandler",
+                                "ForeName": "Danny L",
+                                "Initials": "DL",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Dolsan AG, 6B Bergrain, CH-8910 Affoltern am Albis, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Korkina",
+                                "ForeName": "Liudmila",
+                                "Initials": "L",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Centre for Innovative Biotechnological Investigations Nanolab (CIBI-NANOLAB), 197 Vernadskiy Pr., 119571 Moscow, Russia."
+                                    },
+                                    {
+                                        "Affiliation": "Swiss Dekotra GmbH, 549 Badenerstrasse, CH-8048 Zurich, Switzerland."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2023",
+                        "Month": "04",
+                        "Day": "20"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Biomolecules",
+                    "NlmUniqueID": "101596414",
+                    "ISSNLinking": "2218-273X"
+                },
+                "ChemicalList": {
+                    "Chemical": {
+                        "RegistryNumber": "8L70Q75FXE",
+                        "NameOfSubstance": {
+                            "@UI": "D000255",
+                            "#text": "Adenosine Triphosphate"
+                        }
+                    }
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000255",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adenosine Triphosphate"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005638",
+                                "@MajorTopicYN": "N",
+                                "#text": "Fruit"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "N",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D064307",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Microbiota"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000382",
+                                "@MajorTopicYN": "N",
+                                "#text": "microbiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000628",
+                                "@MajorTopicYN": "N",
+                                "#text": "therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005285",
+                                "@MajorTopicYN": "N",
+                                "#text": "Fermentation"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ATP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "MDA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "SH-groups"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "alopecia"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "caffeine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "clinical trial"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "fermented papaya/mangosteen"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair loss"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "pre-/probiotics"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "skin microbiota"
+                        }
+                    ]
+                },
+                "CoiStatement": "W.M., M.W., and C.D. are engaged by MEDENA AG in research and development of hair care products. MEDENA AG kindly covered the APC for the paper. None of these coauthors influenced the decision to publish the article, to design the study, to interpret the data, and to write the paper. However, they participated in the development of product compositions, studied their stability, and registered them as cosmetics. The other authors declare no conflict of interest."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2023",
+                            "Month": "3",
+                            "Day": "27"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2023",
+                            "Month": "4",
+                            "Day": "17"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2023",
+                            "Month": "4",
+                            "Day": "18"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2023",
+                            "Month": "5",
+                            "Day": "17",
+                            "Hour": "6",
+                            "Minute": "42"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2023",
+                            "Month": "5",
+                            "Day": "16",
+                            "Hour": "6",
+                            "Minute": "42"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2023",
+                            "Month": "5",
+                            "Day": "16",
+                            "Hour": "1",
+                            "Minute": "9"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2023",
+                            "Month": "4",
+                            "Day": "20"
+                        }
+                    ]
+                },
+                "PublicationStatus": "epublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "37189446"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC10136211"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.3390/biom13040699"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "biom13040699"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Welzel J., Wolff H.H., Gehring W. Reduction of telogen rate and increase of hair density in androgenetic alopecia by a cosmetic product: Results of a randomized, prospective, vehicle-controlled double-blind study in men. J. Cosmet. Dermatol. 2022;21:1057\u20131064. doi: 10.1111/jocd.14158.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jocd.14158"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "33955628"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Han J.H., Kwon O.S., Chung J.H., Cho K.H., Eun H.C., Kim K.H. Effect of minoxidil on proliferation and apoptosis in dermal papilla cells of human hair follicle. J. Dermatol. Sci. 2004;34:91\u201398. doi: 10.1016/j.jdermsci.2004.01.002.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jdermsci.2004.01.002"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15033191"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Oaku Y., Abe A., Sasano Y., Sasaki F., Kubota C., Yamamoto N., Nagahama T., Nagai N. Minoxidil nanoparticles targeting hair follicles enhance hair growth in C57BL/6 mice. Pharmaceutics. 2022;14:947. doi: 10.3390/pharmaceutics14050947.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/pharmaceutics14050947"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC9145891"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35631533"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Herman A., Herman A.P. Topically used herbal products for the treatment of hair loss: Preclinical and clinical studies. Arch. Dermatol. Res. 2017;309:595\u2013610. doi: 10.1007/s00403-017-1759-7.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s00403-017-1759-7"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28695329"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Arif T., Dorjay K., Adil M., Sami M. Dutasteride in androgenetic alopecia: An update. Clin. Pharmacol. 2017;12:31\u201335. doi: 10.2174/1574884712666170310111125.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.2174/1574884712666170310111125"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28294070"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Gupta A.K., Mays R.R., Dotzert M.S., Versteed S.G., Shear N.H., Piguet V. Efficacy of non-surgical treatments for androgenetic alopecia: A systematic review and network meta-analysis. J. Dermatol. Venereol. 2018;32:2112\u20132125. doi: 10.1111/jdv.15081.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jdv.15081"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29797431"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Gupta A.K., Talukder M., Bamimore M.A. Natural products for male androgenetic alopecia. Dermatol. Ther. 2022;35:e15323. doi: 10.1111/dth.15323.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/dth.15323"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35044013"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Suchonwanit P., Srisuwanwattana P., Chalermroj N., Khunkhet S. A randomized, double-blind controlled study of the efficacy and safety of topical solution of 0.25% finasteride admixed with 3% minoxidil vs. 3% minoxidil solution in the treatment of male androgenetic alopecia. Eur. Acad. Dermatol. Venereol. 2018;32:2257\u20132263. doi: 10.1111/jdv.15171.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jdv.15171"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29972712"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Suchonwanit P., Iamsumang W., Rojhirunsakool S. Efficacy of topical combination of 0.25% finasteride and 3% minoxidil versus minoxidil solution in female pattern hair loss: A randomized, double-blind, controlled study. Am. J. Clin. Dermatol. 2019;20:147\u2013153. doi: 10.1007/s40257-018-0387-0.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s40257-018-0387-0"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30206824"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shen Y.-L., Li X.-Q., Pan R.-R., Yue W., Zhang L.-J., Zhang H. Medicinal plants for the treatment of heir loss and the suggested mechanisms. Curr. Pharm. Des. 2018;24:3090\u20133100. doi: 10.2174/1381612824666180911114810.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.2174/1381612824666180911114810"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30205796"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Adil A., Godwin M. The effectiveness of treatments for androgenetic alopecia: A systemic review and meta-analysis. J. Am. Acad. Dermatol. 2017;77:136\u2013141. doi: 10.1016/j.jaad.2017.02.054.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jaad.2017.02.054"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28396101"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shorter K., Farjo N.P., Picksley S.M., Randall V.A. Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil. FASEB J. 2008;22:1725\u20131736. doi: 10.1096/fj.07-099424.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1096/fj.07-099424"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "18258787"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Dou J., Zhang Z., Xu X., Zhang X. Exploring the effects of Chinese herbal ingredients on the signaling pathway of alopecia and the screening of effective Chinese herbal compounds. J. Ethnopharmacol. 2022;294:115320. doi: 10.1016/j.jep.2022.115320.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jep.2022.115320"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35483562"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Wall D., Meah N., Fagan N., York K., Sinclair R. Advances in hair growth. Fac. Rev. 2022;11:1. doi: 10.12703/r/11-1.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.12703/r/11-1"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8808739"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35156098"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Leir\u00f5s G.J., Attorresi A.I., Bala\u00f1\u00e1 M.E. Hair follicle stem cell differentiation is inhibited through cross-talk between Wnt/\u03b2-catenin and androgen signalling in dermal papilla cells from patients with androgenetic alopecia. Br. J. Dermatol. 2012;166:1035\u20131042. doi: 10.1111/j.1365-2133.2012.10856.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1365-2133.2012.10856.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22283397"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lee S.-H., Yoon J., Shin S.H., Zadoor M., Kim H.J., Park P.J., Park W.-S., Min D.S., Kim H.-K., Choi K.-C. Valproic acid induces hair regeneration in murine model and activates alkaline phosphatase activity in human dermal papilla cells. PLoS ONE. 2012;7:e34152. doi: 10.1371/journal.pone.0034152.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1371/journal.pone.0034152"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3323655"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22506014"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Riccio G., Sommella E., Badolati N., Salviati E., Bottone S., Campiglia P., Dentice M., Tenore G.C., Stornaiuolo M., Novellino E. Annurca apple polyphenols protect murine hair follicles from taxane induced dystrophy and hijacks of polyunsaturated fatty acid metabolism toward \u03b2-oxidation. Nutrients. 2018;10:1808. doi: 10.3390/nu10111808.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/nu10111808"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6267362"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30463345"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Munkhbayar S., Jang S., Cho A.R., Choi S.J., Shin C.Y., Eun H.C., Kim K.H., Kwon O. Role of arachidonic acid in promoting hair growth. Ann. Dermatol. 2016;28:55\u201364. doi: 10.5021/ad.2016.28.1.55.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.5021/ad.2016.28.1.55"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4737836"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26848219"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Blume-Peytavi U., L\u00f6nnfors S., Hillmann K., Garcia Bartels N. A randomized double-blind placebo-controlled pilot study to assess the efficacy of a 24-week topical treatment by latanoprost 0.1% on hair growth and pigmentation in healthy volunteers with androgenetic alopecia. J. Am. Acad. Dermatol. 2012;66:794\u2013800. doi: 10.1016/j.jaad.2011.05.026.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jaad.2011.05.026"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "21875758"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lourith N., Kanlayavattanakul M. Hair loss and herbs for treatment. Cosmet. Dermatol. 2013;12:210\u2013222. doi: 10.1111/jocd.12051.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jocd.12051"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23992163"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chi E.C., Kim K. A conprehensive review of biochemical factors in herbs and their constituent compounds in experimental studies on alopecia. J. Ethnopharmacol. 2020;258:112907. doi: 10.1016/j.jep.2020.112907.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jep.2020.112907"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "32360043"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Evron E., Juhasz M., Babajouni A., Mesinkovska N.A. Natural hair supplement: Friend or foe? Saw palmetto: A systematic review in alopecia. Skin. Appendage Disord. 2020;6:329\u2013337. doi: 10.1159/000509905.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1159/000509905"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7706486"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "33313047"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Zhu H.L., Gao Y.H., Yang J.Q., Li J.B., Gao J. Serenoa repens extracts promote hair regeneration and repair of hair loss mouse models by activating TGF-beta and mitochondrial signaling pathway. Eur. Rev. Med. Pharm. Sci. 2018;22:4000\u20134008.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29949176"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Zhang H., Su Y., Wang J., Gao Y., Yang F., Li G., Shi Q. Ginsenoside Rb1 promotes the growth of mink hair follicle via PI3K/AKT/GSK-3\u03b2 signaling pathway. Life Sci. 2019;229:210\u2013218. doi: 10.1016/j.lfs.2019.05.033.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.lfs.2019.05.033"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31102746"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Perna S., Spadaccini D., Botteri L., Girometta C., Riva A., Allegrini P., Petrangolini G., Infantino V., Rondanelli M. Efficacy of bergamot: From anti-inflammatory and anti-oxidative mechanisms to clinical applications as preventive agent for cardiovascular morbidity, skin diseases, and mood apterations. Food Sci. Nutr. 2019;7:369\u2013384. doi: 10.1002/fsn3.903.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/fsn3.903"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6392855"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30847114"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Her Y., Lee T.-K., Sim H., Lee J.-C., Kim D.W., Choi S.Y., Hong J.K., Lee J.-W., Kim J.-D., Won M.-H., et al. Pinus thunbergii bark extract rich in flavonoids promotes hair growth in dorsal skin by regulating inflammatory cytokines and increasing growth factors in mice. Mol. Med. Rep. 2022;25:100. doi: 10.3892/mmr.2022.12616.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3892/mmr.2022.12616"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8822878"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35088884"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shin H.-S., Lee J.-M., Park S.-Y., Yang J.-E., Kim J.-H., Yi T.-H. Hair growth activity of Crataegus pinnatifida on C57BL/6 mouse model. Phytother. Res. 2013;27:1352\u20131357. doi: 10.1002/ptr.4870.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/ptr.4870"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23148028"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Park P.J., Moon B.S., Lee S.H., Kim S.N., Kim A.R., Kim H.J., Park W.S., Choi K.Y., Cho E.G., Lee T.R. Hair growth-promoting effect of Aconiti Ciliare Tuber extract mediated by the activation of Wnt/\u03b2-catenin signaling. Life Sci. 2012;91:935\u2013943. doi: 10.1016/j.lfs.2012.09.008.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.lfs.2012.09.008"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23000887"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kim Y.E., Choi H.C., Lee I.C., Yuk D.Y., Lee H., Choi B.Y. 3-Deoxysappanchalcone Promotes Proliferation of Human Hair Follicle Dermal Papilla Cells and Hair Growth in C57BL/6 Mice by Modulating WNT/beta-Catenin and STAT Signaling. Biomol. Ther. 2016;24:572\u2013580. doi: 10.4062/biomolther.2016.183.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.4062/biomolther.2016.183"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5098535"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27795451"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shin H., Cho A.-R., Kim D.Y., Munkhbayer S., Choi S.-J., Jang S., Kim S.H., Shin H.-C., Kwon O. Enhancement of human hair growth using Ecklonia cava polyphenols. Ann. Dermatol. 2016;28:15\u201321. doi: 10.5021/ad.2016.28.1.15.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.5021/ad.2016.28.1.15"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4737831"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26848214"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Park S., Lee J. Modulation of hair growth promoting effect by natural products. Pharmaceutics. 2021;13:2163. doi: 10.3390/pharmaceutics13122163.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/pharmaceutics13122163"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8706577"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "34959442"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Bassino E., Gasparri F., Munaron L. Protective role of nutritional plants containing flavonoids in hair follicle disruption: A review. Int. J. Mol. Sci. 2020;21:523. doi: 10.3390/ijms21020523.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/ijms21020523"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7013965"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31947635"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Tenore G.C., Caruso D., Buonomo G., D\u2019Avino M., Irace C., Piccolo M., Maisto M., Novellino E. Nutraceutical formulation enhances keratin expression in a human model of skin and promotes hair growth and tropism in a randomized clinical trial. J. Med. Food. 2018;21:90\u2013103. doi: 10.1089/jmf.2017.0016.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1089/jmf.2017.0016"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5775114"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28956697"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Piccolo M., Ferraro M.G., Maione F., Maisto M., Stornaiuolo M., Tenore G.C., Santamaria R., Irace C., Novellino E. Induction of hair keratins expression by an annurca apple-based nutraceutical formulation in human follicular cells. Nutrients. 2019;11:3041. doi: 10.3390/nu11123041.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/nu11123041"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6950555"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31847069"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Takahashi T., Kamimura A., Kagoura M., Toyoda M., Morohashi M. Investigation of the topical application of procyanidine oligomers from apples to identify their potential use as a hair-growing agent. J. Cosmet. Dermatol. 2005;4:245\u2013249. doi: 10.1111/j.1473-2165.2005.00199.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1473-2165.2005.00199.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17168871"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Badolati N., Sommella E., Riccio G., Salviati E., Heintz D., Bottone S., Di Cicco E., Dentice M., Tenore G., Campiglia P., et al. Annurca Apple Polyphenols Ignite Keratin Production in Hair Follicles by Inhibiting the Pentose Phosphate Pathway and Amino Acid Oxidation. Nutrients. 2018;10:1406. doi: 10.3390/nu10101406.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/nu10101406"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6213762"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30279339"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Leem J., Jung W., Park H.-J., Kim K. A network pharmacology-based approach to explore mechanism of action of medicinal herbs for alopecia treatment. Sci. Rep. 2022;12:2852. doi: 10.1038/s41598-022-06811-6.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/s41598-022-06811-6"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8857194"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35181715"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lin Y., Shao R., Xiao T., Sun S. Promotion of hair regrowth by transdermal dissolvable microneedles loaded with rapamycin and epigallocatechin gallate nanoparticles. Pharmaceutics. 2022;14:1404. doi: 10.3390/pharmaceutics14071404.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/pharmaceutics14071404"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC9318735"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35890299"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Herman A., Herman A.P. Caffeine\u2019s mechanisms of action and its cosmetic use. Skin. Pharmacol. Physiol. 2013;26:8\u201314. doi: 10.1159/000343174.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1159/000343174"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23075568"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fischer T.W., Herczeg-Listes E., Funk W., Zillikens D., Biro\u2019 T., Paus R. Differential effects of caffeine on hair shaft elongation, matrix and outer root sheath keratinocyte proliferation, and transforming growth factor-\u03b22/insulin-like growth factor-1-mediated regulation of the hair cycle in male and female human hair follicles in vitro. Br. J. Dermatol. 2014;171:1031\u20131043. doi: 10.1111/bjd.13114.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/bjd.13114"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24836650"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fischer T.W., Hipler U.C., Elsner P. Effect of caffeine and testosterone on the proliferation of human hair follicles in vitro. Int. J. Dermatol. 2007;46:27\u201335. doi: 10.1111/j.1365-4632.2007.03119.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1365-4632.2007.03119.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17214716"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Marotta J.C., Patel G., Carvalho M., Blakeney S. Clinical efficacy of a topical compounded formulation in male androgenetic alopecia: Minoxidil 10%, finasteride 0.1%, biotin 0.2%, and caffeine citrate 0.05% hydroalcoholic solution. Int. J. Pharm. Compd. 2020;24:69\u201376.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "32023218"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Arck P., Handjiski B., Hagen E., Pincus M., Bruenahl C., Bienenstock J., Paus R. Is there a gut-brain-skin axis? Exp. Dermatol. 2010;19:401\u2013405. doi: 10.1111/j.1600-0625.2009.01060.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1600-0625.2009.01060.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20113345"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Hai Z., Ren Y., Hu J., Wang H., Qin Q., Chen T. Evaluation of the treatment effect of Aloe vera fermentation in burn injury healing using a rat model. Mediat. Inflamm. 2019;2019:2020858. doi: 10.1155/2019/2020858.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1155/2019/2020858"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6374857"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30837795"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Park D.W., Lee H.S., Shim M.-S., Yum K.J., Seo J.T. Do kimchi and Cheonggukjang probiotics as a functional food improve androgenetic alopecia? A clinical pilot study. World J. Mens. Health. 2020;38:95\u2013102. doi: 10.5534/wjmh.180119.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.5534/wjmh.180119"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6920077"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31385480"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Yoon Y.C., Ahn B.H., Min J.W., Lee K.R., Park S.H., Kang H.C. Stimulatory effects of extracellular vesicles derived from Leuconostoc holzapfelii that exists in human scalp on hair growth in human follicle dermal papilla cells. Curr. Issues Mol. Biol. 2022;44:845\u2013866. doi: 10.3390/cimb44020058.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/cimb44020058"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8929027"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35723343"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Hill D., Surgue I., Arendt E., Hill C., Stanton C., Ross R.P. Recent advances in microbial fermentation for diary and health. F1000Research. 2017;6:751. doi: 10.12688/f1000research.10896.1.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.12688/f1000research.10896.1"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5464223"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28649371"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Raman M., Ambalam P., Kondepudi K.K., Pithva S., Kothari C., Patel A.T., Purama R.K., Dave J.M., Vyas B.R. Potential of probiotics, prebiotics and synbiotics for management of colorectal cancer. Gut Microbes. 2013;4:181\u2013192. doi: 10.4161/gmic.23919.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.4161/gmic.23919"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3669163"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23511582"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Swain M.R., Anandharaj M., Ray R.C., Rani R.P. Fermented fruits and vegetables of Asia: A potential source of probiotics. Biotechnol. Res. Intern. 2014;2014:250424. doi: 10.1155/2014/250424.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1155/2014/250424"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4058509"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25343046"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kharaeva Z., Shokarova A., Shomakhova Z., Ibragimova G., Trakhtman P., Trakhtman I., Chung J., Mayer W., De Luca C., Korkina L. Fermented Carica papaya and Morinda citrifolia as perspective food supplements for the treatment of post-COVID symptoms: Randomized placebo-controlled clinical laboratory study. Nutrients. 2022;14:2203. doi: 10.3390/nu14112203.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/nu14112203"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC9182401"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "35684003"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Mikhalchik E.V., Ivanova A.V., Anurov M.V., Titkova S.M., Pen\u2019kov L.Y., Kharaeva Z.F., Korkina L.G. Wound-healing effect of papaya-based preparation in experimental thermal trauma. Bull. Exp. Biol. Med. 2004;137:560\u2013562. doi: 10.1023/B:BEBM.0000042711.31775.f7.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1023/B:BEBM.0000042711.31775.f7"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15455084"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kharaeva Z., Trakhtman P., Trakhtman I., De Luca C., Mayer W., Chung J., Ibragimova G., Korkina L. Fermented mangosteen (Garcinia mangostana L.) supplementation in the prevention of the HPV-induced cervical cancer: From mechanisms to clinical outcomes. Cancers. 2022;14:4707. doi: 10.3390/cancers14194707.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/cancers14194707"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC9564137"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "36230630"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kharaeva Z.F., Zhanimova L.R., Mustafaev M.S., De Luca C., Mayer W., Chung J., Tiew R., Korkina L.G. Effects of standardised fermented papaya gel on clinical symptoms, inflammatory cytokines, and nitric oxide metabolites in patients with chronic periodontitis: An open randomised clinical study. Med. Inflam. 2016;2016:9379840. doi: 10.1155/2016/9379840.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1155/2016/9379840"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4764753"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26977121"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kharaeva Z., Shogenova A., Barokova E., Trakhtman I., Chung J., Tiew R., Mayer W., De Luca C., Ibragimova G., Korkina L. Post-COVID periodontitis: Clinical efficacy of fermented Carica papaya L. and possible mechanisms. Internat J. Dent. Ora Hea. 2022;8:43\u201361."
+                        },
+                        {
+                            "Citation": "Kharaeva Z., Hokonova T., Elmurzaeva J., Dzamihova I., Mayer W., De Luca C., Trakhtman I., Korkina L. Effects of heavy isotopes (2H1 and 18O16) depleted water consumption on physical recovery and metabolic and immunological parameters of healthy volunteers under regular fitness load. Sports. 2021;9:110. doi: 10.3390/sports9080110.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/sports9080110"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8402423"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "34437371"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Reed D.J., Babson J.R., Beatty P.W., Brodie A.E., Ellis W.W., Potter D.W. High performance liquid chromatography analysis of nanomole levels of glutathione disulphide and related thiols and disulphides. Anal. Biochem. 1980;106:55\u201362. doi: 10.1016/0003-2697(80)90118-9.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/0003-2697(80)90118-9"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "7416469"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Bradford M.M. A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding. Anal. Biochem. 1976;72:248\u2013254. doi: 10.1016/0003-2697(76)90527-3.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/0003-2697(76)90527-3"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "942051"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chen Y., Fischbach M., Balkaid Y. Skin microbiota-host interactions. Nature. 2018;553:427\u2013436. doi: 10.1038/nature25177.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/nature25177"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6075667"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29364286"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Osipov G.A., Turova E.S. Studying species composition of microbial communities with the use of gas chromatography-mass spectrometry. Microbial community of kaolin. FEMS Microbiol. Rev. 1997;20:437\u2013446. doi: 10.1111/j.1574-6976.1997.tb00328.x.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1111/j.1574-6976.1997.tb00328.x"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Davis M.G., Piliang M.P., Bergfeld W.F., Caterino T.L., Fisher B.K., Sacha J.P., Carr G.J., Moulton L.T., Whittenbarger D.J., Schwartz J.R. Scalp application of antioxidants improves scalp condition and reduces hair shedding in a 24-week randomized, double-blind, placebo-controlled clinical trial. Int. J. Cosmet. Sci. 2021;43((Suppl. S1)):S14\u2013S25. doi: 10.1111/ics.12734.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/ics.12734"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "34424558"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Essendoubi M., Meunier M., Scandolera A., Gobinet C., Manfait M., Lambert C., Auriol D., Reynaud R., Piot O. Conformation changes in human hair keratin observed using confocal Raman spectroscopy after active ingredient application. Internat J. Cosmet. Sci. 2019;41:203\u2013212. doi: 10.1111/ics.12528.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/ics.12528"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6852583"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30946493"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fedorkova M.V., Brandt N.N., Chikishev A.Y., Smolina N.V., Balabushevich N.G., Gusev S.A., Lipatova V.A., Botchey V.M., Dobretsov G.E., Mikhalchik E.V. Photoinduced formation of thiols in human hair. J. Photochem. Photobiol. B. 2016;164:43\u201348. doi: 10.1016/j.jphotobiol.2016.09.021.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jphotobiol.2016.09.021"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27643983"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ashour A., Amen Y., Nakagawa T., Niwa Y., Mira A., Ohnuki K., Murakami S., Imao M., Shimizu K. A new aliphatic ester of hydroxysalicylic acid from fermented Carica papaya L. preparation with a potential hair growth stimulating activity. Prod. Res. 2020;34:1750\u20131755. doi: 10.1080/14786419.2018.1530231.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1080/14786419.2018.1530231"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30513209"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

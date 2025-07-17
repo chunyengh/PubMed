@@ -1,0 +1,304 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Automated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "36803888"
+                },
+                "DateCompleted": {
+                    "Year": "2023",
+                    "Month": "05",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2023",
+                    "Month": "05",
+                    "Day": "26"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1601-5215"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "35",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2023",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "Acta neuropsychiatrica",
+                        "ISOAbbreviation": "Acta Neuropsychiatr"
+                    },
+                    "ArticleTitle": "Dynamic impedance is correlated with static impedance and seizure quality parameters in bifrontal electroconvulsive therapy.",
+                    "Pagination": {
+                        "StartPage": "177",
+                        "EndPage": "185",
+                        "MedlinePgn": "177-185"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1017/neu.2023.10"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "To evoke a therapeutically effective seizure, electrical stimulation in electroconvulsive therapy (ECT) has to overcome the combined resistivity of scalp, skull and other tissues. Static impedances are measured prior to stimulation using high-frequency electrical alternating pulses, dynamic impedances during passage of the stimulation current. Static impedance can partially be influenced by skin preparation techniques. Earlier studies showed a correlation between dynamic and static impedance in bitemporal and right unilateral ECT."
+                            },
+                            {
+                                "@Label": "OBJECTIVE",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "This study aims at assessing the correlation of dynamic and static impedance with patient characteristics and seizure quality criteria in bifrontal ECT."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "We performed a cross-sectional single-centre retrospective analysis of ECT treatments at the Psychiatric University Hospital Zurich between May 2012 and March 2020 and used linear mixed-effects regression models in 78 patients with a total of 1757 ECT sessions."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Dynamic and static impedance were strongly correlated. Dynamic impedance was significantly correlated with age and higher in women. Energy set and factors positively (caffeine) and negatively (propofol) affecting seizure at the neuronal level were not associated with dynamic impedance. For secondary outcomes, dynamic impedance was significantly related to Maximum Sustained Power and Average Seizure Energy Index. Other seizure quality criteria showed no significant correlation with dynamic impedance."
+                            },
+                            {
+                                "@Label": "CONCLUSION",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Aiming for low static impedance might reduce dynamic impedance, which is correlated with positive seizure quality parameters. Therefore, good skin preparation to achieve low static impedance is recommended."
+                            }
+                        ]
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Exner",
+                                "ForeName": "Jan",
+                                "Initials": "J",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-5992-6719"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Psychiatry, Psychotherapy, and Psychosomatics, Psychiatric University Hospital of Zurich, University of Zurich, Zurich, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Deuring",
+                                "ForeName": "Gunnar",
+                                "Initials": "G",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-0108-8935"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "University Psychiatric Clinics, University of Basel, Basel, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Seifritz",
+                                "ForeName": "Erich",
+                                "Initials": "E",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-7311-4426"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Psychiatry, Psychotherapy, and Psychosomatics, Psychiatric University Hospital of Zurich, University of Zurich, Zurich, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Br\u00fchl",
+                                "ForeName": "Annette Beatrix",
+                                "Initials": "AB",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0003-4704-4986"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "University Psychiatric Clinics, University of Basel, Basel, Switzerland."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2023",
+                        "Month": "02",
+                        "Day": "21"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Acta Neuropsychiatr",
+                    "NlmUniqueID": "9612501",
+                    "ISSNLinking": "0924-2708"
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004565",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Electroconvulsive Therapy"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000379",
+                                "@MajorTopicYN": "N",
+                                "#text": "methods"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003430",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cross-Sectional Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017097",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electric Impedance"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012189",
+                                "@MajorTopicYN": "N",
+                                "#text": "Retrospective Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012640",
+                                "@MajorTopicYN": "N",
+                                "#text": "Seizures"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000628",
+                                "@MajorTopicYN": "N",
+                                "#text": "therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "depression"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "electric stimulation"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "electroconvulsive therapy"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "electroencephalography"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "seizures"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2023",
+                            "Month": "5",
+                            "Day": "26",
+                            "Hour": "6",
+                            "Minute": "42"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2023",
+                            "Month": "2",
+                            "Day": "22",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2023",
+                            "Month": "2",
+                            "Day": "21",
+                            "Hour": "18",
+                            "Minute": "25"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "36803888"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1017/neu.2023.10"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0924270823000108"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

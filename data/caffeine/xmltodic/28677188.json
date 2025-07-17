@@ -1,0 +1,277 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "28677188"
+                },
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "04"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "09",
+                    "Day": "04"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1610-0387"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "15",
+                            "Issue": "7",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Jul"
+                            }
+                        },
+                        "Title": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+                        "ISOAbbreviation": "J Dtsch Dermatol Ges"
+                    },
+                    "ArticleTitle": "Efficacy of topical caffeine in male androgenetic alopecia.",
+                    "Pagination": {
+                        "StartPage": "734",
+                        "EndPage": "741",
+                        "MedlinePgn": "734-741"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/ddg.13271"
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Dressler",
+                                "ForeName": "Corinna",
+                                "Initials": "C",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Division of Evidence Based Medicine, Clinic for Dermatology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Blumeyer",
+                                "ForeName": "Anja",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Dermatology, Venereology, and Allergology Practice, Ms. Janossy MD, Neuenhagen, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Rosumeck",
+                                "ForeName": "Stefanie",
+                                "Initials": "S",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Division of Evidence Based Medicine, Clinic for Dermatology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Arayesh",
+                                "ForeName": "Anthony",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Venereology, and Allergology, Medical College Hannover. Hannover, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Nast",
+                                "ForeName": "Alexander",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Division of Evidence Based Medicine, Clinic for Dermatology, Charit\u00e9 - Universit\u00e4tsmedizin Berlin, corporate member of Freie Universit\u00e4t Berlin, Humboldt-Universit\u00e4t zu Berlin, and Berlin Institute of Health."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016422",
+                                "#text": "Letter"
+                            },
+                            {
+                                "@UI": "D000078182",
+                                "#text": "Systematic Review"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "J Dtsch Dermatol Ges",
+                    "NlmUniqueID": "101164708",
+                    "ISSNLinking": "1610-0379"
+                },
+                "ChemicalList": {
+                    "Chemical": {
+                        "RegistryNumber": "3G6A5W338E",
+                        "NameOfSubstance": {
+                            "@UI": "D002110",
+                            "#text": "Caffeine"
+                        }
+                    }
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000287",
+                                "@MajorTopicYN": "N",
+                                "#text": "Administration, Topical"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000188",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018859",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Follicle"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016032",
+                                "@MajorTopicYN": "N",
+                                "#text": "Randomized Controlled Trials as Topic"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016896",
+                                "@MajorTopicYN": "N",
+                                "#text": "Treatment Outcome"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2017",
+                            "Month": "7",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2017",
+                            "Month": "7",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2019",
+                            "Month": "9",
+                            "Day": "5",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "28677188"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/ddg.13271"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

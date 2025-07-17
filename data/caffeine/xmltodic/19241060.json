@@ -1,0 +1,786 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "19241060"
+                },
+                "DateCompleted": {
+                    "Year": "2009",
+                    "Month": "07",
+                    "Day": "31"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "10",
+                    "Day": "20"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1432-2072"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "204",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2009",
+                                "Month": "Jul"
+                            }
+                        },
+                        "Title": "Psychopharmacology",
+                        "ISOAbbreviation": "Psychopharmacology (Berl)"
+                    },
+                    "ArticleTitle": "Caffeine withdrawal, acute effects, tolerance, and absence of net beneficial effects of chronic administration: cerebral blood flow velocity, quantitative EEG, and subjective effects.",
+                    "Pagination": {
+                        "StartPage": "573",
+                        "EndPage": "585",
+                        "MedlinePgn": "573-85"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1007/s00213-009-1489-4"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "RATIONALE",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Although the subjective effects of caffeine abstinence, acute and chronic administration, and tolerance are well described, the corresponding neurophysiological effects are not."
+                            },
+                            {
+                                "@Label": "OBJECTIVES",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "Caffeine withdrawal, acute caffeine effects, caffeine tolerance, and net beneficial effects of chronic caffeine administration were investigated using cerebral blood flow velocity, quantitative electroencephalography (EEG), and subjective effects."
+                            },
+                            {
+                                "@Label": "MATERIALS AND METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Sixteen regular caffeine users participated in this double-blind, within-subject study during which they received acute caffeine and placebo challenges (1) while maintained on 400 mg caffeine daily for > or =14 days and (2) while maintained on placebo for > or =14 days. Blood flow velocity was determined for the middle (MCA) and anterior (ACA) cerebral arteries using pulsed transcranial Doppler sonography. EEG was recorded from 16 scalp sites. Subjective effects were assessed with questionnaires."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Acute caffeine abstinence (evaluated 24 h after placebo substitution) increased mean, systolic, and diastolic velocity in the MCA and ACA and decreased pulsatility index in the MCA. Acute caffeine abstinence increased EEG theta and decreased beta 2 power. Acute caffeine abstinence also increased measures of Tired, Fatigue, Sluggish, and Weary and decreased ratings of Energetic, Friendly, Lively, and Vigor. Acute caffeine effects were demonstrated across a wide range of measures, including cerebral blood flow, EEG, and subjective effects. Tolerance and \"complete\" tolerance were observed on subjective but not physiological measures. Chronic caffeine effects were demonstrated only on the measure of EEG beta 2 power."
+                            },
+                            {
+                                "@Label": "CONCLUSION",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Acute caffeine abstinence and administration produced changes in cerebral blood flow velocity, EEG, and subjective effects. Tolerance to subjective but not physiological measures was demonstrated. There was almost no evidence for net effects of chronic caffeine administration on these measures. Overall, these findings provide the most rigorous demonstration to date of physiological effects of caffeine withdrawal."
+                            }
+                        ]
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sigmon",
+                                "ForeName": "Stacey C",
+                                "Initials": "SC",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Psychiatry, University of Vermont College of Medicine, SATC-UHC, Room 1415, Burlington, VT, 05401, USA. stacey.sigmon@uvm.edu"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Herning",
+                                "ForeName": "Ronald I",
+                                "Initials": "RI"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Better",
+                                "ForeName": "Warren",
+                                "Initials": "W"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Cadet",
+                                "ForeName": "Jean L",
+                                "Initials": "JL"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Griffiths",
+                                "ForeName": "Roland R",
+                                "Initials": "RR"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": [
+                            {
+                                "GrantID": "T32 DA007209",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "T32-DA07209",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "R01 DA003890-24",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "R01 DA003890",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "R01 DA-03890",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            }
+                        ]
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D018848",
+                                "#text": "Controlled Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D052061",
+                                "#text": "Research Support, N.I.H., Extramural"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2009",
+                        "Month": "02",
+                        "Day": "25"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Psychopharmacology (Berl)",
+                    "NlmUniqueID": "7608025",
+                    "ISSNLinking": "0033-3158"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020771",
+                                "@MajorTopicYN": "N",
+                                "#text": "Anterior Cerebral Artery"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000009",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "adverse effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000009",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "adverse effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002560",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cerebrovascular Circulation"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018592",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cross-Over Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004311",
+                                "@MajorTopicYN": "N",
+                                "#text": "Double-Blind Method"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004361",
+                                "@MajorTopicYN": "N",
+                                "#text": "Drug Tolerance"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020768",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Cerebral Artery"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013375",
+                                "@MajorTopicYN": "N",
+                                "#text": "Substance Withdrawal Syndrome"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000503",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "physiopathology"
+                                },
+                                {
+                                    "@UI": "Q000523",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "psychology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011795",
+                                "@MajorTopicYN": "N",
+                                "#text": "Surveys and Questionnaires"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017585",
+                                "@MajorTopicYN": "N",
+                                "#text": "Ultrasonography, Doppler, Transcranial"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D055815",
+                                "@MajorTopicYN": "N",
+                                "#text": "Young Adult"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2008",
+                            "Month": "8",
+                            "Day": "4"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2009",
+                            "Month": "2",
+                            "Day": "2"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2009",
+                            "Month": "2",
+                            "Day": "26",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2009",
+                            "Month": "2",
+                            "Day": "26",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2009",
+                            "Month": "8",
+                            "Day": "1",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2010",
+                            "Month": "7",
+                            "Day": "1"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "19241060"
+                        },
+                        {
+                            "@IdType": "mid",
+                            "#text": "NIHMS135796"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC2738587"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1007/s00213-009-1489-4"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Abreu ME, Griffths RR. Drug tasting may confound human drug discrimination studies. Psychopharmacol. 1996;125:255\u2013257.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8815961"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Cameron OG, Modell JG, Hariharan M. Caffeine and human cerebral blood flow: a positron emission tomography study. Life Sciences. 1990;47:1141\u20131146.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "2122148"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Chamberlin H. Musical application of microprocessors. Hasbrouk Heights; NJ: Hayden: 1985. pp. 435\u2013458."
+                        },
+                        {
+                            "Citation": "Childs E, de Wit H. Subjective, behavioral, and physiological effects of acute caffeine in light, nondependent caffeine users. Psychopharmacol. 2006;185:514\u2013523.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16541243"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Couturier EGM, Laman DM, van Duijn MAJ, van Duijn H. Influence of caffeine and caffeine withdrawal on headache and cerebral blood flow velocities. Cephalalgia. 1997;17:188\u2013190.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9170342"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Debrah K, Haigh R, Sherwin R, Murphy J, Kerr D. Effect of acute and chronic caffeine use on cerebrovascular, cardiovascular and hormonal responses to orthostasis in healthy volunteers. Clinical Science. 1995;89:475\u2013480.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8549061"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Denaro CP, Brown CR, Jacob PI, Benowitz NL. Effects of caffeine with repeated dosing. Eur J Clin Pharmacol. 1991;40:273\u2013278.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "2060564"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Evans SM, Griffiths RR. Caffeine tolerance and choice in humans. Psychopharmacology. 1992;108:51\u201359.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "1410146"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Evans SM, Griffiths RR. Caffeine withdrawal: a parametric analysis of caffeine dosing conditions. J Pharmacol Exp Ther. 1999;289:285\u2013294.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10087016"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Field AS, Laurienti PJ, Yen YF, Burdette JH, Moody DM. Dietary caffeine consumption and withdrawal: confounding variables in quantitative cerebral perfusion studies? Radiology. 2003;227:129\u2013135.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "12616005"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Goldstein L, Murphree HB, Pfeiffer CC. Quantitative electroencephalography in man as a measure of CNS stimulation. Annals New York Academy of Sciences. 1963:1045\u20131056.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "13948810"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Griffiths RR, Evans SM, Heishman SJ, Preston KL, Sannerud CA, Wolf B, Woodson PP. Low-dose caffeine physical dependence in humans. J Pharmacol Exp Ther. 1990;225:1123\u20131132.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "2262896"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Griffiths RR, Mumford GK. Caffeine reinforcement, discrimination, tolerance and physical dependence in laboratory animals and humans. In: Schuster CR, Gust SW, Kuhar MJ, editors. Pharmacological Aspects of Drug Dependence - Toward an Integrated Neurobehavioral Approach - Handbook of Experimental Pharmacology. Springer-Verlag; New York: 1996. pp. 315\u2013341."
+                        },
+                        {
+                            "Citation": "Griffiths RR, Woodson PP. Reinforcing effects of caffeine in humans. J Pharmacol Exp Ther. 1988;246:21\u201329.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "3392652"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Haskell CF, Kennedy DO, Wesnes KA, Scholey AB. Cognitive and mood improvements of caffeine in habitual consumers and habitual non-consumers of caffeine. Psychopharmacol. 2005;179:813\u2013825.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15678363"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Jacob P, III, Wilson M, Benowitz NL. Improved gas chromatographic method for the determination of nicotine and cotinine in biological fluids. J Chromatogr B. 1981;222:61\u201370.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "6783675"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE. Chronic effects of habitual caffeine consumption on laboratory and ambulatory blood pressure levels. J Cardiovasc Risk. 1994;1:159\u2013164.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7606629"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE. Effects of habitual caffeine consumption on ambulatory blood pressure. Am J Cardiol. 1996;78:129.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8712109"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE. Acute and chronic effects of caffeine on performance, mood, headache, and sleep. Neuropsychobiology. 1998;38:32\u201341.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9701720"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE, Gregg ME, Kane M, Harte F. Dietary caffeine, performance and mood: enhancing and restorative effects after controlling for withdrawal relief. Neuropsychobiology. 2005;52:1\u201310.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15942257"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE, Keane MA. Caffeine, sleep and wakefulness: implications of new understanding about withdrawal reversal. Hum Psychopharmacol Clin Exp. 2007;22:1\u201310.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17868185"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "James JE, Rogers PJ. Effects of caffeine on performance and mood: withdrawal reversal is the most plausible explanation. Psychopharmacol. 2005;182:1\u20138.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16001109"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Jones HE, Herning RI, Cadet JL, Griffiths RR. Caffeine withdrawal increases cerebral blood flow velocity and alters quantitative electroencephalography (EEG) activity. Psychopharmacol. 2000;147:371\u2013377.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10672630"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Juliano LM, Griffiths RR. A critical review of caffeine withdrawal: empirical validation of symptoms and signs, incidence, severity and associated features. Psychopharmacol. 2004;176:1\u201329.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15448977"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Keane MA, James JE, Hogan MJ. Effects of dietary caffeine on topographic EEG after controlling for withdrawal and withdrawal reversal. Neuropsychobiology. 2007;56:197\u2013207.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "18337638"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Lader M, Cardwell C, Shine P, Scott N. Caffeine withdrawal symptoms and rate of metabolism. J Psychopharmacol. 1996;10:110\u2013118.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22302887"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Lovallo WR, Wilson MF, Vincent AS, Sung BH, McKey BS, Whitsett TL. Blood pressure response to caffeine shows incomplete tolerance after short-term regular consumption. Hypertension. 2004;43:769\u2013765.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "14967827"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Mathew RJ, Barr DL, Weinman ML. Caffeine and cerebral blood flow. Brit J Psychiat. 1983;143:604\u2013608.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "6661603"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Mathew RJ, Wilson WH. Caffeine consumption, withdrawal and cerebral blood flow. Headache. 1985;25:305\u2013309.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "4055363"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "McNair DM, Lorr M, Droppleman LF. EITS manual for the profile of mood states. Educational and Industrial Service; San Diego: 1971."
+                        },
+                        {
+                            "Citation": "Muhonen MG, Loftus CM, Heistad DD. Effects of adenosine and 2-chloroadenosine on cerebral collateral vessels. J Cerebral Blood Flow and Metabolism. 1995;15:1075\u20131081.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7593340"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Reeves RR, Struve FA, Patrick G, Bullen JA. Topographic quantitative EEG measures of alpha and theta power changes during caffeine withdrawal: preliminary findings from normal subjects. Clin Electroencephal. 1995;26:154\u2013162.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7554302"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Robertson D, Wade D, Workman R, Woosley RL, Oates JA. Tolerance to the humoral and hemodynamic effects of caffeine in man. J Clin Invest. 1981;67:1111\u20131117.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC370671"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "7009653"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Rogers PJ, Heatherley SV, Hayward RC, Seers HE, Hill J, Kane M. Effects of caffeine and caffeine withdrawal on mood and cognitive performance degraded by sleep restriction. Psychopharmacol. 2005;179:742\u2013752.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15887055"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Rogers PJ, Dernoncourt C. Regular caffeine consumption: a balance of adverse and beneficial effects for mood and psychomotor performance. Pharmacol Biochem Behav. 1998;59:1039\u201345.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9586865"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Saletu B, Anderer P, Kinsperger K, Gr\u00fcnberger J. Topographic brain mapping of EEG in neuropsychopharmacology\u2014Part II. Clinical applications (pharmaco EEG imaging) Methods Find Exp Clin Pharmacol. 1987;9:385\u2013408.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "2888937"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

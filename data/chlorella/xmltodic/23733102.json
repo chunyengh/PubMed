@@ -1,0 +1,701 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "23733102"
+                },
+                "DateCompleted": {
+                    "Year": "2014",
+                    "Month": "03",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2013",
+                    "Month": "08",
+                    "Day": "19"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1873-6351"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "59",
+                            "PubDate": {
+                                "Year": "2013",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+                        "ISOAbbreviation": "Food Chem Toxicol"
+                    },
+                    "ArticleTitle": "Safety evaluation of Whole Algalin Protein (WAP) from Chlorella protothecoides.",
+                    "Pagination": {
+                        "StartPage": "34",
+                        "EndPage": "45",
+                        "MedlinePgn": "34-45"
+                    },
+                    "ELocationID": [
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.1016/j.fct.2013.05.035"
+                        },
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "S0278-6915(13)00341-4"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": "Microalgae such as Chlorella spp., were once consumed as traditional human foods; now they are being developed as ingredients for modern diets. Whole Algalin Protein (WAP) from dried milled Chlorella protothecoides was evaluated for dietary safety in a 13-week feeding trial in rodents with genotoxic potential evaluated using in vitro and in vivo assays and the likelihood of food allergy potential evaluated via human repeat-insult patch test (HRIPT). In the subchronic study, rats consumed feed containing 0, 25,000, 50,000 or 100,000 ppm WAP for 92-93 days. No treatment-related mortalities or effects in general condition, body weight, food consumption, ophthalmology, urinalysis, hematology, clinical chemistry, gross pathology, organ weights, and histopathology occurred. Several endpoints exhibited statistically significant effects, but none was dose-related. The no-observed-adverse-effect level (NOAEL) was based on the highest WAP concentration consumed by the rats and was equivalent to 4805 mg/kg/day in males and 5518 mg/kg/day in females. No mutagenicity occurred in Salmonella typhimurium or Escherichia coli tester strains (\u22645000 \u03bcg/plate WAP) with or without mutagenic activation. No clastogenic response occurred in bone marrow from mice administered a single oral dose (2000 mg/kg WAP). Skin sensitization was not induced by WAP via HRIPT, indicating little potential for food allergy.",
+                        "CopyrightInformation": "Copyright \u00a9 2013 Elsevier Ltd. All rights reserved."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Szabo",
+                                "ForeName": "Nancy J",
+                                "Initials": "NJ",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Burdock Group, 859 Outer Road, Orlando, FL 32814, United States. nszabo@burdockgroup.com"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Matulka",
+                                "ForeName": "Ray A",
+                                "Initials": "RA"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Chan",
+                                "ForeName": "Teresa",
+                                "Initials": "T"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D003160",
+                                "#text": "Comparative Study"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2013",
+                        "Month": "06",
+                        "Day": "01"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Food Chem Toxicol",
+                    "NlmUniqueID": "8207483",
+                    "ISSNLinking": "0278-6915"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D020418",
+                                "#text": "Algal Proteins"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D004044",
+                                "#text": "Dietary Proteins"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D010940",
+                                "#text": "Plant Proteins"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020418",
+                                "@MajorTopicYN": "N",
+                                "#text": "Algal Proteins"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000009",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "adverse effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000818",
+                                "@MajorTopicYN": "N",
+                                "#text": "Animals"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002708",
+                                "@MajorTopicYN": "N",
+                                "#text": "Chlorella"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004044",
+                                "@MajorTopicYN": "N",
+                                "#text": "Dietary Proteins"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000009",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "adverse effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004926",
+                                "@MajorTopicYN": "N",
+                                "#text": "Escherichia coli"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005512",
+                                "@MajorTopicYN": "N",
+                                "#text": "Food Hypersensitivity"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000453",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "epidemiology"
+                                },
+                                {
+                                    "@UI": "Q000209",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "etiology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008815",
+                                "@MajorTopicYN": "N",
+                                "#text": "Mice, Inbred Strains"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D009152",
+                                "@MajorTopicYN": "N",
+                                "#text": "Mutagenicity Tests"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D019055",
+                                "@MajorTopicYN": "N",
+                                "#text": "No-Observed-Adverse-Effect Level"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Patch Tests"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010940",
+                                "@MajorTopicYN": "N",
+                                "#text": "Plant Proteins"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000009",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "adverse effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011897",
+                                "@MajorTopicYN": "N",
+                                "#text": "Random Allocation"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D051381",
+                                "@MajorTopicYN": "N",
+                                "#text": "Rats"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017207",
+                                "@MajorTopicYN": "N",
+                                "#text": "Rats, Sprague-Dawley"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017208",
+                                "@MajorTopicYN": "N",
+                                "#text": "Rats, Wistar"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012306",
+                                "@MajorTopicYN": "N",
+                                "#text": "Risk"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012486",
+                                "@MajorTopicYN": "N",
+                                "#text": "Salmonella typhimurium"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D059550",
+                                "@MajorTopicYN": "N",
+                                "#text": "Toxicity Tests, Subchronic"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "2-AA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "2-aminoanthracene"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "4-NOPD"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "4-nitro-o-phenylene-diamine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "AAALAC"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ANOVA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "AOAC"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "APT"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Analysis of Variance"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Association of Analytical Communities"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "BMAA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "CPA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Chlorella protothecoides"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Clastogenic"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "DBPCFC"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "DIO"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "GCP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "GLP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "GRAS"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "GRAS Notification"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "GRN"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Generally Recognized as Safe"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Genotoxic"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "HPLC/Fl"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "HRIPT"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ICH"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "IgE"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Immunoglobulin E"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "International Association for Assessment and Accreditation of Laboratory Animal Care International"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "International Conference on Harmonisation"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "MMS"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "MTD"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Mutagenic"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "NOAEL"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "NaN(3)"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "OECD"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Organisation for Economic Co-operation and Development"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "PheideA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "SPT"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Subchronic"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "TFA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Toxicity"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "US FDA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "United States Food and Drug Administration"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "WAP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Whole Algalin Protein"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "atopy patch test"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "cyclophosphamide"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "diet induced obesity"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "double-blind placebo-controlled food challenge"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "good clinical practice"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "good laboratory practice"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "high-performance liquid chromatography/fluorescence detection"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "human repeat-insult patch test"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "i.p."
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "intraperitoneal"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "maximum tolerated dose"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "methylmethanesulfonate"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "no-observed-adverse-effect level"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "pheophorbide A"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "skin prick test"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "sodium azide"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "total fatty acid"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "\u03b2-methylamino-L-alanine"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2013",
+                            "Month": "4",
+                            "Day": "9"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2013",
+                            "Month": "5",
+                            "Day": "21"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2013",
+                            "Month": "5",
+                            "Day": "22"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2013",
+                            "Month": "6",
+                            "Day": "5",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2013",
+                            "Month": "6",
+                            "Day": "5",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2014",
+                            "Month": "3",
+                            "Day": "29",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "23733102"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1016/j.fct.2013.05.035"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0278-6915(13)00341-4"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

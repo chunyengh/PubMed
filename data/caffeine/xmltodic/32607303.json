@@ -1,0 +1,512 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "PubMed-not-MEDLINE",
+                "@Owner": "NLM",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "32607303"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "09",
+                    "Day": "28"
+                },
+                "Article": {
+                    "@PubModel": "Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "2168-8184"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "12",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Month": "May",
+                                "Day": "27"
+                            }
+                        },
+                        "Title": "Cureus",
+                        "ISOAbbreviation": "Cureus"
+                    },
+                    "ArticleTitle": "Telogen Effluvium: A Review of the Literature.",
+                    "Pagination": {
+                        "StartPage": "e8320",
+                        "MedlinePgn": "e8320"
+                    },
+                    "ELocationID": [
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "e8320"
+                        },
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.7759/cureus.8320"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": "Telogen effluvium is one of the most common causes of alopecia. It is a scalp disorder characterized by excessive shedding of hair. Several factors such as drugs, trauma, and emotional and physiological stress can lead to the development of telogen effluvium. Multiple alterations in the hair cycle have been proposed as the underlying mechanism. Telogen effluvium can present as acute or chronic hair fall with symptoms such as trichodynia. Diagnostic tests that can be used include hair wash test, trichogram, phototrichogram, and scalp biopsy. In the treatment of telogen effluvium, it is essential to identify and remove the causative factors and to use drugs such as corticosteroids, minoxidil, and novel treatments such as CNPDA (caffeine, niacinamide, panthenol, dimethicone, and an acrylate polymer). Herein, we discuss the presentation, diagnostic approaches, and effective treatment options available for telogen effluvium.",
+                        "CopyrightInformation": "Copyright \u00a9 2020, Asghar et al."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Asghar",
+                                "ForeName": "Fahham",
+                                "Initials": "F",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Neurology, Dow Medical College, Dow University of Health Sciences, Karachi, PAK."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Shamim",
+                                "ForeName": "Nazia",
+                                "Initials": "N",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Internal Medicine, Dow Medical College, Dow University of Health Sciences, Karachi, PAK."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Farooque",
+                                "ForeName": "Umar",
+                                "Initials": "U",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Neurology, Dow Medical College, Dow University of Health Sciences, Karachi, PAK."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sheikh",
+                                "ForeName": "Haris",
+                                "Initials": "H",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Anaesthesiology, Aga Khan University, Karachi, PAK."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Aqeel",
+                                "ForeName": "Ramsha",
+                                "Initials": "R",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Internal Medicine, Dow Medical College, Dow University of Health Sciences, Karachi, PAK."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016454",
+                                "#text": "Review"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2020",
+                        "Month": "05",
+                        "Day": "27"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Cureus",
+                    "NlmUniqueID": "101596737",
+                    "ISSNLinking": "2168-8184"
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "acute telogen effluvium"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "alopecia"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "causes of telogen effluvium"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "chronic telogen effluvium"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "diagnosis"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "epidemiology"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "literature review"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "pathogenesis"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "telogen effluvium"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "treatment"
+                        }
+                    ]
+                },
+                "CoiStatement": "The authors have declared that no competing interests exist."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2020",
+                            "Month": "7",
+                            "Day": "2",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2020",
+                            "Month": "7",
+                            "Day": "2",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2020",
+                            "Month": "7",
+                            "Day": "2",
+                            "Hour": "6",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2020",
+                            "Month": "5",
+                            "Day": "27"
+                        }
+                    ]
+                },
+                "PublicationStatus": "epublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "32607303"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC7320655"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.7759/cureus.8320"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Telogen efflfluvium. Grover C, Khurana A. Indian J Dermatol Venereol Leprol. 2013;79:591\u2013603.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "23974577"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Telogen effluvium: new concepts and review. Headington JT. Arch Dermatol. 1993;129:356\u2013363.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8447677"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Chronic telogen effluvium: increased scalp hair shedding in middle-aged women. Whiting DA. J Am Acad Dermatol. 1996;35:899\u2013906.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8959948"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Drug reactions affecting hair: diagnosis. Tosti A, Pazzaglia M. Dermatol Clin. 2007;25:223\u2013231.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17430759"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Telogen effluvium. Harrison S, Sinclair R. Clin Exp Dermatol. 2002;27:389\u2013395.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "12190639"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hair loss in children in South\u2010East Nigeria: common and uncommon cases. Nnoruka EN, Obiagboso I, Maduechesi C. Int J Dermatol. 2007;46:18\u201322.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17919200"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Diffuse hair loss in an adult female: approach to diagnosis and management. Shrivastava SB. Indian J Dermatol Venereol Leprol. 2009;75:20\u201328.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19172026"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Practical management of hair loss. Shapiro J, Wiseman M, Lui H. https://www.cfp.ca/content/46/7/1469.long. Can Fam Physician. 2000;46:1469\u20131477.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2144852"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "10925761"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Analysis of apoptosis during hair follicle regression (catagen) Lindner G, Botchkarev VA, Botchkareva NV, Ling G, van der Veen C, Paus R. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1858357/ Am J Pathol. 1997;151:1601\u20131617.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1858357"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "9403711"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chronic telogen effluvium is due to a reduction in the variance of anagen duration. Gilmore S, Sinclair R. Australas J Dermatol. 2010;51:163\u2013167.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20695853"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Diffuse hair loss: Its triggers and management. Harrison S, Bergfeld W. Cleve Clin J Med. 2009;76:361\u2013367.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19487557"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Pathologic dynamics of human hair loss: I. Telogen effluvium. Kligman AM. Arch Dermatol. 1961;83:175\u2013198.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "13756813"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hair and systemic disease. Sperling LC. Dermatol Clin. 2001;19:711\u2013726.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11705356"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Iron status in diffuse telogen hair loss among women. Moeinvaziri M, Mansoori P, Holakooee K, Naraghi ZS, Abbasi A. https://www.ncbi.nlm.nih.gov/pubmed/20021982. Acta Dermatovenerol Croat. 2009;17:279\u2013284.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20021982"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Diffuse alopecia in women: its unexplained apparent increase in incidence. Sulzberger MB, Witten VH, Kopf AW. AMA Arch Derm. 1960;81:556\u2013560.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "13835674"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "L\u2019effluvium t\u00e9log\u00e8ne actinique: une facette de la chronobiologie humaine. Pi\u00e9rard\u2010franchimont C, Pe\u00e9rard GE. Int J Cosmet Sci. 1999;21:15\u201321.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "18505526"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Trichodynia. Grimalt R, Ferrando J, Grimalt F. https://pubmed.ncbi.nlm.nih.gov/9621162/ Dermatology. 1998;196:374.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9621162"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Methods of hair loss evaluation: a comparison of TrichoScan((R)) with the modified wash test. Guarrera M, Fiorucci MC, Rebora A. Exp Dermatol. 2013;22:482\u2013484.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "23800060"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "The hair pull test and the hair pluck for analysis of hair abnormalities. Chong A, Wade M, Sinclair R. Modern Med Australia. 1999;42:105\u2013110."
+                        },
+                        {
+                            "Citation": "Phototrichogram. Dhurat R. Indian J Dermatol Venereol Leprol. 2006;72:242\u2013244.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16766847"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "TrichoScan: combining epiluminescence microscopy with digital image analysis for the measurement of hair growth in vivo. Hoffmann R. https://www.ncbi.nlm.nih.gov/pubmed/11399546. Eur J Dermatol. 2001;11:362\u2013368.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11399546"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "The reliability of horizontally sectioned scalp biopsies in the diagnosis of chronic diffuse telogen hair loss in women. Sinclair R, Jolley D, Mallari R, Magee J. J Am Acad Dermatol. 2004;51:189\u2013199.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15280836"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "The histopathology of noncicatricial alopecia. Eudy G, Solomon AR. Semin Cutan Med Surg. 2006;25:35\u201340.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16616301"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Shedding: how to manage a common cause of hair loss. Bergfeld WF, Mulinari-Brenner F. https://europepmc.org/article/med/11263854. Cleve Clin J Med. 2001;68:256\u2013261.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11263854"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Approach to office visits for hair loss in women. McMichael A. https://www.ncbi.nlm.nih.gov/pubmed/21323092. Cutis. 2011;87:8\u20139.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "21323092"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "The effects of tea polyphenolic compounds on hair loss among rodents. Esfandiari A, Kelly AP. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2576011/ J Natl Med Assoc. 2005;97:1165\u20131169.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2576011"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "16173333"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Trichodynia: a review of the literature. Rebora A. Int J Dermatol. 2016;55:382\u2013384.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26696219"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Telogen effluvium. Rebora A. Dermatology. 1997;195:209\u2013212.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9407163"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "A novel cosmetic approach to treat thinning hair. Davis MG, Thomas JH, Van de Velde S, Boissy Y, Dawson Jr TL, Iveson R, Sutton K. Br J Dermatol. 2011;165:24\u201330.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22171682"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

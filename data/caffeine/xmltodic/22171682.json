@@ -1,0 +1,471 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "22171682"
+                },
+                "DateCompleted": {
+                    "Year": "2012",
+                    "Month": "02",
+                    "Day": "09"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "11"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1365-2133"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "165 Suppl 3",
+                            "PubDate": {
+                                "Year": "2011",
+                                "Month": "Dec"
+                            }
+                        },
+                        "Title": "The British journal of dermatology",
+                        "ISOAbbreviation": "Br J Dermatol"
+                    },
+                    "ArticleTitle": "A novel cosmetic approach to treat thinning hair.",
+                    "Pagination": {
+                        "StartPage": "24",
+                        "EndPage": "30",
+                        "MedlinePgn": "24-30"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/j.1365-2133.2011.10633.x"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Many of today's treatments associated with 'thinning hair', such as female pattern hair loss and telogen effluvium, are focused on two of the key aspects of the condition. Over-the-counter or prescription medications are often focused on improving scalp hair density while high-quality cosmetic products work to prevent further hair damage and minimize mid-fibre breakage. Fibre diameter is another key contributor to thinning hair, but it is less often the focus of medical or cosmetic treatments."
+                            },
+                            {
+                                "@Label": "OBJECTIVES",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "To examine the ability of a novel leave-on technology combination [caffeine, niacinamide, panthenol, dimethicone and an acrylate polymer (CNPDA)] to affect the diameter and behaviour of individual terminal scalp hair fibres as a new approach to counteract decreasing fibre diameters."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Testing methodology included fibre diameter measures via laser scan micrometer, assessment of fibre mechanical and behavioural properties via tensile break stress and torsion pendulum testing, and mechanistic studies including cryoscanning electron microscopy and autoradiographic analysis."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "CNPDA significantly increased the diameter of individual, existing terminal scalp hair fibres by 2-5 \u03bcm, which yields an increase in the cross-sectional area of approximately 10%. Beyond the diameter increase, the CNPDA-thickened fibres demonstrated the altered mechanical properties characteristic of thicker fibres: increased suppleness/pliability (decreased shear modulus) and better ability to withstand force without breaking (increased break stress)."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Although cosmetic treatments will not reverse the condition, this new approach may help to mitigate the effects of thinning hair."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2011 Procter & Gamble. BJD \u00a9 2011 British Association of Dermatologists."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Davis",
+                                "ForeName": "M G",
+                                "Initials": "MG",
+                                "AffiliationInfo": {
+                                    "Affiliation": "P&G Beauty & Grooming Research and Development, Sharon Woods Innovation Center, 11511 Reed Hartman Highway, Cincinnati, OH 45241, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Thomas",
+                                "ForeName": "J H",
+                                "Initials": "JH"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "van de Velde",
+                                "ForeName": "S",
+                                "Initials": "S"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Boissy",
+                                "ForeName": "Y",
+                                "Initials": "Y"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Dawson",
+                                "ForeName": "T L",
+                                "Initials": "TL",
+                                "Suffix": "Jr"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Iveson",
+                                "ForeName": "R",
+                                "Initials": "R"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sutton",
+                                "ForeName": "K",
+                                "Initials": "K"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Dermatol",
+                    "NlmUniqueID": "0004041",
+                    "ISSNLinking": "0007-0963"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000179",
+                                "#text": "Acrylates"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D004129",
+                                "#text": "Dimethylpolysiloxanes"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D004338",
+                                "#text": "Drug Combinations"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D006203",
+                                "#text": "Hair Preparations"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "19F5HK2737",
+                            "NameOfSubstance": {
+                                "@UI": "D010205",
+                                "#text": "Pantothenic Acid"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "1O6C93RI7Z",
+                            "NameOfSubstance": {
+                                "@UI": "C007288",
+                                "#text": "dexpanthenol"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "25X51I8RD4",
+                            "NameOfSubstance": {
+                                "@UI": "D009536",
+                                "#text": "Niacinamide"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "92RU3N3Y1O",
+                            "NameOfSubstance": {
+                                "@UI": "C501844",
+                                "#text": "dimethicone"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "J94PBK7X8S",
+                            "NameOfSubstance": {
+                                "@UI": "C036658",
+                                "#text": "acrylic acid"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000179",
+                                "@MajorTopicYN": "N",
+                                "#text": "Acrylates"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "N",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000188",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug therapy"
+                                },
+                                {
+                                    "@UI": "Q000473",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "pathology"
+                                },
+                                {
+                                    "@UI": "Q000503",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "physiopathology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001345",
+                                "@MajorTopicYN": "N",
+                                "#text": "Autoradiography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "N",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016022",
+                                "@MajorTopicYN": "N",
+                                "#text": "Case-Control Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004129",
+                                "@MajorTopicYN": "N",
+                                "#text": "Dimethylpolysiloxanes"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "N",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004338",
+                                "@MajorTopicYN": "N",
+                                "#text": "Drug Combinations"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000473",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "pathology"
+                                },
+                                {
+                                    "@UI": "Q000502",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "physiology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006203",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Preparations"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008855",
+                                "@MajorTopicYN": "N",
+                                "#text": "Microscopy, Electron, Scanning"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D009536",
+                                "@MajorTopicYN": "N",
+                                "#text": "Niacinamide"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "N",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010205",
+                                "@MajorTopicYN": "N",
+                                "#text": "Pantothenic Acid"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000031",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "analogs & derivatives"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012536",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp Dermatoses"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000188",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug therapy"
+                                },
+                                {
+                                    "@UI": "Q000473",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "pathology"
+                                },
+                                {
+                                    "@UI": "Q000503",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "physiopathology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013718",
+                                "@MajorTopicYN": "N",
+                                "#text": "Tensile Strength"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000502",
+                                "@MajorTopicYN": "N",
+                                "#text": "physiology"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2011",
+                            "Month": "12",
+                            "Day": "17",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2011",
+                            "Month": "12",
+                            "Day": "30",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2012",
+                            "Month": "2",
+                            "Day": "10",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "22171682"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/j.1365-2133.2011.10633.x"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

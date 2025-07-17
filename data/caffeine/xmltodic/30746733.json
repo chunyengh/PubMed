@@ -1,0 +1,1559 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "30746733"
+                },
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "13"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "04",
+                    "Day": "08"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1468-2494"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "41",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Apr"
+                            }
+                        },
+                        "Title": "International journal of cosmetic science",
+                        "ISOAbbreviation": "Int J Cosmet Sci"
+                    },
+                    "ArticleTitle": "Transepidermal UV radiation of scalp skin ex\u00a0vivo induces hair follicle damage that is alleviated by the topical treatment with caffeine.",
+                    "Pagination": {
+                        "StartPage": "164",
+                        "EndPage": "182",
+                        "MedlinePgn": "164-182"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/ics.12521"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "OBJECTIVES",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "Although the effect of ultraviolet radiation (UVR) on human skin has been extensively studied, very little is known on how UVR impacts on hair follicle (HF) homeostasis. Here, we investigated how solar spectrum UVR that hits the human skin surface impacts on HF biology, and whether any detrimental effects can be mitigated by a widely used cosmetic and nutraceutical ingredient, caffeine."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "sup": [
+                                    "2",
+                                    "2",
+                                    "2",
+                                    "2",
+                                    "2",
+                                    "2"
+                                ],
+                                "#text": "Human scalp skin with terminal HFs was irradiated transepidermally ex\u00a0vivo using either 10\u00a0J/cm UVA (340-440\u00a0nm)\u00a0+\u00a020 mJ/cm UVB (290-320 nm) (low dose) or 50\u00a0J/cm UVA + 50 mJ/cm UVB (high dose) and organ-cultured under serum-free conditions for 1 or 3\u00a0days. 0.1% caffeine (5.15\u00a0mmol/L) was topically applied for 3\u00a0days prior to UV exposure with 40\u00a0J/cm UVA + 40 mJ/cm UVB and for 3\u00a0days after UVR. The effects on various toxicity and vitality read-out parameters were measured in defined skin and HF compartments."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Consistent with previous results, transepidermal UVR exerted skin cytotoxicity and epidermal damage. Treatment with high and/or low UVA+UVB doses also induced oxidative DNA damage and cytotoxicity in human HFs. In addition, it decreased proliferation and promoted apoptosis of HF outer root sheath (ORS) and hair matrix (HM) keratinocytes, stimulated catagen development, differentially regulated the expression of HF growth factors, and induced perifollicular mast cell degranulation. UVR-mediated HF damage was more severe after irradiation with high UVR dose and reached also proximal HF compartments. The topical application of 0.1% caffeine did not induce skin or HF cytotoxicity and stimulated the expression of IGF-1 in the proximal HF ORS. However, it promoted keratinocyte apoptosis in selected HF compartments. Moreover, caffeine provided protection towards UVR-mediated HF cytotoxicity and dystrophy, keratinocyte apoptosis, and tendential up-regulation of the catagen-promoting growth factor."
+                            },
+                            {
+                                "@Label": "CONCLUSION",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Our study highlights the clinical relevance of our scalp UV irradiation ex\u00a0vivo assay and provides the first evidence that transepidermal UV radiation negatively affects important human HF functions. This suggests that it is a sensible prophylactic strategy to integrate agents such as caffeine that can act as HF photoprotectants into sun-protective cosmeceutical and nutraceutical formulations."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2019 The Authors. International Journal of Cosmetic Science published by John Wiley & Sons Ltd on behalf of Society of Cosmetic Scientists and the Soci\u00e9t\u00e9 Fran\u00e7aise de Cosm\u00e9tologie."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Gherardini",
+                                "ForeName": "Jennifer",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Wegner",
+                                "ForeName": "Jeannine",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ch\u00e9ret",
+                                "ForeName": "J\u00e9r\u00e9my",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ghatak",
+                                "ForeName": "Sushmita",
+                                "Initials": "S",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Lehmann",
+                                "ForeName": "Janin",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Alam",
+                                "ForeName": "Majid",
+                                "Initials": "M",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Mediteknia Skin & Hair Lab, Universidad Fernando Pessoa Canarias, and Medical Pathology Group, IUIBS, Universidad de Las Palmas de Gran Canaria, Las Palmas, Spain."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Jimenez",
+                                "ForeName": "Francisco",
+                                "Initials": "F",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Mediteknia Skin & Hair Lab, Universidad Fernando Pessoa Canarias, and Medical Pathology Group, IUIBS, Universidad de Las Palmas de Gran Canaria, Las Palmas, Spain."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Funk",
+                                "ForeName": "Wolfgang",
+                                "Initials": "W",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Clinic for Plastic, Aesthetic and Reconstructive Surgery Dr. med. Funk, Munich, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "B\u00f6hm",
+                                "ForeName": "Markus",
+                                "Initials": "M",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, University of Muenster, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Botchkareva",
+                                "ForeName": "Natalia V",
+                                "Initials": "NV",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ward",
+                                "ForeName": "Chris",
+                                "Initials": "C",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Paus",
+                                "ForeName": "Ralf",
+                                "Initials": "R",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Centre for Dermatology Research, University of Manchester, and NIHR Manchester Biomedical Research Centre, Manchester, United Kingdom."
+                                    },
+                                    {
+                                        "Affiliation": "Dr. Phillip Frost Department of Dermatology & Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Bertolini",
+                                "ForeName": "Marta",
+                                "Initials": "M",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-5927-6998"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Monasterium Laboratory GmbH, Muenster, Germany."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": {
+                            "Agency": "DR. KURT WOLFF GMBH & CO. KG.",
+                            "Country": null
+                        }
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Cosmet Sci",
+                    "NlmUniqueID": "8007161",
+                    "ISSNLinking": "0142-5463"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "C583557",
+                                "#text": "IGF1 protein, human"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D016212",
+                                "#text": "Transforming Growth Factor beta"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "67763-96-6",
+                            "NameOfSubstance": {
+                                "@UI": "D007334",
+                                "#text": "Insulin-Like Growth Factor I"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000287",
+                                "@MajorTopicYN": "N",
+                                "#text": "Administration, Topical"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000368",
+                                "@MajorTopicYN": "N",
+                                "#text": "Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015550",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cell Degranulation"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000528",
+                                "@MajorTopicYN": "N",
+                                "#text": "radiation effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                },
+                                {
+                                    "@UI": "Q000528",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "radiation effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007334",
+                                "@MajorTopicYN": "N",
+                                "#text": "Insulin-Like Growth Factor I"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008407",
+                                "@MajorTopicYN": "N",
+                                "#text": "Mast Cells"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000528",
+                                "@MajorTopicYN": "N",
+                                "#text": "radiation effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                },
+                                {
+                                    "@UI": "Q000528",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "radiation effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012867",
+                                "@MajorTopicYN": "N",
+                                "#text": "Skin"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                },
+                                {
+                                    "@UI": "Q000528",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "radiation effects"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016212",
+                                "@MajorTopicYN": "N",
+                                "#text": "Transforming Growth Factor beta"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014466",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Ultraviolet Rays"
+                            }
+                        }
+                    ]
+                },
+                "OtherAbstract": {
+                    "@Type": "Publisher",
+                    "@Language": "fre",
+                    "AbstractText": [
+                        {
+                            "@Label": "OBJECTIFS",
+                            "@NlmCategory": "OBJECTIVE",
+                            "sup": [
+                                "2",
+                                "2",
+                                "2",
+                                "2",
+                                "2",
+                                "2"
+                            ],
+                            "#text": "Alors que l'effet de rayons ultraviolets (RUV) sur la peau humaine a \u00e9t\u00e9 largement \u00e9tudi\u00e9, on sait tr\u00e8s peu de choses de l'impact des UV sur l'hom\u00e9ostasie du follicule pileux (FP). Ici, nous avons \u00e9tudi\u00e9 l'effet du spectre des RUV solaires qui atteignent la surface de la peau humaine sur la biologie du FP, et si tout effet nocif peut \u00eatre att\u00e9nu\u00e9 par de la caf\u00e9ine, un ingr\u00e9dient cosm\u00e9tique et neutraceutique largement utilis\u00e9. M\u00c9THODES: Une peau de cuir chevelu humain avec ses FP terminaux a \u00e9t\u00e9 irradi\u00e9e ex\u00a0vivo via l\u2019\u00e9piderme soit par 10\u00a0J/cm d\u2019UVA (340-440\u00a0nm)\u00a0+\u00a020\u00a0mJ/cm d\u2019UVB (290-320\u00a0nm) (dose faible) soit par 50\u00a0J/cm d\u2019UVA\u00a0+\u00a050\u00a0mJ/cm d\u2019UVB (dose \u00e9lev\u00e9e) et plac\u00e9e en culture sans s\u00e9rum pendant 1 ou 3 jours. 0,1% (5,15\u00a0mM) de caf\u00e9ine a \u00e9t\u00e9 appliqu\u00e9e par voie topique pendant 3\u00a0jours avant l'exposition aux UV \u00e0 raison de 40\u00a0J/cm d\u2019UVA\u00a0+\u00a040\u00a0mJ/cm UVB et pendant 3\u00a0jours apr\u00e8s l'exposition aux RUV. Les effets sur divers param\u00e8tres de toxicit\u00e9 et de vitalit\u00e9 ont \u00e9t\u00e9 mesur\u00e9s au niveau de compartiments d\u00e9finis de la peau et des FP. R\u00c9SULTATS: Coh\u00e9rent avec les r\u00e9sultats pr\u00e9c\u00e9dents, les RUV trans\u00e9pidermique ont exerc\u00e9 une cytotoxicit\u00e9 au niveau de la peau et des l\u00e9sions \u00e9pidermiques. Le traitement par des doses \u00e9lev\u00e9es et/ou faibles d\u2019UVA+UVB a \u00e9galement induit des l\u00e9sions oxydatives de l\u2019ADN et une cytotoxicit\u00e9 au niveau des FP humains. En outre, il a diminu\u00e9 la prolif\u00e9ration et favoris\u00e9 l'apoptose de la gaine externe de la racine (ORS) du FP et des k\u00e9ratinocytes de la matrice des cheveux (MC), a stimul\u00e9 le d\u00e9veloppement de la phase catag\u00e8ne, a r\u00e9gul\u00e9 de mani\u00e8re diff\u00e9rentielle l'expression des facteurs de croissance des FP, et induit une d\u00e9granulation p\u00e9rifolliculaire des mastocytes. Les l\u00e9sions du FP m\u00e9di\u00e9es par les RUV \u00e9taient plus graves apr\u00e8s une irradiation par dose \u00e9lev\u00e9e de RUV et atteignaient \u00e9galement les compartiments proximaux du FP. L'application topique de 0,1\u00a0% de caf\u00e9ine n'a pas induit de cytotoxicit\u00e9 de la peau ou du FP et a stimul\u00e9 l'expression d\u2019IGF-1 dans la partie proximale de l\u2019ORS du FP. Cependant, elle a promu l'apoptose des k\u00e9ratinocytes dans certains compartiments de FP. En outre, la caf\u00e9ine a fourni une protection des FP contre la cytotoxicit\u00e9 et la dystrophie m\u00e9di\u00e9es par les RUV, l'apoptose des k\u00e9ratinocytes et une r\u00e9gulation \u00e0 tendance positive de l'effet catag\u00e8ne induit par le facteur de croissance."
+                        },
+                        {
+                            "@Label": "CONCLUSION",
+                            "@NlmCategory": "CONCLUSIONS",
+                            "#text": "Notre \u00e9tude souligne la pertinence clinique de notre dosage d'irradiation UV ex\u00a0vivo du cuir chevelu et fournit la premi\u00e8re preuve que le rayonnement UV trans\u00e9pidermique affecte n\u00e9gativement d'importantes fonctions du FP chez l'homme. Cela sugg\u00e8re que l'int\u00e9gration d'agents photoprotecteurs des FP tels que la caf\u00e9ine dans les formulations cosm\u00e9tiques et nutraceutiques des \u00e9crans solaires pourrait constituer une strat\u00e9gie prophylactique sens\u00e9e."
+                        }
+                    ],
+                    "CopyrightInformation": "\u00a9 2019 The Authors. International Journal of Cosmetic Science published by John Wiley & Sons Ltd on behalf of Society of Cosmetic Scientists and the Soci\u00e9t\u00e9 Fran\u00e7aise de Cosm\u00e9tologie."
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "UV radiation"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "caffeine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "delivery/vectorization/penetration"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ex\u00a0vivo model"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair growth"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair treatment"
+                        }
+                    ]
+                },
+                "CoiStatement": "M.Be., J.G., J.W., J.C., S.G., J.L. are or were employees of Monasterium Laboratory (ML) GmbH, M\u00fcnster, a biotech company performing contracted skin and hair research projects. ML was founded by R.P, and C.W. and N.B. serve as consultants for ML."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2018",
+                            "Month": "10",
+                            "Day": "4"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2019",
+                            "Month": "2",
+                            "Day": "7"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2019",
+                            "Month": "2",
+                            "Day": "13",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2019",
+                            "Month": "12",
+                            "Day": "18",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2019",
+                            "Month": "2",
+                            "Day": "13",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2019",
+                            "Month": "11",
+                            "Day": "12"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "30746733"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC6850087"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/ics.12521"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Dunaway, S. , Odin, R. , Zhou, L. , Ji, L. , Zhang, Y. and Kadekaro, A.L. Natural antioxidants: multiple mechanisms to protect skin from solar radiation. Front. Pharmacol. 9, 392 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5928335"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29740318"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "P\u00e9rez\u2010S\u00e1nchez, A. , Barraj\u00f3n\u2010Catal\u00e1n, E. , Herranz\u2010L\u00f3pez, M. and Micol, V . Nutraceuticals for skin care: a comprehensive review of human clinical studies. Nutrients. 10, E403 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5946188"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29587342"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Slominski, A.T. , Zmijewski, M.A. , Plonka, P.M. , Szaflarski, J.P. and Paus, R. How UV light touches the brain and endocrine system through skin, and why. Endocrinology 159, 1992\u20132007 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5905393"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29546369"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Garmyn, M. , Young, A.R. and Miller, S.A. Mechanisms of and variables affecting UVR photoadaptation in human skin. Photochem. Photobiol. Sci. 17, 1932\u20131940 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29926025"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "McDaniel, D. , Farris, P. and Valacchi, G. Atmospheric skin aging\u2010Contributors and inhibitors. J. Cosmet. Dermatol. 17, 124\u2013137 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29575554"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Jablonski, N.G. and Chaplin, G. The roles of vitamin D and cutaneous vitamin D production in human evolution and health. Int. J. Paleopathol. 23, 54\u201359 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29606375"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Kamenisch, Y. , Ivanova, I. , Drexler, K. and Berneburg, M. UVA, metabolism and melanoma: UVA makes melanoma hungry for metastasis. Exp. Dermatol. 27, 941\u2013949 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29658146"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Mullenders, L.H.F. Solar UV damage to cellular DNA: from mechanisms to biological effects. Photochem. Photobiol. Sci. 17, 1842\u20131852 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "30065996"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Janjetovic, Z. , Nahmias, Z.P. , Hanna, S. , Jarrett, S.G. , Kim, T.\u2010K. , Reiter, R.J. , Slominski, AT . Melatonin and its metabolites ameliorate ultraviolet B\u2010induced damage in human epidermal keratinocytes. J. Pineal Res. 57, 90\u2013102 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4106994"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24867336"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Janjetovic, Z. , Jarrett, S.G. , Lee, E.F. , Duprey, C. , Reiter, R.J. and Slominski, A.T. Melatonin and its metabolites protect human melanocytes against UVB\u2010induced damage: Involvement of NRF2\u2010mediated pathways. Sci. Rep. 7, 1274 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5430855"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28455491"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kleszczy\u0144ski, K. , Zwicker, S. , Tukaj, S. et\u00a0al Melatonin compensates silencing of heat shock protein 70 and suppresses ultraviolet radiation\u2010induced inflammation in human skin ex\u00a0vivo and cultured keratinocytes. J. Pineal Res. 58, 117\u2013126 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25424643"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Emri, G. , Paragh, G. , T\u00f3saki, \u00c1. et\u00a0al Ultraviolet radiation\u2010mediated development of cutaneous melanoma: an update. J. Photochem. Photobiol., B 185, 169\u2013175 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29936410"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Kwon, T.\u2010R. , Kim, J.H. , Hong, J.\u2010Y. et\u00a0al Irradiation with 310\u00a0nm and 340\u00a0nm ultraviolet light\u2010emitting\u2010diodes can improve atopic dermatitis\u2010like skin lesions in NC/Nga mice. Photochem. Photobiol. Sci. 17, 1127\u20131135 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "30019049"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Nguyen, N.T. and Fisher, D.E. MITF and UV responses in skin: from pigmentation to addiction. Pigment Cell Melanoma. Res. 32, 224\u2013236 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6336527"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30019545"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Pain, S. , Berth\u00e9l\u00e9my, N. , Naudin, C. , Degrave, V. and Andr\u00e9\u2010Frei, V. Understanding solar skin elastosis\u2010cause and treatment. J. Cosmet. Sci. 69, 175\u2013185 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "30052192"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Sondenheimer, K. and Krutmann, J. Novel means for photoprotection. Front. Med. (Lausanne). 5, 162 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5986962"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29896475"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Uco, D.P. , Leite\u2010Silva, V.R. , Silva, H.D.T. et\u00a0al UVA and UVB formulation phototoxicity in a three\u2010dimensional human skin model: photodegradation effect. Toxicol. In Vitro 26, 37\u201344 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "30055310"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Tr\u00fceb, R.M. The impact of oxidative stress on hair. Int. J. Cosmet. Sci. 37(Suppl 2), 25\u201330 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26574302"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Tr\u00fceb, R.M. Effect of ultraviolet radiation, smoking and nutrition on hair. Curr. Probl. Dermatol. 47, 107\u2013120 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26370649"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fran\u00e7a, K. , Castillo, D. , Tchernev, G. and Lotti, T. UVA\u20101 in the treatment of alopecia areata. Dermatol. Ther. 30, e12547 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "28834031"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Borgia, F. , Giuffrida, R. , Lentini, M. , Palazzo, R. and Cannav\u00f2, S.P. Follicular mucinosis with diffuse scalp alopecia treated with narrow\u2010band UVB phototherapy: the role of trichoscopy in monitoring therapeutic outcomes. G. Ital. Dermatol. Venereol. 151, 212\u2013215 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27068601"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Darwin, E. , Arora, H. , Hirt, P.A. , Wikramanayake, T.C. and Jimenez, J.J. A review of monochromatic light devices for the treatment of alopecia areata. Lasers Med. Sci. 33, 435\u2013444 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29250710"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Darwin, E. , Heyes, A. , Hirt, P.A. , Wikramanayake, T.C. and Jimenez, J.J. Low\u2010level laser therapy for the treatment of androgenic alopecia: a review. Lasers Med. Sci. 33, 425\u2013434 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29270707"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Braun, S. , Krampert, M. , Bod\u00f3, E. et\u00a0al Keratinocyte growth factor protects epidermis and hair follicles from cell death induced by UV irradiation, chemotherapeutic or cytotoxic agents. J. Cell Sci. 119, 4841\u20134849 (2006).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17090603"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Jeong, Y.\u2010M. , Sung, Y.K. , Kim, W.\u2010K. et\u00a0al Ultraviolet B preconditioning enhances the hair growth\u2010promoting effects of adipose\u2010derived stem cells via generation of reactive oxygen species. Stem Cells Dev. 22, 158\u2013168 (2013).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3528093"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22784094"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Johnson, B.E. Potentiation of hair\u2010growth by ultra\u2010violet light. Nature 9, 159\u2013160 (1960).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "14407422"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Johnson, B.E. and Daniels, F. Lysosomes and the reactions of skin to ultraviolet radiation. J. Invest. Dermatol. 53, 85\u201394 (1969).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "5804603"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "M\u00fcller\u2010R\u00f6ver, S. , Rossiter, H. , Paus, R. , Handjiski, B. , Peters, E.M. , Murphy, J.E. et\u00a0al Overexpression of Bcl\u20102 protects from ultraviolet B\u2010induced apoptosis but promotes hair follicle regression and chemotherapy\u2010induced alopecia. Am. J. Pathol. 156, 1395\u20131405 (2000).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1876869"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "10751363"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ferguson, B. , Kunisada, T. , Aoki, H. , Handoko, H.Y. and Walker, G.J. Hair follicle melanocyte precursors are awoken by ultraviolet radiation via a cell extrinsic mechanism. Photochem. Photobiol. Sci. 14, 1179\u20131189 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25966309"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Lu, Z. , Fischer, T.W. , Hasse, S. et\u00a0al Profiling the response of human hair follicles to ultraviolet radiation. J. Invest. Dermatol. 129, 1790\u20131804 (2009).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19158839"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Cha, H.J. , Kim, O.\u2010Y. , Lee, G.T. et\u00a0al Identification of ultraviolet B radiation\u2010induced microRNAs in normal human dermal papilla cells. Mol. Med. Rep. 10, 1663\u20131670 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4148374"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25069581"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lu, Z. , Hasse, S. , Bodo, E. , Rose, C. , Funk, W. and Paus, R. Towards the development of a simplified long\u2010term organ culture method for human scalp skin and its appendages under serum\u2010free conditions. Exp. Dermatol. 16, 37\u201344 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17181635"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bod\u00f3, E. , Kany, B. , G\u00e1sp\u00e1r, E. et\u00a0al Thyroid\u2010stimulating hormone, a novel, locally produced modulator of human epidermal functions, is regulated by thyrotropin\u2010releasing hormone and thyroid hormones. Endocrinology 151, 1633\u20131642 (2010).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20176727"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Vidali, S. , Ch\u00e9ret, J. , Giesen, M. et\u00a0al Thyroid hormones enhance mitochondrial function in human epidermis. J. Invest. Dermatol. 136, 2003\u20132012 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27349864"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Haslam, I.S. , Hardman, J.A. and Paus, R. Topically applied nicotinamide inhibits human hair follicle growth ex\u00a0vivo. J. Invest. Dermatol. 138, 1420\u20131422 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29287763"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Glady, A. , Tanaka, M. , Moniaga, C.S. , Yasui, M. and Hara\u2010Chikuma, M. Involvement of NADPH oxidase 1 in UVB\u2010induced cell signaling and cytotoxicity in human keratinocytes. Biochem. Biophys. Rep. 14, 7\u201315 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5986629"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29872728"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Bayerl, C. , Taake, S. , Moll, I. and Jung, E.G. Characterization of sunburn cells after exposure to ultraviolet light. Photodermatol. Photoimmunol. Photomed. 11, 149\u2013154 (1995).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8850247"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bod\u00f3, E. , Tobin, D.J. , Kamenisch, Y. et\u00a0al Dissecting the impact of chemotherapy on the human hair follicle: a pragmatic in\u00a0vitro assay for studying the pathogenesis and potential management of hair follicle dystrophy. Am. J. Pathol. 171, 1153\u20131167 (2007. Oct).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1988866"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17823286"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Langan, E.A. , Philpott, M.P. , Kloepper, J.E. and Paus, R. Human hair follicle organ culture: theory, application and perspectives. Exp. Dermatol. 24, 903\u2013911 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26284830"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Ol\u00e1h, A. , Gherardini, J. , Bertolini, M. et\u00a0al The thyroid hormone analogue KB2115 (Eprotirome) prolongs human hair growth (Anagen) ex\u00a0vivo. J. Invest. Dermatol. 136, 1711\u20131714 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27066887"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Purba, T.S. , Brunken, L. , Peake, M. et\u00a0al Characterisation of cell cycle arrest and terminal differentiation in a maximally proliferative human epithelial tissue: lessons from the human hair follicle matrix. Eur. J. Cell Biol. 96, 632\u2013641 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "28413121"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bertolini, M. , Zilio, F. , Rossi, A. et\u00a0al Abnormal interactions between perifollicular mast cells and CD8\u00a0+\u00a0T\u2010cells may contribute to the pathogenesis of alopecia areata. PLoS ONE 9, e94260 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4022513"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24832234"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Flori, E. , Mastrofrancesco, A. , Kovacs, D. et\u00a0al 2,4,6\u2010Octatrienoic acid is a novel promoter of melanogenesis and antioxidant defence in normal human melanocytes via PPAR\u2010\u03b3 activation. Pigment Cell Melanoma. Res. 24, 618\u2013630 (2011).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "21762468"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bussoletti, C. , Tolaini, M.V. and Celleno, L. Efficacy of a cosmetic phyto\u2010caffeine shampoo in female androgenetic alopecia. G Ital Dermatol Venereol. [Epub ahead of print] (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29512972"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Davis, M.G. , Thomas, J.H. , van de Velde, S. et\u00a0al A novel cosmetic approach to treat thinning hair. Br. J. Dermatol. 165, 24\u201330 (2011).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22171682"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Jung, I.K. , Park, S.C. , Lee, Y.R. et\u00a0al Development of a stiffness\u2010angle law for simplifying the measurement of human hair stiffness. Int. J. Cosmet. Sci. 40, 157\u2013164 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29369367"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Abe, A. , Saito, M. , Kadhum, W.R. , Todo, H. and Sugibayashi, K. Establishment of an evaluation method to detect drug distribution in hair follicles. Int. J. Pharm. 542, 27\u201335 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29471145"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Otberg, N. , Patzelt, A. , Rasulev, U. et\u00a0al The role of hair follicles in the percutaneous absorption of caffeine. Br. J. Clin. Pharmacol. 65, 488\u2013492 (2008. Apr).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2291387"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "18070215"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Otberg, N. , Teichmann, A. , Rasuljev, U. , Sinkgraven, R. , Sterry, W. and Lademann, J. Follicular penetration of topically applied caffeine via a shampoo formulation. Skin Pharmacol. Physiol. 20, 195\u2013198 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17396054"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Trauer, S. , Patzelt, A. , Otberg, N. et\u00a0al Permeation of topically applied caffeine through human skin \u2013 a comparison of in\u00a0vivo and in\u00a0vitro data. Br. J. Clin. Pharmacol. 68, 181\u2013186 (2009).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2767280"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19694736"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Trauer, S. , Lademann, J. , Knorr, F. et\u00a0al Development of an in\u00a0vitro modified skin absorption test for the investigation of the follicular penetration pathway of caffeine. Skin Pharmacol. Physiol. 23, 320\u2013327 (2010).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20588083"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Conney, A.H. , Lu, Y.\u2010P. , Lou, Y.\u2010R. and Huang, M.\u2010T. Inhibitory effects of tea and caffeine on UV\u2010induced carcinogenesis: relationship to enhanced apoptosis and decreased tissue fat. Eur. J. Cancer Prev. 11(Suppl 2), S28\u2013S36 (2002).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "12570332"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hebbar, S.A. , Mitra, A.K. , George, K.C. and Verma, N.C. Caffeine ameliorates radiation\u2010induced skin reactions in mice but does not influence tumour radiation response. J. Radiol. Prot. 22, 63\u201369 (2002).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11929115"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Heffernan, T.P. , Kawasumi, M. , Blasina, A. , Anderes, K. , Conney, A.H. and Nghiem, P. ATR\u2010Chk1 pathway inhibition promotes apoptosis after UV treatment in primary human keratinocytes: potential basis for the UV protective effects of caffeine. J. Invest. Dermatol. 129, 1805\u20131815 (2009).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2829385"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19242509"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "McDaniel, D.H. , Mazur, C. , Wortzman, M.S. and Nelson, D.B . Efficacy and tolerability of a double\u2010conjugated retinoid cream vs 1.0% retinol cream or 0.025% tretinoin cream in subjects with mild to severe photoaging. J. Cosmet. Dermatol. 16, 542\u2013548 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "28762645"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Zajdela, F. and Latarjet, R. Inhibition of skin carcinogenesis in\u00a0vivo by caffeine and other agents. Natl Cancer Inst. Monogr. 50, 133\u2013140 (1978).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "753971"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fischer, T.W. , Hipler, U.C. and Elsner, P. Effect of caffeine and testosterone on the proliferation of human hair follicles in\u00a0vitro. Int. J. Dermatol. 46, 27\u201335 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17214716"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fischer, T.W. , Herczeg\u2010Lisztes, E. , Funk, W. , Zillikens, D. , B\u00edr\u00f3, T. and Paus, R. Differential effects of caffeine on hair shaft elongation, matrix and outer root sheath keratinocyte proliferation, and transforming growth factor\u2010\u03b22/insulin\u2010like growth factor\u20101\u2010mediated regulation of the hair cycle in male and female human hair follicles in\u00a0vitro. Br. J. Dermatol. 171, 1031\u20131043 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "24836650"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Herman, A. and Herman, A.P. Caffeine's mechanisms of action and its cosmetic use. Skin Pharmacol. Physiol. 26, 8\u201314 (2013).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "23075568"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Dhurat, R. , Chitallia, J. , May, T.W. et\u00a0al An open\u2010label randomized multicenter study assessing the noninferiority of a caffeine\u2010based topical liquid 0.2% versus minoxidil 5% solution in male androgenetic alopecia. Skin Pharmacol Physiol. 30, 298\u2013305 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5804833"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29055953"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Alonso, C. , Carrer, V. , Barba, C. and Coderch, L. Caffeine delivery in porcine skin: a confocal Raman study. Arch. Dermatol. Res. 310, 657\u2013664 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "30105449"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Paus, R. , Rosenbach, T. , Haas, N. and Czarnetzki, B.M. Patterns of cell death: the significance of apoptosis for dermatology. Exp. Dermatol. 2, 3\u201311 (1993).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8156168"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Lin, J.Y. and Fisher, D.E. Melanocyte biology and skin pigmentation. Nature 445, 843\u2013850 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17314970"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Oh, J.W. , Kloepper, J. , Langan, E.A. et\u00a0al A guide to studying human hair follicle cycling in\u00a0vivo. J. Invest. Dermatol. 136, 34\u201344 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4785090"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26763421"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Samuelov, L. , Kinori, M. , Bertolini, M. and Paus, R. Neural controls of human hair growth: calcitonin gene\u2010related peptide (CGRP) induces catagen. J. Dermatol. Sci. 67, 153\u2013155 (2012).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22677443"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Mamalis, A. , Fiadorchanka, N. , Adams, L. et\u00a0al An immunohistochemical panel to assess ultraviolet radiation\u2010associated oxidative skin injury. J. Drugs Dermatol. 13, 574\u2013578 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4392816"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24809881"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fern\u00e1ndez, E. , Barba, C. , Alonso, C. , Mart\u00ed, M. , Parra, J.L. and Coderch, L. Photodamage determination of human hair. J. Photochem. Photobiol., B 5, 101\u2013106 (2012).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22119660"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Chen, C. , Xu, Y. and Song, Y. IGF\u20101 gene\u2010modified muscle\u2010derived stem cells are resistant to oxidative stress via enhanced activation of IGF\u20101R/PI3K/AKT signaling and secretion of VEGF. Mol. Cell. Biochem. 386, 167\u2013175 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "24126783"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Tarantini, S. , Valcarcel\u2010Ares, N.M. , Yabluchanskiy, A. et\u00a0al Insulin\u2010like growth factor 1 deficiency exacerbates hypertension\u2010induced cerebral microhemorrhages in mice, mimicking the aging phenotype. Aging Cell 16, 469\u2013479 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5418199"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28295976"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Xu, L. , Zhang, W. , Sun, R. et\u00a0al IGF\u20101 may predict the severity and outcome of patients with sepsis and be associated with microRNA\u20101 level changes. Exp. Ther. Med. 14, 797\u2013804 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5488740"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28673002"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Paus, R. , Maurer, M. , Slominski, A. and Czarnetzki, B.M. Mast cell involvement in murine hair growth. Dev. Biol. 163, 230\u2013240 (1994).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8174779"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Maurer, M. , Fischer, E. , Handjiski, B. et\u00a0al Activated skin mast cells are involved in murine hair follicle regression (catagen). Lab. Invest. 77, 319\u2013332 (1997).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9354767"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Peters, E.M.J. , Liotiri, S. , Bod\u00f3, E. et\u00a0al Probing the effects of stress mediators on the human hair follicle: substance P holds central position. Am. J. Pathol. 171, 1872\u20131886 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2111110"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "18055548"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Jadkauskaite, L. , Bahri, R. , Farjo, N. et\u00a0al Nuclear factor (erythroid\u2010derived 2)\u2010like\u20102 pathway modulates substance P\u2010induced human mast cell activation and degranulation in the hair follicle. J. Allergy Clin. Immunol. 142, 1331\u20131333 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29859202"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Kim, M.\u2010S. , Kim, Y.K. , Lee, D.H. et\u00a0al Acute exposure of human skin to ultraviolet or infrared radiation or heat stimuli increases mast cell numbers and tryptase expression in human skin in\u00a0vivo. Br. J. Dermatol. 160, 393\u2013402 (2009).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "18795915"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Siiskonen, H. , Smorodchenko, A. , Krause, K. and Maurer, M. Ultraviolet radiation and skin mast cells: effects, mechanisms and relevance for skin diseases. Exp. Dermatol. 27, 3\u20138 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "28677275"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Del Pozo, J. , Pimentel, M.T.Y. , Paradela, S. , Almagro, M. , Mart\u00ednez, W. and Fonseca, E. Anetodermic mastocytosis: response to PUVA therapy. J. Dermatolog. Treat. 18, 184\u2013187 (2007).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17538809"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Conney, A.H. , Lu, Y.\u2010P. , Lou, Y.\u2010R. , Kawasumi, M. and Nghiem, P. Mechanisms of caffeine\u2010induced inhibition of UVB carcinogenesis. Front. Oncol. 3, 144 (2013).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3683821"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23785666"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Balasaraswathy, P. , Kumar, U. , Srinivas, C.R. and Nair, S. UVA and UVB in sunlight, optimal utilization of UV rays in sunlight for phototherapy. Indian J. Dermatol. Venereol. Leprol. 68, 198\u2013201 (2002).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17656935"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Ichihashi, M. and Ando, H. The maximal cumulative solar UVB dose allowed to maintain healthy and young skin and prevent premature photoaging. Exp. Dermatol. 23(Suppl 1), 43\u201346 (2014).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25234836"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Moyal, D. , Chardon, A. and Kollias, N . UVA protection efficacy of sunscreens can be determined by the persistent pigment darkening (PPD) method. (Part 2). Photodermatol. Photoimmunol. Photomed. 16, 250\u2013255 (2000).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11132127"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "O'Neill, C.M. , Kazantzidis, A. , Ryan, M.J. et\u00a0al Seasonal changes in vitamin D\u2010effective UVB availability in Europe and associations with population serum 25\u2010hydroxyvitamin D. Nutrients. 8, E533 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5037520"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27589793"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Dario, M.F. , Baby, A.R. and Velasco, M.V.R. Effects of solar radiation on hair and photoprotection. J. Photochem. Photobiol., B 153, 240\u2013246 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26454659"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Huang, X. , Protheroe, M.D. , Al\u2010Jumaily, A.M. , Paul, S.P. and Chalmers, A.N. Review of human hair optical properties in possible relation to melanoma development. J. Biomed. Opt. 23, 1\u20139 (2018).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "29752798"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Marsh, J.M. , Davis, M.G. , Lucas, R.L. et\u00a0al Preserving fibre health: reducing oxidative stress throughout the life of the hair fibre. Int. J. Cosmet. Sci. 37(Suppl 2), 16\u201324 (2015).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26574301"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "B\u00e4sler, K. , Bergmann, S. , Heisig, M. , Naegel, A. , Zorn\u2010Kruppa, M. and Brandner, J.M. The role of tight junctions in skin barrier function and dermal absorption. J. Control Release. 28, 105\u2013118 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27521894"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Dahlhoff, M , Camera, E , Sch\u00e4fer, M et\u00a0al Sebaceous lipids are essential for water repulsion, protection against UVB\u2010induced apoptosis and ocular integrity in mice. Development. 143, 1823\u20131831 (2016).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26989175"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Stough, D. , Stenn, K. , Haber, R. et\u00a0al Psychological effect, pathophysiology, and management of androgenetic alopecia in men. Mayo Clin. Proc. 80, 1316\u20131322 (2005).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16212145"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Salomone, F. , Galvano, F. and Li Volti, G. Molecular bases underlying the hepatoprotective effects of coffee. Nutrients. 9, E85 (2017).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5295129"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28124992"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kokot, A. , Metze, D. , Mouchet, N. et\u00a0al Alpha\u2010melanocyte\u2010stimulating hormone counteracts the suppressive effect of UVB on Nrf2 and Nrf\u2010dependent gene expression in human skin. Endocrinology 150, 3197\u20133206 (2009).",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2703531"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19282378"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "B\u00f6hm, M. , Wolff, I. , Scholzen, T.E. et\u00a0al alpha\u2010Melanocyte\u2010stimulating hormone protects from ultraviolet radiation\u2010induced apoptosis and DNA damage. J. Biol. Chem. 280, 5795\u20135802 (2005).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15569680"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Harries, M.J. , Meyer, K. , Chaudhry, I. , EKloepper, J. , Poblet, E. , Griffiths, C.E. , Paus, R . Lichen planopilaris is characterized by immune privilege collapse of the hair follicle's epithelial stem cell niche. J. Pathol. 231, 236\u2013247 (2013).",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "23788005"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

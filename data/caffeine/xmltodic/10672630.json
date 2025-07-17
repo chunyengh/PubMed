@@ -1,0 +1,374 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "10672630"
+                },
+                "DateCompleted": {
+                    "Year": "2000",
+                    "Month": "03",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "07",
+                    "Day": "26"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0033-3158"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "147",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "2000",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "Psychopharmacology",
+                        "ISOAbbreviation": "Psychopharmacology (Berl)"
+                    },
+                    "ArticleTitle": "Caffeine withdrawal increases cerebral blood flow velocity and alters quantitative electroencephalography (EEG) activity.",
+                    "Pagination": {
+                        "StartPage": "371",
+                        "EndPage": "377",
+                        "MedlinePgn": "371-7"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "RATIONALE",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Cessation of daily caffeine consumption produces a withdrawal syndrome comprised of subjective symptoms and functional impairment. Few controlled studies have examined the physiological effects of caffeine withdrawal."
+                            },
+                            {
+                                "@Label": "OBJECTIVE",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "The present study examined the effect of caffeine withdrawal on cerebral blood flow velocity and quantitative EEG."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Ten volunteers reporting moderate caffeine intake (mean 333 mg/day) participated in this double-blind study. Subjects completed several tests when maintaining their normal diet (baseline period) and during two 1-day periods during which they consumed caffeine-free diets and received capsules containing placebo (placebo test session) or caffeine (caffeine test session) in amounts equal to their baseline daily caffeine consumption. Blood flow velocity was determined for four arteries: right and left middle (MCA), and right and left anterior (ACA) cerebral arteries using pulsed transcranial Doppler sonography. EEG was recorded for 3 min from eight scalp sites while subjects sat, with eyes closed, in a sound-attenuated electronically shielded chamber. Subjective effects were assessed with questionnaires."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Results showed an effect of the placebo (21-h withdrawal) condition compared to the caffeine condition. Placebo significantly increased the mean velocity, systolic velocity and diastolic velocity (cm/s) in all four cerebral arteries. In the MCA, the pulsatility index was significantly decreased following placebo. Placebo significantly increased EEG theta power. Placebo also produces subjective effect changes, including increases in heavy feelings in arms and legs and decreases in ability to concentrate. The caffeine and baseline conditions produced similar results on both the physiological and subjective measures."
+                            },
+                            {
+                                "@Label": "CONCLUSION",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Cessation of daily caffeine consumption produced changes in cerebral blood flow velocity and quantitative EEG. These changes may be related to classic caffeine withdrawal symptoms of headache, drowsiness and decreased alertness."
+                            }
+                        ]
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Jones",
+                                "ForeName": "H E",
+                                "Initials": "HE",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, MD 21224-6823, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Herning",
+                                "ForeName": "R I",
+                                "Initials": "RI"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Cadet",
+                                "ForeName": "J L",
+                                "Initials": "JL"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Griffiths",
+                                "ForeName": "R R",
+                                "Initials": "RR"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": [
+                            {
+                                "GrantID": "R01 DA-03890",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "T32-DA07209",
+                                "Acronym": "DA",
+                                "Agency": "NIDA NIH HHS",
+                                "Country": "United States"
+                            }
+                        ]
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            },
+                            {
+                                "@UI": "D013487",
+                                "#text": "Research Support, U.S. Gov't, P.H.S."
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Germany",
+                    "MedlineTA": "Psychopharmacology (Berl)",
+                    "NlmUniqueID": "7608025",
+                    "ISSNLinking": "0033-3158"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000339",
+                                "@MajorTopicYN": "N",
+                                "#text": "Affect"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020771",
+                                "@MajorTopicYN": "N",
+                                "#text": "Anterior Cerebral Artery"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000502",
+                                "@MajorTopicYN": "N",
+                                "#text": "physiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000009",
+                                "@MajorTopicYN": "Y",
+                                "#text": "adverse effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000009",
+                                "@MajorTopicYN": "Y",
+                                "#text": "adverse effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002560",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cerebrovascular Circulation"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000502",
+                                "@MajorTopicYN": "Y",
+                                "#text": "physiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004311",
+                                "@MajorTopicYN": "N",
+                                "#text": "Double-Blind Method"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Electroencephalography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020768",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Cerebral Artery"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000502",
+                                "@MajorTopicYN": "N",
+                                "#text": "physiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011597",
+                                "@MajorTopicYN": "N",
+                                "#text": "Psychomotor Performance"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013375",
+                                "@MajorTopicYN": "N",
+                                "#text": "Substance Withdrawal Syndrome"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000503",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "physiopathology"
+                                },
+                                {
+                                    "@UI": "Q000523",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "psychology"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2000",
+                            "Month": "2",
+                            "Day": "15",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2000",
+                            "Month": "4",
+                            "Day": "1",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2000",
+                            "Month": "2",
+                            "Day": "15",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "10672630"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1007/s002130050005"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

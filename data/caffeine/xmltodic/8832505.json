@@ -1,0 +1,324 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "8832505"
+                },
+                "DateCompleted": {
+                    "Year": "1997",
+                    "Month": "01",
+                    "Day": "30"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "07",
+                    "Day": "10"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0022-3573"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "48",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "1996",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "The Journal of pharmacy and pharmacology",
+                        "ISOAbbreviation": "J Pharm Pharmacol"
+                    },
+                    "ArticleTitle": "The measurement of caffeine concentration in scalp hair as an indicator of liver function.",
+                    "Pagination": {
+                        "StartPage": "660",
+                        "EndPage": "664",
+                        "MedlinePgn": "660-4"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Caffeine concentration in plasma and scalp hair has been determined for subjects consuming normal daily amounts of caffeine and the results used as an indicator of individual hepatic metabolic capacity. Daily exposure to caffeine was assessed in six healthy Japanese volunteers by direct HPLC measurement of the concentrations of caffeine in aliquots of all caffeine-containing beverages consumed by the subjects. The measurements were repeated on three different occasions for each subject and caffeine consumption (mean +/- s.d.) was calculated as 178.0 +/- 84.3 mg day-1 with an intra-individual variability of 23.8 +/- 6.3% as coefficient of variation. A survey of daily caffeine consumption in 121 adult Japanese by means of a questionnaire revealed a similar value (231.8 +/- 177.8 mg day-1). Caffeine concentration in the plasma sampled during an overnight caffeine-free interval was measured by HPLC and a comparison made between healthy subjects and patients with liver disease (0.71 +/- 0.32, 0.77 +/- 0.45 and 3.92 +/- 1.91 micrograms mL-1 for healthy volunteers (n = 6), patients with hepatitis (n = 11) and those with liver cirrhosis (n = 4), respectively). Strands of scalp hair were collected from six healthy subjects and six patients with liver cirrhosis. Caffeine in hair was identified and measured by gas chromatography-mass spectrometry after digestion of the hair matrix with protease and extraction of the caffeine with chloroform. Caffeine concentration in hair collected from patients with liver cirrhosis (26.5 +/- 5.04 ng mg-1 hair) was significantly higher than that in hair sampled from healthy subjects (7.21 +/- 3.11 ng mg-1). These findings suggest that the determination of caffeine concentration in the plasma and hair of subjects consuming normal daily amounts of caffeine-containing beverages provides a practical assessment of individual liver metabolic capacity."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Mizuno",
+                                "ForeName": "A",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmacology, Hamamatsu University School of Medicine, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Uematsu",
+                                "ForeName": "T",
+                                "Initials": "T"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Gotoh",
+                                "ForeName": "S",
+                                "Initials": "S"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Katoh",
+                                "ForeName": "E",
+                                "Initials": "E"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Nakashima",
+                                "ForeName": "M",
+                                "Initials": "M"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Pharm Pharmacol",
+                    "NlmUniqueID": "0376363",
+                    "ISSNLinking": "0022-3573"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D007202",
+                                "#text": "Indicators and Reagents"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D010726",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000032",
+                                "@MajorTopicYN": "Y",
+                                "#text": "analysis"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008401",
+                                "@MajorTopicYN": "N",
+                                "#text": "Gas Chromatography-Mass Spectrometry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007202",
+                                "@MajorTopicYN": "N",
+                                "#text": "Indicators and Reagents"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007564",
+                                "@MajorTopicYN": "N",
+                                "@Type": "Geographic",
+                                "#text": "Japan"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008103",
+                                "@MajorTopicYN": "N",
+                                "#text": "Liver Cirrhosis"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000175",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "diagnosis"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008107",
+                                "@MajorTopicYN": "N",
+                                "#text": "Liver Diseases"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000175",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "diagnosis"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008111",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Liver Function Tests"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D009682",
+                                "@MajorTopicYN": "N",
+                                "#text": "Magnetic Resonance Spectroscopy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010726",
+                                "@MajorTopicYN": "N",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000032",
+                                "@MajorTopicYN": "Y",
+                                "#text": "analysis"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "1996",
+                            "Month": "6",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "1996",
+                            "Month": "6",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "1996",
+                            "Month": "6",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "8832505"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/j.2042-7158.1996.tb05992.x"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

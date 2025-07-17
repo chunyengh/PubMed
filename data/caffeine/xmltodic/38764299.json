@@ -1,0 +1,570 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Automated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "38764299"
+                },
+                "DateCompleted": {
+                    "Year": "2024",
+                    "Month": "08",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2024",
+                    "Month": "08",
+                    "Day": "28"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1473-2165"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "23",
+                            "Issue": "9",
+                            "PubDate": {
+                                "Year": "2024",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "Journal of cosmetic dermatology",
+                        "ISOAbbreviation": "J Cosmet Dermatol"
+                    },
+                    "ArticleTitle": "Anti-hair loss effect of a shampoo containing caffeine and adenosine.",
+                    "Pagination": {
+                        "StartPage": "2927",
+                        "EndPage": "2933",
+                        "MedlinePgn": "2927-2933"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/jocd.16347"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Hair loss is a widespread health problem that affects numerous individuals and is associated with age, lack of sleep, stress, endocrine problems, and other problems. Caffeine exerts various pharmacological effects, particularly after ingestion. The caffeine-induced inhibition of phosphodiesterases can increase intracellular cAMP concentrations, ultimately resulting in stimulatory effects on cell metabolism and proliferation. Hence, caffeine has been confirmed to inhibit hair loss caused by premature termination of the hair growth phase. Adenosine also improves hair loss by stimulating hair growth and thickening hair shafts. However, further empirical evidence is required to comprehensively assess the efficacy of hair loss treatment and prevention using a formulation of caffeine and adenosine in specific proportions in shampoos."
+                            },
+                            {
+                                "@Label": "OBJECTIVES",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "This study aimed to evaluate a shampoo with caffeine and adenosine as a daily scalp care product for hair loss in 77 subjects aged 18-60\u2009years."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "The overall and local hair densities were assessed using professional cameras and dermoscopes at different magnifications and distances. Five hairs that came off the participant's head were randomly selected to measure hair diameter. The self-assessment questionnaires were filled on third month of product use."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "The combination of caffeine and adenosine in the shampoo significantly enhanced hair density compared to that of the baseline. The results revealed a significant reduction in hair loss. The hair diameters of the subjects did not change significantly. Most of the participants (71.05%) were satisfied with their hair after using the product."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Shampoos containing caffeine and adenosine have been demonstrated to exert therapeutic benefits for reducing hair loss."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2024 The Authors. Journal of Cosmetic Dermatology published by Wiley Periodicals LLC."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Chen",
+                                "ForeName": "Dongxiao",
+                                "Initials": "D",
+                                "AffiliationInfo": {
+                                    "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Yu",
+                                "ForeName": "Fanglu",
+                                "Initials": "F",
+                                "AffiliationInfo": {
+                                    "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Wang",
+                                "ForeName": "Congcong",
+                                "Initials": "C",
+                                "AffiliationInfo": {
+                                    "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Chen",
+                                "ForeName": "Haowei",
+                                "Initials": "H",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Dingmageili Biotechnology Ltd., Beijing, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Tan",
+                                "ForeName": "Jie",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Dingmageili Biotechnology Ltd., Beijing, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Shi",
+                                "ForeName": "Qingying",
+                                "Initials": "Q",
+                                "AffiliationInfo": {
+                                    "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "He",
+                                "ForeName": "Xihong",
+                                "Initials": "X",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                    },
+                                    {
+                                        "Affiliation": "Key Laboratory of Industrial Fermentation Microbiology, Ministry of Education, Tianjin University of Science and Technology, Tianjin, China."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Liu",
+                                "ForeName": "Xinyan",
+                                "Initials": "X",
+                                "AffiliationInfo": {
+                                    "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Wang",
+                                "ForeName": "Fang",
+                                "Initials": "F",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Dingmageili Biotechnology Ltd., Beijing, China."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Zhao",
+                                "ForeName": "Huabing",
+                                "Initials": "H",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "College of Biotechnology, Tianjin University of Science and Technology, Tianjin, China."
+                                    },
+                                    {
+                                        "Affiliation": "Key Laboratory of Industrial Fermentation Microbiology, Ministry of Education, Tianjin University of Science and Technology, Tianjin, China."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": {
+                            "Agency": "Dingmageili Biotechnology Ltd., Beijing, China",
+                            "Country": null
+                        }
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2024",
+                        "Month": "05",
+                        "Day": "19"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Cosmet Dermatol",
+                    "NlmUniqueID": "101130964",
+                    "ISSNLinking": "1473-2130"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "K72T3FS567",
+                            "NameOfSubstance": {
+                                "@UI": "D000241",
+                                "#text": "Adenosine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D006203",
+                                "#text": "Hair Preparations"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000494",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "pharmacology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D055815",
+                                "@MajorTopicYN": "N",
+                                "#text": "Young Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000241",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Adenosine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "N",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006203",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Hair Preparations"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000494",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "pharmacology"
+                                },
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000293",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adolescent"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000188",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000254",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "growth & development"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016896",
+                                "@MajorTopicYN": "N",
+                                "#text": "Treatment Outcome"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "adenosine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "caffeine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair loss"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "shampoo"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2024",
+                            "Month": "4",
+                            "Day": "3"
+                        },
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2024",
+                            "Month": "2",
+                            "Day": "8"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2024",
+                            "Month": "4",
+                            "Day": "15"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2024",
+                            "Month": "8",
+                            "Day": "28",
+                            "Hour": "8",
+                            "Minute": "43"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2024",
+                            "Month": "5",
+                            "Day": "20",
+                            "Hour": "6",
+                            "Minute": "42"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2024",
+                            "Month": "5",
+                            "Day": "20",
+                            "Hour": "2",
+                            "Minute": "4"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "38764299"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/jocd.16347"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Title": "REFERENCES",
+                    "Reference": [
+                        {
+                            "Citation": "Kranz D. Young men's coping with androgenetic alopecia: acceptance counts when hair gets thinner. Body Image. 2011;8(4):343\u2010348. doi:10.1016/j.bodyim.2011.06.006"
+                        },
+                        {
+                            "Citation": "Hosking AM, Juhasz M, Atanaskova Mesinkovska N. Complementary and alternative treatments for alopecia: a comprehensive review. Skin Appendage Disord. 2019;5(2):72\u201089. doi:10.1159/000492035"
+                        },
+                        {
+                            "Citation": "Meidan VM, Touitou E. Treatments for androgenetic alopecia and alopecia areata: current options and future prospects. Drugs. 2001;61(1):53\u201069. doi:10.2165/00003495-200161010-00006"
+                        },
+                        {
+                            "Citation": "Thom E. Stress and the hair growth cycle: cortisol\u2010induced hair growth disruption. J Drugs Dermatol. 2016;15(8):1001\u20101004."
+                        },
+                        {
+                            "Citation": "Rudman SM, Philpott MP, Thomas GA, Kealey T. The role of IGF\u2010I in human skin and its appendages: morphogen as well as mitogen? J Invest Dermatol. 1997;109(6):770\u2010777. doi:10.1111/1523-1747.ep12340934"
+                        },
+                        {
+                            "Citation": "Soma T, Tsuji Y, Hibino T. Involvement of transforming growth factor\u2010beta2 in catagen induction during the human hair cycle. J Invest Dermatol. 2002;118(6):993\u2010997. doi:10.1046/j.1523-1747.2002.01746.x"
+                        },
+                        {
+                            "Citation": "Rossi A, Cantisani C, Melis L, Iorio A, Scali E, Calvieri S. Minoxidil use in dermatology, side effects and recent patents. Recent Patents Inflamm Allergy Drug Discov. 2012;6(2):130\u2010136. doi:10.2174/187221312800166859"
+                        },
+                        {
+                            "Citation": "Gubelin Harcha W, Barboza Mart\u00ednez J, Tsai TF, et\u00a0al. A randomized, active\u2010 and placebo\u2010controlled study of the efficacy and safety of different doses of dutasteride versus placebo and finasteride in the treatment of male subjects with androgenetic alopecia. J Am Acad Dermatol. 2014;70(3):489\u2010498.e3. doi:10.1016/j.jaad.2013.10.049"
+                        },
+                        {
+                            "Citation": "Cabeza M, Bratoeff E, Heuze I, Ram\u00edrez E, S\u00e1nchez M, Flores E. Effect of beta\u2010sitosterol as inhibitor of 5 alpha\u2010reductase in hamster prostate. Proc West Pharmacol Soc. 2003;46:153\u2010155."
+                        },
+                        {
+                            "Citation": "Cho YH, Lee SY, Jeong DW, et\u00a0al. Effect of pumpkin seed oil on hair growth in men with androgenetic alopecia: a randomized, double\u2010blind, placebo\u2010controlled trial. Evid Based Complement Alternat Med. 2014;2014;549721. doi:10.1155/2014/549721"
+                        },
+                        {
+                            "Citation": "Gupta AK, Talukder M, Bamimore MA. Natural products for male androgenetic alopecia. Dermatol Ther. 2022;35(4):e15323. doi:10.1111/dth.15323"
+                        },
+                        {
+                            "Citation": "Panahi Y, Taghizadeh M, Marzony ET, Sahebkar A. Rosemary oil vs minoxidil 2% for the treatment of androgenetic alopecia: a randomized comparative trial. Skinmed. 2015;13(1):15\u201021."
+                        },
+                        {
+                            "Citation": "Presley CL, Kolodziejczyk TC, Pulsipher KJ, et\u00a0al. A scoping review of pharmacotherapy, complementary, and alternative medicine (CAM), and surgical therapies for androgenic alopecia. Curr Dermatol Rep. 2021;10:48\u201054. doi:10.1007/s13671-021-00331-8"
+                        },
+                        {
+                            "Citation": "Wessagowit V, Tangjaturonrusamee C, Kootiratrakarn T, et\u00a0al. Treatment of male androgenetic alopecia with topical products containing Serenoa repens extract. Australas J Dermatol. 2016;57(3):e76\u2010e82. doi:10.1111/ajd.12352"
+                        },
+                        {
+                            "Citation": "Green H. Cyclic AMP in relation to proliferation of the epidermal cell: a new view. Cell. 1978;15(3):801\u2010811. doi:10.1016/0092-8674(78)90265-9"
+                        },
+                        {
+                            "Citation": "Philpott MP, Sanders D, Westgate GE, Kealey T. Human hair growth in\u00a0vitro: a model for the study of hair follicle biology. J Dermatol Sci. 1994;7:S55\u2010S72. doi:10.1016/0923-1811(94)90036-1"
+                        },
+                        {
+                            "Citation": "V\u00f6lker JM, Koch N, Becker M, Klenk A. Caffeine and its pharmacological benefits in the management of androgenetic alopecia: a review. Skin Pharmacol Physiol. 2020;33(3):93\u2010109. doi:10.1159/000508228"
+                        },
+                        {
+                            "Citation": "Dhurat R, Chitallia J, May TW, et\u00a0al. An open\u2010label randomized multicenter study assessing the noninferiority of a caffeine\u2010based topical liquid 0.2% versus minoxidil 5% solution in male androgenetic alopecia. Skin Pharmacol Physiol. 2017;30(6):298\u2010305. doi:10.1159/000481141"
+                        },
+                        {
+                            "Citation": "Oura H, Iino M, Nakazawa Y, et\u00a0al. Adenosine increases anagen hair growth and thick hairs in Japanese women with female pattern hair loss: a pilot, double\u2010blind, randomized, placebo\u2010controlled trial. J Dermatol. 2008;35(12):763\u2010767. doi:10.1111/j.1346-8138.2008.00564.x"
+                        },
+                        {
+                            "Citation": "Iino M, Ehama R, Nakazawa Y, et\u00a0al. Adenosine stimulates fibroblast growth factor\u20107 gene expression via adenosine A2b receptor signaling in dermal papilla cells. J Invest Dermatol. 2007;127(6):1318\u20101325. doi:10.1038/sj.jid.5700728"
+                        },
+                        {
+                            "Citation": "Fischer TW, Bergmann A, Kruse N, et\u00a0al. New effects of caffeine on corticotropin\u2010releasing hormone (CRH)\u2010induced stress along the intrafollicular classical hypothalamic\u2010pituitary\u2010adrenal (HPA) axis (CRH\u2010R1/2, IP(3) \u2010R, ACTH, MC\u2010R2) and the neurogenic non\u2010HPA axis (substance P, p75(NTR) and TrkA) in ex\u00a0vivo human male androgenetic scalp hair follicles. Br J Dermatol. 2021;184(1):96\u2010110. doi:10.1111/bjd.19115"
+                        },
+                        {
+                            "Citation": "Fischer TW, Herczeg\u2010Lisztes E, Funk W, Zillikens D, B\u00edr\u00f3 T, Paus R. Differential effects of caffeine on hair shaft elongation, matrix and outer root sheath keratinocyte proliferation, and transforming growth factor\u2010\u03b22/insulin\u2010like growth factor\u20101\u2010mediated regulation of the hair cycle in male and female human hair follicles in\u00a0vitro. Br J Dermatol. 2014;171(5):1031\u20101043. doi:10.1111/bjd.13114"
+                        },
+                        {
+                            "Citation": "Otberg N, Patzelt A, Rasulev U, et\u00a0al. The role of hair follicles in the percutaneous absorption of caffeine. Br J Clin Pharmacol. 2008;65(4):488\u2010492. doi:10.1111/j.1365-2125.2007.03065.x"
+                        },
+                        {
+                            "Citation": "Davis Michael G, Piliang Melissa P, Bergfeld Wilma F, et\u00a0al. Scalp application of the antioxidant piroctone olamine reduces hair shedding in an 8\u2010week randomized, double\u2010blind, placebo\u2010controlled clinical study. Int J Cosmet Sci. 2021;43(S1):S26\u2010S33. doi:10.1111/ics.12737"
+                        },
+                        {
+                            "Citation": "Anzai A, Pereira Amanda F, Malaquias Kleber R, et\u00a0al. Efficacy and safety of a new formulation kit (shampoo + lotion) containing anti\u2010inflammatory and antioxidant agents to treat hair loss. Dermatol Ther. 2020;33(3):e13293. doi:10.1111/dth.13293"
+                        },
+                        {
+                            "Citation": "Benjasirimongkol P, Chattong S, Ruangwattanasuk O, Manotham K. A new strategy increases hair growth\u2010combination of topical adenosine and caffeine hair tonic. JOJ Dermatol Cosmet. 2019;2(1):6\u20109. doi:10.19080/JOJDC.2019.02.555577"
+                        },
+                        {
+                            "Citation": "Berger RS, Fu JL, Smiles KA, et\u00a0al. The effects of minoxidil, 1% pyrithione zinc and a combination of both on hair density: a randomized controlled trial. Br J Dermatol. 2003;149(2):354\u2010362. doi:10.1046/j.1365-2133.2003.05435.x"
+                        },
+                        {
+                            "Citation": "Bussoletti C, Tolaini MV, Celleno L. Efficacy of a cosmetic phyto\u2010caffeine shampoo in female androgenetic alopecia. G Ital Dermatol Venereol. 2020;155(4):492\u2010499. doi:10.23736/s0392-0488.18.05499-8"
+                        },
+                        {
+                            "Citation": "Lee WJ, Sohng C, Kim JY, Park KD, Jang YH, Lee SJ. Effect of a sphingolipid\u2010mimetic compound on the promotion of hair growth: a randomized, double\u2010blind, placebo\u2010controlled clinical trial. J Cosmet Dermatol. 2020;19(7):1715\u20101722. doi:10.1111/jocd.13220"
+                        },
+                        {
+                            "Citation": "Choi HC, Nam GW, Jeong NH, Choi BY. Hair growth promotion by extracts of inula helenium and Caesalpinia Sappan bark in patients with androgenetic alopecia: a pre\u2010clinical study using phototrichogram analysis. Cosmetics. 2019;6(4):66. doi:10.3390/cosmetics6040066"
+                        },
+                        {
+                            "Citation": "Davis MG, Piliang MP, Bergfeld WF, et\u00a0al. Scalp application of antioxidants improves scalp condition and reduces hair shedding in a 24\u2010week randomized, double\u2010blind, placebo\u2010controlled clinical trial. Int J Cosmet Sci. 2021;43:S14\u2010S25. doi:10.1111/ics.12734"
+                        },
+                        {
+                            "Citation": "Kunz M, Seifert B, Tr\u00fceb RM. Seasonality of hair shedding in healthy women complaining of hair loss. Dermatology. 2009;219(2):105\u2010110. doi:10.1159/000216832"
+                        },
+                        {
+                            "Citation": "Randall VA, Ebling FJG. Seasonal changes in human hair growth. Br J Dermatol. 2010;124(2):146\u2010151. doi:10.1111/j.1365-2133.1991.tb00423.x"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

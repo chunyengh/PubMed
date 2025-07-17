@@ -1,0 +1,344 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "16007279"
+                },
+                "DateCompleted": {
+                    "Year": "2006",
+                    "Month": "01",
+                    "Day": "09"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "06"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0100-879X"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "38",
+                            "Issue": "7",
+                            "PubDate": {
+                                "Year": "2005",
+                                "Month": "Jul"
+                            }
+                        },
+                        "Title": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+                        "ISOAbbreviation": "Braz J Med Biol Res"
+                    },
+                    "ArticleTitle": "Effects of caffeine on the electrophysiological, cognitive and motor responses of the central nervous system.",
+                    "Pagination": {
+                        "StartPage": "1077",
+                        "EndPage": "1086",
+                        "MedlinePgn": "1077-86"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Caffeine is the most consumed psychoactive substance in the world. The effects of caffeine have been studied using cognitive and motor measures, quantitative electroencephalography (qEEG) and event-related potentials. However, these methods are not usually employed in combination, a fact that impairs the interpretation of the results. The objective of the present study was to analyze changes in electrophysiological, cognitive and motor variables with the ingestion of caffeine, and to relate central to peripheral responses. For this purpose we recorded event-related potentials and eyes-closed, resting EEG, applied the Stroop test, and measured reaction time. Fifteen volunteers took caffeine (400 mg) or placebo in a randomized, crossover, double-blind design. A significant reduction of alpha absolute power over the entire scalp and of P300 latency at the Fz electrode were observed after caffeine ingestion. These results are consistent with a stimulatory effect of caffeine, although there was no change in the attention (Stroop) test or in reaction time. The qEEG seems to be the most sensitive index of the changes produced by caffeine in the central nervous system since it proved to be capable of detecting changes that were not evident in the tests of cognitive or motor performance."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Deslandes",
+                                "ForeName": "A C",
+                                "Initials": "AC",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Setor de Mapeamento Cerebral e Integra\u00e7\u00e3o Sens\u00f3rio-Motora, Instituto de Psiquiatria, Universidade Federal do Rio de Janeiro, Rio de Janeiro, RJ, Brasil. andreadeslandes@uol.com.br"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Veiga",
+                                "ForeName": "H",
+                                "Initials": "H"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Cagy",
+                                "ForeName": "M",
+                                "Initials": "M"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Piedade",
+                                "ForeName": "R",
+                                "Initials": "R"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Pompeu",
+                                "ForeName": "F",
+                                "Initials": "F"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ribeiro",
+                                "ForeName": "P",
+                                "Initials": "P"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2005",
+                        "Month": "07",
+                        "Day": "04"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Brazil",
+                    "MedlineTA": "Braz J Med Biol Res",
+                    "NlmUniqueID": "8112917",
+                    "ISSNLinking": "0100-879X"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000704",
+                                "@MajorTopicYN": "N",
+                                "#text": "Analysis of Variance"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002490",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003071",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cognition"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018592",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cross-Over Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004311",
+                                "@MajorTopicYN": "N",
+                                "#text": "Double-Blind Method"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004594",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electrophysiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018913",
+                                "@MajorTopicYN": "N",
+                                "#text": "Event-Related Potentials, P300"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011597",
+                                "@MajorTopicYN": "N",
+                                "#text": "Psychomotor Performance"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011930",
+                                "@MajorTopicYN": "N",
+                                "#text": "Reaction Time"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2005",
+                            "Month": "7",
+                            "Day": "12",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2006",
+                            "Month": "1",
+                            "Day": "10",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2005",
+                            "Month": "7",
+                            "Day": "12",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "16007279"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1590/s0100-879x2005000700011"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0100-879X2005000700011"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

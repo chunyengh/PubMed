@@ -1,0 +1,312 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "8545460"
+                },
+                "DateCompleted": {
+                    "Year": "1996",
+                    "Month": "02",
+                    "Day": "14"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "10"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0091-3057"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "52",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "1995",
+                                "Month": "Nov"
+                            }
+                        },
+                        "Title": "Pharmacology, biochemistry, and behavior",
+                        "ISOAbbreviation": "Pharmacol Biochem Behav"
+                    },
+                    "ArticleTitle": "Caffeine and selective visual processing.",
+                    "Pagination": {
+                        "StartPage": "461",
+                        "EndPage": "471",
+                        "MedlinePgn": "461-71"
+                    },
+                    "Abstract": {
+                        "AbstractText": "This work addressed five issues: a) Does caffeine modulate electroencephalogram (EEG) background activity in a manner consistent with the idea of cortical \"arousal\"? b) Is performance in a simple speeded task improved under caffeine? c) Is visual processing more selective under caffeine? d) Does caffeine affect sensory discrimination? and e) Does it affect motor processes? We presented 16 subjects with a visual selection task under conditions of either caffeine or placebo. Background EEG data, gathered before administration of the task, revealed that caffeine resulted in lower slow-alpha power, relative to placebo, which is consistent with the idea of increased cortical \"arousal.\" During the selection task, subjects had to respond manually to a given target conjunction of spatial frequency and orientation. Other conjunctions shared spatial frequency, orientation, or neither with the target. The four conjunctions were presented in a random sequence, with SOAs ranging between 750 and 950 ms. Event-related potentials (ERPs) to the conjunctions were recorded at standard scalp locations Fz, Cz, Pz, and Oz. Under caffeine, subjects made faster responses to target conjunctions (382.9 vs. 404.5 ms) and more hits, whereas the false-alarm rate was equal across conditions. Caffeine did not affect the selection potentials normally obtained in this task by subtracting, from ERPs to nontargets with the target spatial frequency, those to nontargets with the other frequency. However, an early differential positivity (50-160 ms) was found specifically under caffeine, indicative of increased selectivity. Difference ERPs as a function of physical parameters were not affected by caffeine, indicating no effect on sensory discrimination. Onsets of response-related lateralizations above the motor cortex were not affected by caffeine, suggesting that the shorter reaction times under caffeine were due to faster central or peripheral motor processes."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kenemans",
+                                "ForeName": "J L",
+                                "Initials": "JL",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Psychopharmacology, Faculty of Pharmacy, Rudolf Magnus Institute for Neurosciences, Utrecht University, The Netherlands."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Lorist",
+                                "ForeName": "M M",
+                                "Initials": "MM"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D018848",
+                                "#text": "Controlled Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Pharmacol Biochem Behav",
+                    "NlmUniqueID": "0367050",
+                    "ISSNLinking": "0091-3057"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001143",
+                                "@MajorTopicYN": "N",
+                                "#text": "Arousal"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001288",
+                                "@MajorTopicYN": "N",
+                                "#text": "Attention"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004192",
+                                "@MajorTopicYN": "N",
+                                "#text": "Discrimination, Psychological"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005071",
+                                "@MajorTopicYN": "N",
+                                "#text": "Evoked Potentials"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010775",
+                                "@MajorTopicYN": "N",
+                                "#text": "Photic Stimulation"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011597",
+                                "@MajorTopicYN": "N",
+                                "#text": "Psychomotor Performance"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014796",
+                                "@MajorTopicYN": "N",
+                                "#text": "Visual Perception"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "1995",
+                            "Month": "11",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "1995",
+                            "Month": "11",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "1995",
+                            "Month": "11",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "8545460"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1016/0091-3057(95)00159-t"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "0091-3057(95)00159-T"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

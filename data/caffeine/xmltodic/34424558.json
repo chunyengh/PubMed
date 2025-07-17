@@ -1,0 +1,616 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "34424558"
+                },
+                "DateCompleted": {
+                    "Year": "2022",
+                    "Month": "01",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "01",
+                    "Day": "24"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1468-2494"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "43 Suppl 1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Nov"
+                            }
+                        },
+                        "Title": "International journal of cosmetic science",
+                        "ISOAbbreviation": "Int J Cosmet Sci"
+                    },
+                    "ArticleTitle": "Scalp application of antioxidants improves scalp condition and reduces hair shedding in a 24-week randomized, double-blind, placebo-controlled clinical trial.",
+                    "Pagination": {
+                        "StartPage": "S14",
+                        "EndPage": "S25",
+                        "MedlinePgn": "S14-S25"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/ics.12734"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "OBJECTIVE",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "Increasing hair fullness is a global unmet need for many men and women. An approach to the problem is to decrease hair fall or shedding by reducing scalp stratum corneum oxidation and barrier damage to increase hair retention. This study evaluated a combination of functional antioxidants and barrier-enhancing cosmetic ingredients to improve scalp condition thereby enabling stronger hair anchorage and longer retention."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Male and female subjects with normal scalp condition and self-perceived hair thinning participated in a 24-week, double-blind, placebo-controlled, randomized clinical study assessing either a regimen of treatment shampoo and leave-on treatment containing functional antioxidant and barrier-enhancing agents or an identical placebo chassis shampoo control. The functional ingredients were piroctone olamine, zinc pyrithione, zinc carbonate, niacinamide, panthenol and caffeine. At baseline and after 8, 16 and 24\u00a0weeks of product use, several measurements were taken: hair shedding, total hair count (by phototrichogram), hair samples, TEWL and evaluation of biomarkers of scalp and hair conditions. Subjects also completed self-assessment questionnaires."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Statistically significant effects for functional ingredient-containing treatment regimen versus a placebo control shampoo formulation were observed for reduced hair shedding, increased total hair count, reduced TEWL and improvement in scalp biomarker values. Subjects also noticed these improvements assessed via self-assessment questionnaires."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "These results establish that the use of functional antioxidant and barrier-enhancing agents to further improve scalp condition can enable a reduction in hair shedding and thus an increase in perceived hair fullness. The underlying improvements in scalp condition suggest the hair benefits were achieved as a result of improved scalp skin barrier and scalp condition leading to a viable preventative approach for hair thinning."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2021 Society of Cosmetic Scientists and Societe Francaise de Cosmetologie."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Davis",
+                                "ForeName": "Michael G",
+                                "Initials": "MG",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-4756-3295"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Piliang",
+                                "ForeName": "Melissa P",
+                                "Initials": "MP",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Dermatology, Cleveland Clinic, Cleveland, Ohio, USA."
+                                    },
+                                    {
+                                        "Affiliation": "Department of Pathology, Cleveland Clinic, Cleveland, Ohio, USA."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Bergfeld",
+                                "ForeName": "Wilma F",
+                                "Initials": "WF",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Dermatology, Cleveland Clinic, Cleveland, Ohio, USA."
+                                    },
+                                    {
+                                        "Affiliation": "Department of Pathology, Cleveland Clinic, Cleveland, Ohio, USA."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Caterino",
+                                "ForeName": "Tamara L",
+                                "Initials": "TL",
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Fisher",
+                                "ForeName": "Brian K",
+                                "Initials": "BK",
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sacha",
+                                "ForeName": "Jarek P",
+                                "Initials": "JP",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0001-6705-4669"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Carr",
+                                "ForeName": "Gregory J",
+                                "Initials": "GJ",
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Moulton",
+                                "ForeName": "Laura T",
+                                "Initials": "LT",
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Whittenbarger",
+                                "ForeName": "Deborah J",
+                                "Initials": "DJ",
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Schwartz",
+                                "ForeName": "James R",
+                                "Initials": "JR",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0001-7694-2780"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "The Procter & Gamble Company, Mason, Ohio, USA."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": {
+                            "Agency": "P&G Beauty",
+                            "Country": null
+                        }
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Cosmet Sci",
+                    "NlmUniqueID": "8007161",
+                    "ISSNLinking": "0142-5463"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000975",
+                                "#text": "Antioxidants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D015415",
+                                "#text": "Biomarkers"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D006203",
+                                "#text": "Hair Preparations"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000287",
+                                "@MajorTopicYN": "N",
+                                "#text": "Administration, Topical"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000368",
+                                "@MajorTopicYN": "N",
+                                "#text": "Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000188",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000975",
+                                "@MajorTopicYN": "N",
+                                "#text": "Antioxidants"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000627",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "therapeutic use"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015415",
+                                "@MajorTopicYN": "N",
+                                "#text": "Biomarkers"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000097",
+                                "@MajorTopicYN": "N",
+                                "#text": "blood"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004311",
+                                "@MajorTopicYN": "N",
+                                "#text": "Double-Blind Method"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006203",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Preparations"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000627",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "therapeutic use"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "antioxidant"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair growth"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair loss"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair shedding"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair treatment"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "scalp"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "skin barrier"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2021",
+                            "Month": "5",
+                            "Day": "11"
+                        },
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2021",
+                            "Month": "3",
+                            "Day": "17"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2021",
+                            "Month": "6",
+                            "Day": "21"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "24",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "27",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "23",
+                            "Hour": "12",
+                            "Minute": "35"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "34424558"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/ics.12734"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Title": "REFERENCES",
+                    "Reference": [
+                        {
+                            "Citation": "C. Robbins, P. Mirmirani, A. G. Messenger, M. P. Birch, R. S. Youngquist, M. Tamura, T. Filloon, F. Luo, T. L. Dawson, What women want - quantifying the perception of hair amount: an analysis of hair diameter and density changes with age in Caucasian women. Br. J. Dermatol. 167, 324-332 (2012)."
+                        },
+                        {
+                            "Citation": "D. Williamson, M. Gonzalez, A. Y. Finlay, The effect of hair loss on quality of life. J. Eur. Acad. Dermatol. Venereol. 15, 137-139 (2001)."
+                        },
+                        {
+                            "Citation": "M. Gonul, B. C. Cemil, H. H. Ayvaz, E. Cankurtaran, C. Ergin, M. S. Gurel, Comparison of quality of life in patients with androgenic alopecia and alopecia areata. An. Bras. Dermatol. 93, 651-658 (2018)."
+                        },
+                        {
+                            "Citation": "A. Rebora, G. M. Kenogen, A new phase of the hair cycle? Dermatology. 205(2), 108-110 (2002)."
+                        },
+                        {
+                            "Citation": "M. Guarrera, A. Rebora, Kenogen in female androgenetic alopecia. A longitudinal study. Dermatology. 210, 18-20 (2005)."
+                        },
+                        {
+                            "Citation": "P. Suchonwanit, S. Thammarucha, K. Leerunvakul, Minoxidil and its use in hair disorders: a review. Drug Des. Devel. Ther. 13, 2777-2786 (2019)."
+                        },
+                        {
+                            "Citation": "D. Harman, The biologic clock: the mitochondria? J. Am. Geriatric. Soc. 20, 145-147 (1972)."
+                        },
+                        {
+                            "Citation": "M. Rinnerthaler, J. Bischof, M. K. Sterubel, A. Trost, K. Richter, Oxidative stress in aging human skin. Biomolecules. 5, 545-589 (2015)."
+                        },
+                        {
+                            "Citation": "M. A. Birch-Machin, A. Bowman, Oxidative stress and ageing. Br. J. Dermatol. 175S, 26-29 (2016)."
+                        },
+                        {
+                            "Citation": "M. Fournet, F. Bonte, A. Desmouliere, Glycation damage: a possible hub for major pathophysiological disorders and aging. Aging Dis. 9, 880-900 (2018)."
+                        },
+                        {
+                            "Citation": "J. J. Thiele, Oxidative targets in the stratum corneum. A new basis for antioxidative strategies. Skin Pharmacol. Appl. Skin Physiol. 14S, 87-91 (2001)."
+                        },
+                        {
+                            "Citation": "R. M. Tr\u00fceb, J. P. Henry, M. G. Davis, J. R. Schwartz, Scalp condition impacts hair growth and retention via oxidative stress. Int. J. Trichol. 10, 262-270 (2018)."
+                        },
+                        {
+                            "Citation": "J. R. Schwartz, J. P. Henry, K. M. Kerr, H. Mizoguchi, L. Li, The role of oxidative damage in poor scalp health: ramifications to causality and associated hair growth. Int. J. Cosmet. Sci. 37S2, 9-15 (2015)."
+                        },
+                        {
+                            "Citation": "R. M. Tr\u00fceb, Aging of hair. J. Cosmet. Dermatol. 4, 60-72 (2005)."
+                        },
+                        {
+                            "Citation": "R. M. Tr\u00fceb, The impact of oxidative stress on hair. Int. J. Cosmet. Sci. 37S2, 25-30 (2015)."
+                        },
+                        {
+                            "Citation": "J. R. Schwartz, J. P. Henry, K. M. Kerr, M. J. Flagler, S. H. Page, N. Redman-Furey, Incubatory environment of the scalp impacts pre-emergent hair to affect post-emergent hair cuticle integrity. J. Cosmet. Dermatol. 17, 105-111 (2018)."
+                        },
+                        {
+                            "Citation": "R. D. Sinclair, J. R. Schwartz, H. L. Rocchetta, T. L. Dawson, B. K. Fisher, K. Meinert, E. A. Wilder, Dandruff and seborrheic dermatitis adversely affect hair quality. Eur. J. Dermatol. 19, 410-411 (2009)."
+                        },
+                        {
+                            "Citation": "A. Tosti, J. R. Schwartz. Role of scalp health in achieving optimal hair growth and retention. Int. J. Cosmet. Sci. 43(Suppl. 1), 1-8 (2021). https://doi.org/10.1111/ics.12708"
+                        },
+                        {
+                            "Citation": "L. A. Jones, D. P. Harland, B. B. Jarrold, J. E. Connolly, M. G. Davis, The walking dead: sequential nuclear and organelle destruction during hair development. Br. J. Dermatol. 178(6), 1341-1352 (2018)."
+                        },
+                        {
+                            "Citation": "M. S. Zamil, D. P. Harland, B. K. Fisher, M. J. Davis, J. R. Schwartz, A. Geitmann. Biomechanics of hair fibre growth: a multi-scale modelling approach. J. Mech. Phys. Solids. 148, 104290. https://doi.org/10.1016/j.jmps.2021.104290"
+                        },
+                        {
+                            "Citation": "J. R. Schwartz, L. T. Laughlin, L. Li, J. Chen, K. M. Kerr, Synergistic antioxidant compositions. US Patent, US10,925,823."
+                        },
+                        {
+                            "Citation": "T. B. Fitzpatrick, The validity and practicality of sun-reactive skin types I through VI. Arch. Dermatol. 124, 869-871 (1988)."
+                        },
+                        {
+                            "Citation": "R. A. Bacon, H. Mizoguchi, J. R. Schwartz, Assessing therapeutic effectiveness of scalp treatments for dandruff and seborrheic dermatitis, part 1: a reliable and relevant method based on the adherent scalp flaking score (ASFS). J. Dermatol. Treat. 25, 232-236 (2014)."
+                        },
+                        {
+                            "Citation": "D. Van Neste, T. Leroy, S. Conil, Exogen hair characterization in human scalp. Skin Res. Technol. 13(4), 436-443 (2007)."
+                        },
+                        {
+                            "Citation": "J. P. Sacha, T. L. Caterino, B. K. Fisher, G. J. Carr, R. S. Youngquist, B. M. D\u2019Alessandro, A. Melione, D. Canfield, W. F. Bergfeld, M. P. Piliang, et al., Development and qualification of a machine learning algorithm for automated hair counting. Int. J. Cosmet. Sci. 43(Suppl. 1), 34-41 (2021). https://doi.org/10.1111/ics.12735"
+                        },
+                        {
+                            "Citation": "J. Zhao, A. Zhong, E. E. Friedrich, S. Jia, P. Xie, R. D. Galiano, T. A. Mustoe, S. J. Hong, S100A12 induced in the epidermis by reduced hydration activates dermal fibroblasts and causes dermal fibrosis. J. Invest. Dermatol. 137(3), 650-659 (2017)."
+                        },
+                        {
+                            "Citation": "M. Kunz, B. Seifert, R. M. Trueb, Seasonality of hair shedding in healthy women complaining of hair loss. Dermatology. 219, 105-110 (2009)."
+                        },
+                        {
+                            "Citation": "V. A. Randall, F. J. Ebling, Seasonal changes in human hair growth. Br. J. Dermatol. 124, 146-151 (1991)."
+                        },
+                        {
+                            "Citation": "P. M. Ramos, H. A. Miot, Female Pattern Hair Loss: a clinical and pathophysiological review. An. Bras. Dermatol. 90, 529-543 (2015)."
+                        },
+                        {
+                            "Citation": "R. M. Trueb, Oxidative stress and its impact on skin, scalp and hair. Int. J. Cosmet. Sci. 43(Suppl. 1), 9-13 (2021). https://doi.org/10.1111/ics.12736"
+                        },
+                        {
+                            "Citation": "E. F. Rostan, H. V. DeBuys, D. L. Madey, S. R. Pinnell, Evidence supporting zinc as an important antioxidant for skin. Int. J. Dermatol. 41, 606-611 (2002)."
+                        },
+                        {
+                            "Citation": "V. Sidarovich, V. Adami, P. Gatto, V. Greco, T. Tebaldi, G. P. Tonini, A. Quattrone, Translational downregulation of HSP90 expression by iron chelators in neuroblastoma cells. Mol. Pharmacol. 87, 513-524 (2015)."
+                        },
+                        {
+                            "Citation": "D. L. Bissett, D. M. Oelrich, D. P. Hannon, Evaluation of a topical iron chelator in animals and in human beings: short-term photoprotection by 2-furildioxime. J. Am. Acad. Dermatol. 31, 572-578 (1994)."
+                        },
+                        {
+                            "Citation": "B. A. Jurkiewicz, G. R. Buettner, EPR detection of free radicals in UV-irradiated skin: mouse versus human. Photochem. Photobiol. 64, 918-922 (1996)."
+                        },
+                        {
+                            "Citation": "C. Pierard-Franchimont, V. Goffin, F. Henry, I. Uhoda, C. Braham, G. E. Pierard, Nudging hair shedding by antidandruff shampoos. A comparison of 1% ketoconazole, 1% piroctone olamine and 1% zinc pyrithione formulations. Int. J. Cosmet. Sci. 24, 249-256 (2002)."
+                        },
+                        {
+                            "Citation": "J. Schwartz, E. Johnson, D. Warnke, C. Margraf, Potentiation of zinc pyrithione shampoo formulation improves antidandruff/seborrheic dermatitis efficacy. J. Am. Acad. Dermatol. 52, P57 (2005)."
+                        },
+                        {
+                            "Citation": "P. J. Matts, J. E. Oblong, D. L. Bissett, A review of the range of effects of niacinamide in human skin. Int. Fed. Soc. Cosmet. Chem. J. 5, 285-289 (2002)."
+                        },
+                        {
+                            "Citation": "A. Herman, A. P. Herman, Caffeine\u2019s mechanisms of action and its cosmetic use. Skin Pharmacol. Physiol. 26, 8-14 (2013)."
+                        },
+                        {
+                            "Citation": "K. Biro, D. Thaci, F. R. Ochsendorf, R. Kaufman, W. H. Boehncke, Efficacy of dexpanthenol in skin protection against irritation: a double-blind, placebo-controlled study. Contact. Derm. 49, 80-84 (2003)."
+                        },
+                        {
+                            "Citation": "R. S. Berger, J. L. Fu, K. A. Smiles, C. B. Turner, B. M. Schnell, K. M. Werchowski, K. M. Lammers, The effects of minoxidil, 1% zinc pyrithione and a combination of both on hair density: a randomized controlled trial. Brit. J. Dermatol. 149, 354-362 (2003)."
+                        },
+                        {
+                            "Citation": "C. S. O. Baque, J. Zhou, W. Gu, C. Collaudin, S. Kravtchenko, J. Y. Kempf, D. Saint-Leger, Relationships between hair growth rate and morphological parameters of human straight hair: a same law above ethical origins? Int. J. Cosmet. Sci. 34, 111-116 (2012)."
+                        },
+                        {
+                            "Citation": "T. Egelrud, Desquamation in the stratum corneum. Acta Derm. Venereol. Suppl. 208, 44-45 (2000)."
+                        },
+                        {
+                            "Citation": "J. J. Thiele, S. N. Hsieh, K. Briviba, H. Sies, Protein oxidation in human stratum corneum: susceptibility of keratins to oxidation in vitro and presence of a keratin oxidation gradient in vivo. J. Invest. Dermatol. 113, 335-339 (1999)."
+                        },
+                        {
+                            "Citation": "K. J. A. Davies, S. W. Lin, R. E. Pacifici, Protein damage and degradation by oxygen radicals: degradation of denatured protein. J. Biol. Chem. 262, 9914-9920 (1987)."
+                        },
+                        {
+                            "Citation": "E. R. Stadtman, Protein oxidation and aging. Science. 257, 1220-1224 (1992)."
+                        },
+                        {
+                            "Citation": "C. A. Higgins, G. E. Westgate, C. A. B. Jahoda, Modulation in proteolytic activity is identified as a hallmark of exogen by transcriptional profiling of hair follicles. J. Invest. Dermatol. 131, 2349-2357 (2011)."
+                        },
+                        {
+                            "Citation": "U. Savci, E. Senel, A. Oztekin, M. Sungur, O. Erel, S. Neselioglu, Ischemia-modified albumin as a possible marker of oxidative stress in patients with telogen effluvium. An. Bras. Dermatol. 95, 447-451 (2020)."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "24189158"
+                },
+                "DateCompleted": {
+                    "Year": "2014",
+                    "Month": "09",
+                    "Day": "22"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "04",
+                    "Day": "08"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1873-6351"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "63",
+                            "PubDate": {
+                                "Year": "2014",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+                        "ISOAbbreviation": "Food Chem Toxicol"
+                    },
+                    "ArticleTitle": "Beverage caffeine intakes in the U.S.",
+                    "Pagination": {
+                        "StartPage": "136",
+                        "EndPage": "142",
+                        "MedlinePgn": "136-42"
+                    },
+                    "ELocationID": [
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.1016/j.fct.2013.10.042"
+                        },
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "S0278-6915(13)00717-5"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": "Caffeine is one of the most researched food components, with the vast majority of dietary contributions coming from beverage consumption; however, there is little population-level data on caffeine intakes in the U.S. This study estimated the caffeine intakes of the U.S. population using a comprehensive beverage survey, the Kantar Worldpanel Beverage Consumption Panel. A nationally representative sample of 37,602 consumers (aged \u2265 2 years) of caffeinated beverages completed 7-day diaries which facilitated the development of a detailed database of caffeine values to assess intakes. Results showed that 85% of the U.S. population consumes at least one caffeinated beverage per day. The mean (\u00b1SE) daily caffeine intake from all beverages was 165\u00b11 mg for all ages combined. Caffeine intake was highest in consumers aged 50-64 years (226\u00b12 mg/day). The 90th percentile intake was 380 mg/day for all ages combined. Coffee was the primary contributor to caffeine intakes in all age groups. Carbonated soft drinks and tea provided a greater percentage of caffeine in the younger (<18 years) age groups. The percentage of energy drink consumers across all age groups was low (\u226410%). These data provide a current perspective on caffeinated beverage consumption patterns and caffeine intakes in the U.S. population.",
+                        "CopyrightInformation": "Copyright \u00a9 2013 The Authors. Published by Elsevier Ltd.. All rights reserved."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Mitchell",
+                                "ForeName": "Diane C",
+                                "Initials": "DC",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Nutritional Sciences, The Pennsylvania State University, 110 Chandlee University Park, PA 16802, United States. Electronic address: dcm1@psu.edu."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Knight",
+                                "ForeName": "Carol A",
+                                "Initials": "CA",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Knight International, 715 Ketch Drive, Naples, FL 34103, United States. Electronic address: carolaknight@comcast.net."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hockenberry",
+                                "ForeName": "Jon",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Kantar Worldpanel, 11 Madison Avenue, New York, NY 10010, United States. Electronic address: Jon.Hockenberry@KantarWorldpanel.com."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Teplansky",
+                                "ForeName": "Robyn",
+                                "Initials": "R",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Kantar Worldpanel, 11 Madison Avenue, New York, NY 10010, United States. Electronic address: Robyn.Teplansky@KantarWorldpanel.com."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hartman",
+                                "ForeName": "Terryl J",
+                                "Initials": "TJ",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Epidemiology, Emory University, 1518 Clifton Road NE, CNR #3035, Atlanta, GA 30322, United States. Electronic address: tjhartm@emory.edu."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2013",
+                        "Month": "11",
+                        "Day": "01"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Food Chem Toxicol",
+                    "NlmUniqueID": "8207483",
+                    "ISSNLinking": "0278-6915"
+                },
+                "ChemicalList": {
+                    "Chemical": {
+                        "RegistryNumber": "3G6A5W338E",
+                        "NameOfSubstance": {
+                            "@UI": "D002110",
+                            "#text": "Caffeine"
+                        }
+                    }
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001628",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Beverages"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014481",
+                                "@MajorTopicYN": "N",
+                                "@Type": "Geographic",
+                                "#text": "United States"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Beverages"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "CSD"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "CSFII"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Caffeine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Consumption"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Continuing Survey of Food Intakes in Individuals"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "FDA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Food and Drug Administration"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Intake"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "KWP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Kantar Worldpanel"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "NDSR"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "NHANES"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "National Health and Nutrition Examination Survey"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Nutrition Data System for Research"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "SIP"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Share of Intake Panel"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Survey"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "U.S. population"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "US Department of Agriculture"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "USDA"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "carbonated soft drink"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2013",
+                            "Month": "7",
+                            "Day": "22"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2013",
+                            "Month": "9",
+                            "Day": "30"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2013",
+                            "Month": "10",
+                            "Day": "26"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2013",
+                            "Month": "11",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2013",
+                            "Month": "11",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2014",
+                            "Month": "9",
+                            "Day": "23",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "24189158"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1016/j.fct.2013.10.042"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0278-6915(13)00717-5"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

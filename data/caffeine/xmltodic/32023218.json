@@ -1,0 +1,301 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Curated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "32023218"
+                },
+                "DateCompleted": {
+                    "Year": "2020",
+                    "Month": "02",
+                    "Day": "24"
+                },
+                "DateRevised": {
+                    "Year": "2020",
+                    "Month": "02",
+                    "Day": "24"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "1092-4221"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "24",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2020",
+                                "Season": "Jan-Feb"
+                            }
+                        },
+                        "Title": "International journal of pharmaceutical compounding",
+                        "ISOAbbreviation": "Int J Pharm Compd"
+                    },
+                    "ArticleTitle": "Clinical Efficacy of a Topical Compounded Formulation in Male Androgenetic Alopecia: Minoxidil 10%, Finasteride 0.1%, Biotin 0.2%, and Caffeine Citrate 0.05% Hydroalcoholic Solution.",
+                    "Pagination": {
+                        "StartPage": "69",
+                        "EndPage": "76",
+                        "MedlinePgn": "69-76"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Androgenetic alopecia is the most common form of hair loss. This condition affects both men and women causing significant psychological distress and a decrease in the quality of life. The objective of this study was to investigate the clinical efficacy and patient satisfaction of a topical compounded formulation (minoxidil 10%, finasteride 0.1%, biotin 0.2%, and caffeine citrate 0.05% hydroalcoholic solution) in male androgenetic alopecia patients. A total of five individual, prospective case studies were conducted in the private hair transplant practice of Dr. James C. Marotta. Patients were provided with the topical formulation and instructed to apply a measured 1-mL dose to the entire frontal, parietal, and occipital scalp, twice daily for 6 months. Patients visited the practice periodically (90 days, 120 days, and 180 days post-treatment) for clinical evaluation, photographic assessment, and measurement of their treatment satisfaction by the Men's Hair Growth Questionnaire. By the end of the study, at 180 days, the dermatologist-in-charge concluded that the topical treatment was successful for all five patients. Although moderate, the clinical improvements were visually noticeable as most patients had thicker, more voluminous hair; improved scalp coverage; and improved general hair appearance. These results were consistent with the photographic assessment, which demonstrated a global average increase of +1.05 in the patients' hair density. According to the patients' self-assessment, the topical compounded formulation was effective following 3 months and 6 months of continuous treatment. At 120 days, the patients' satisfaction was neutral or negative, which was likely due to negligible differences in the patients' hair growth and appearance in 90 days compared to 120 days. The results from this study suggest that the new hair-loss topical solution may be considered a safe and effective treatment option in male AGA patients.",
+                        "CopyrightInformation": "Copyright\u00a9 by International Journal of Pharmaceutical Compounding, Inc."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Marotta",
+                                "ForeName": "James C",
+                                "Initials": "JC",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Marotta Plastic Surgery Specialists, Smithtown, New York."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Patel",
+                                "ForeName": "Gopesh",
+                                "Initials": "G",
+                                "AffiliationInfo": {
+                                    "Affiliation": "VLS Pharmacy & New Drug Loft, New York, New York."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Carvalho",
+                                "ForeName": "Maria",
+                                "Initials": "M",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Professional Compounding Centers of America, Houston, Texas. mcarvalho@pccarx.com."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Blakeney",
+                                "ForeName": "Samantha",
+                                "Initials": "S",
+                                "AffiliationInfo": {
+                                    "Affiliation": "VLS Pharmacy & New Drug Loft, New York, New York."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Int J Pharm Compd",
+                    "NlmUniqueID": "9706294",
+                    "ISSNLinking": "1092-4221"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D002951",
+                                "#text": "Citrates"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "57GNO57U7G",
+                            "NameOfSubstance": {
+                                "@UI": "D018120",
+                                "#text": "Finasteride"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "5965120SH1",
+                            "NameOfSubstance": {
+                                "@UI": "D008914",
+                                "#text": "Minoxidil"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "6SO6U10H04",
+                            "NameOfSubstance": {
+                                "@UI": "D001710",
+                                "#text": "Biotin"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "U26EO4675Q",
+                            "NameOfSubstance": {
+                                "@UI": "C026189",
+                                "#text": "caffeine citrate"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000503",
+                                "@MajorTopicYN": "Y",
+                                "#text": "physiopathology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001710",
+                                "@MajorTopicYN": "N",
+                                "#text": "Biotin"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002951",
+                                "@MajorTopicYN": "N",
+                                "#text": "Citrates"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018120",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Finasteride"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008914",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Minoxidil"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011446",
+                                "@MajorTopicYN": "N",
+                                "#text": "Prospective Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011788",
+                                "@MajorTopicYN": "N",
+                                "#text": "Quality of Life"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D016896",
+                                "@MajorTopicYN": "N",
+                                "#text": "Treatment Outcome"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2020",
+                            "Month": "2",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2020",
+                            "Month": "2",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2020",
+                            "Month": "2",
+                            "Day": "25",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": {
+                        "@IdType": "pubmed",
+                        "#text": "32023218"
+                    }
+                }
+            }
+        }
+    }
+}

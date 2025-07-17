@@ -1,0 +1,488 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "24836650"
+                },
+                "DateCompleted": {
+                    "Year": "2015",
+                    "Month": "07",
+                    "Day": "07"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1365-2133"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "171",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2014",
+                                "Month": "Nov"
+                            }
+                        },
+                        "Title": "The British journal of dermatology",
+                        "ISOAbbreviation": "Br J Dermatol"
+                    },
+                    "ArticleTitle": "Differential effects of caffeine on hair shaft elongation, matrix and outer root sheath keratinocyte proliferation, and transforming growth factor-\u03b22/insulin-like growth factor-1-mediated regulation of the hair cycle in male and female human hair follicles in vitro.",
+                    "Pagination": {
+                        "StartPage": "1031",
+                        "EndPage": "1043",
+                        "MedlinePgn": "1031-43"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/bjd.13114"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Caffeine reportedly counteracts the suppression of hair shaft production by testosterone in organ-cultured male human hair follicles (HFs)."
+                            },
+                            {
+                                "@Label": "OBJECTIVES",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "We aimed to investigate the impact of caffeine (i) on additional key hair growth parameters, (ii) on major hair growth regulatory factors and (iii) on male vs. female HFs in the presence of testosterone."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Microdissected male and female human scalp HFs were treated in serum-free organ culture for 120 h with testosterone alone (0\u00b75 \u03bcg mL(-1)) or in combination with caffeine (0\u00b7005-0\u00b70005%). The following effects on hair shaft elongation were evaluated by quantitative (immuno)histomorphometry: HF cycling (anagen-catagen transition); hair matrix keratinocyte proliferation; expression of a key catagen inducer, transforming growth factor (TGF)-\u03b22; and expression of the anagen-prolonging insulin-like growth factor (IGF)-1. Caffeine effects were further investigated in human outer root sheath keratinocytes (ORSKs)."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Caffeine enhanced hair shaft elongation, prolonged anagen duration and stimulated hair matrix keratinocyte proliferation. Female HFs showed higher sensitivity to caffeine than male HFs. Caffeine counteracted testosterone-enhanced TGF-\u03b22 protein expression in male HFs. In female HFs, testosterone failed to induce TGF-\u03b22 expression, while caffeine reduced it. In male and female HFs, caffeine enhanced IGF-1 protein expression. In ORSKs, caffeine stimulated cell proliferation, inhibited apoptosis/necrosis, and upregulated IGF-1 gene expression and protein secretion, while TGF-\u03b22 protein secretion was downregulated."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "This study reveals new growth-promoting effects of caffeine on human hair follicles in subjects of both sexes at different levels (molecular, cellular and organ)."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2014 British Association of Dermatologists."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Fischer",
+                                "ForeName": "T W",
+                                "Initials": "TW",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, University of L\u00fcbeck, Ratzeburger Allee 160, 23538, L\u00fcbeck, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Herczeg-Lisztes",
+                                "ForeName": "E",
+                                "Initials": "E"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Funk",
+                                "ForeName": "W",
+                                "Initials": "W"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Zillikens",
+                                "ForeName": "D",
+                                "Initials": "D"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "B\u00edr\u00f3",
+                                "ForeName": "T",
+                                "Initials": "T"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Paus",
+                                "ForeName": "R",
+                                "Initials": "R"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2014",
+                        "Month": "10",
+                        "Day": "30"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Dermatol",
+                    "NlmUniqueID": "0004041",
+                    "ISSNLinking": "0007-0963"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000728",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000941",
+                                "#text": "Antigens"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D007381",
+                                "#text": "Intermediate Filament Proteins"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D010726",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "C479420",
+                                "#text": "TCHH protein, human"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D053781",
+                                "#text": "Transforming Growth Factor beta2"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3XMK78S47O",
+                            "NameOfSubstance": {
+                                "@UI": "D013739",
+                                "#text": "Testosterone"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "67763-96-6",
+                            "NameOfSubstance": {
+                                "@UI": "D007334",
+                                "#text": "Insulin-Like Growth Factor I"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000728",
+                                "@MajorTopicYN": "N",
+                                "#text": "Androgens"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000941",
+                                "@MajorTopicYN": "N",
+                                "#text": "Antigens"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017209",
+                                "@MajorTopicYN": "N",
+                                "#text": "Apoptosis"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D049109",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cell Proliferation"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002478",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cells, Cultured"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000254",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "growth & development"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018859",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Follicle"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D066298",
+                                "@MajorTopicYN": "N",
+                                "#text": "In Vitro Techniques"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007334",
+                                "@MajorTopicYN": "N",
+                                "#text": "Insulin-Like Growth Factor I"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007381",
+                                "@MajorTopicYN": "N",
+                                "#text": "Intermediate Filament Proteins"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015603",
+                                "@MajorTopicYN": "N",
+                                "#text": "Keratinocytes"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010726",
+                                "@MajorTopicYN": "N",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013739",
+                                "@MajorTopicYN": "N",
+                                "#text": "Testosterone"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D053781",
+                                "@MajorTopicYN": "N",
+                                "#text": "Transforming Growth Factor beta2"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2014",
+                            "Month": "5",
+                            "Day": "6"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2014",
+                            "Month": "5",
+                            "Day": "20",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2014",
+                            "Month": "5",
+                            "Day": "20",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2015",
+                            "Month": "7",
+                            "Day": "8",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "24836650"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/bjd.13114"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

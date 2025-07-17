@@ -1,0 +1,356 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "2888937"
+                },
+                "DateCompleted": {
+                    "Year": "1987",
+                    "Month": "11",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2013",
+                    "Month": "11",
+                    "Day": "21"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0379-0355"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "9",
+                            "Issue": "6",
+                            "PubDate": {
+                                "Year": "1987",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "Methods and findings in experimental and clinical pharmacology",
+                        "ISOAbbreviation": "Methods Find Exp Clin Pharmacol"
+                    },
+                    "ArticleTitle": "Topographic brain mapping of EEG in neuropsychopharmacology--Part II. Clinical applications (pharmaco EEG imaging).",
+                    "Pagination": {
+                        "StartPage": "385",
+                        "EndPage": "408",
+                        "MedlinePgn": "385-408"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Multi-lead analysis of drug-induced changes in human brain function as monitored by the scalp-recorded electroencephalogram (EEG) and subsequent imaging of topographic pharmaco-EEG maps has become possible and practical with the advent of modern mini- and micro-computers. The present paper gives a survey about topographic analyses of pharmaco-EEG data obtained in systematic double-blind, placebo-controlled studies in normal healthy volunteers involving representative drugs of 5 different psychopharmacological classes, such as neuroleptics (chlorprothixene), antidepressants (imipramine), tranquilizers (diazepam), psychostimulants (caffeine), and antihypoxidotics/nootropics (pyritinol). The determination of cerebral bioavailability utilizing time- and dose-efficacy relations, as well as the evaluation of bioequipotency of different formulations of compounds is shown. Topographic pharmaco-EEG seems not only to confirm our previous knowledge that quantitative analysis of the human EEG in combination with certain statistical procedures (\"quantitative pharmaco-EEG\") is a valuable method to determine if, how, when and at which dosage a drug will be centrally effective, but also to have the potential to show effects of psychotropic drugs on the target organ--the human brain--which could not be previously picked up by single lead recordings. Topographic pharmaco-EEG imaging can be viewed as an enlargement of our armamentarium to better understand the mode of action of psychotropic drugs in human neuropsychopharmacology, as well as to monitor and (eventually) predict therapeutic efficacy in patients."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Saletu",
+                                "ForeName": "B",
+                                "Initials": "B"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Anderer",
+                                "ForeName": "P",
+                                "Initials": "P"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kinsperger",
+                                "ForeName": "K",
+                                "Initials": "K"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Gr\u00fcnberger",
+                                "ForeName": "J",
+                                "Initials": "J"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D018848",
+                                "#text": "Controlled Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Spain",
+                    "MedlineTA": "Methods Find Exp Clin Pharmacol",
+                    "NlmUniqueID": "7909595",
+                    "ISSNLinking": "0379-0355"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000928",
+                                "#text": "Antidepressive Agents"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D014150",
+                                "#text": "Antipsychotic Agents"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D018756",
+                                "#text": "GABA Antagonists"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "9S7OD60EWP",
+                            "NameOfSubstance": {
+                                "@UI": "D002749",
+                                "#text": "Chlorprothixene"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "Q3JTX2Q7TU",
+                            "NameOfSubstance": {
+                                "@UI": "D003975",
+                                "#text": "Diazepam"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "X015L14V0O",
+                            "NameOfSubstance": {
+                                "@UI": "D001960",
+                                "#text": "Bromazepam"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000928",
+                                "@MajorTopicYN": "N",
+                                "#text": "Antidepressive Agents"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014150",
+                                "@MajorTopicYN": "N",
+                                "#text": "Antipsychotic Agents"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001921",
+                                "@MajorTopicYN": "N",
+                                "#text": "Brain"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001931",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Brain Mapping"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001960",
+                                "@MajorTopicYN": "N",
+                                "#text": "Bromazepam"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002749",
+                                "@MajorTopicYN": "N",
+                                "#text": "Chlorprothixene"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003975",
+                                "@MajorTopicYN": "N",
+                                "#text": "Diazepam"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Electroencephalography"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000295",
+                                "@MajorTopicYN": "N",
+                                "#text": "instrumentation"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018756",
+                                "@MajorTopicYN": "N",
+                                "#text": "GABA Antagonists"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "1987",
+                            "Month": "6",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "1987",
+                            "Month": "6",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "1987",
+                            "Month": "6",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": {
+                        "@IdType": "pubmed",
+                        "#text": "2888937"
+                    }
+                }
+            }
+        }
+    }
+}

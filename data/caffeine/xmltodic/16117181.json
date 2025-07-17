@@ -1,0 +1,332 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "16117181"
+                },
+                "DateCompleted": {
+                    "Year": "2005",
+                    "Month": "10",
+                    "Day": "31"
+                },
+                "DateRevised": {
+                    "Year": "2013",
+                    "Month": "11",
+                    "Day": "21"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "1028-415X"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "8",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2005",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "Nutritional neuroscience",
+                        "ISOAbbreviation": "Nutr Neurosci"
+                    },
+                    "ArticleTitle": "The effects of combined caffeine and glucose drinks on attention in the human brain.",
+                    "Pagination": {
+                        "StartPage": "141",
+                        "EndPage": "153",
+                        "MedlinePgn": "141-53"
+                    },
+                    "Abstract": {
+                        "AbstractText": "The objective of this research was to measure the effects of energising drinks containing caffeine and glucose, upon mental activity during sustained selective attention. Non-invasive electrophysiological brain recordings were made during a behavioural study of selective attention in which participants received either energising or placebo drinks. We tested specifically whether energising drinks have significant effects upon behavioural measures of performance during a task requiring sustained visual selective attention, as well as on accompanying components of the event-related potential (ERPs) related to information processing in the brain. Forty healthy volunteers were blindly assigned to receive either the energising drink or a similar-tasting placebo drink. The behavioural task involved identifying predefined target stimulus among rapidly presented streams of peripheral visual stimuli, and making speeded motor responses to this stimulus. During task performance, accuracy, reaction times and ongoing brain activity were stored for analysis. The energising drink enhanced behavioural performance both in terms of accuracy and speed of reactions. The energising drink also had significant effects upon the event-related potentials. Effects started from the enhancement of the earliest components (Cl/P1), reflecting early visual cortical processing in the energising-drink group relative to the placebo group over the contralateral scalp. The later N1, N2 and P3 components related to decision-making and responses were also modulated by the energising drink. Energising drinks containing caffeine and glucose can enhance behavioural performance during demanding tasks requiring selective attention. The behavioural benefits are coupled to direct effects upon neural information processing."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Rao",
+                                "ForeName": "Anling",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Experimental Psychology, University of Oxford, Oxford OX1 3UD, UK. anling.rao@psy.ox.ac.uk"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hu",
+                                "ForeName": "Henglong",
+                                "Initials": "H"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Nobre",
+                                "ForeName": "Anna Christina",
+                                "Initials": "AC"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Nutr Neurosci",
+                    "NlmUniqueID": "100892202",
+                    "ISSNLinking": "1028-415X"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D010919",
+                                "#text": "Placebos"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "IY9XDZ35W2",
+                            "NameOfSubstance": {
+                                "@UI": "D005947",
+                                "#text": "Glucose"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000293",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adolescent"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001288",
+                                "@MajorTopicYN": "N",
+                                "#text": "Attention"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001519",
+                                "@MajorTopicYN": "N",
+                                "#text": "Behavior"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001628",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Beverages"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001921",
+                                "@MajorTopicYN": "N",
+                                "#text": "Brain"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000502",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "physiology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004734",
+                                "@MajorTopicYN": "N",
+                                "#text": "Energy Metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005071",
+                                "@MajorTopicYN": "N",
+                                "#text": "Evoked Potentials"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005947",
+                                "@MajorTopicYN": "N",
+                                "#text": "Glucose"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000008",
+                                "@MajorTopicYN": "Y",
+                                "#text": "administration & dosage"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010919",
+                                "@MajorTopicYN": "N",
+                                "#text": "Placebos"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D011930",
+                                "@MajorTopicYN": "N",
+                                "#text": "Reaction Time"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014785",
+                                "@MajorTopicYN": "N",
+                                "#text": "Vision, Ocular"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2005",
+                            "Month": "8",
+                            "Day": "25",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2005",
+                            "Month": "11",
+                            "Day": "1",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2005",
+                            "Month": "8",
+                            "Day": "25",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "16117181"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1080/10284150500096994"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

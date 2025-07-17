@@ -1,0 +1,410 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "28296341"
+                },
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "06",
+                    "Day": "19"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "12",
+                    "Day": "10"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1942-7611"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "9",
+                            "Issue": "10",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Oct"
+                            }
+                        },
+                        "Title": "Drug testing and analysis",
+                        "ISOAbbreviation": "Drug Test Anal"
+                    },
+                    "ArticleTitle": "Distribution pattern of ethyl glucuronide and caffeine concentrations over the scalp of a single person in a forensic context.",
+                    "Pagination": {
+                        "StartPage": "1594",
+                        "EndPage": "1603",
+                        "MedlinePgn": "1594-1603"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1002/dta.2186"
+                    },
+                    "Abstract": {
+                        "AbstractText": {
+                            "sup": "3",
+                            "#text": "The distribution of analyte concentrations in hair across the scalp has not been thoroughly investigated. Differences in concentrations depending on sampling location are problematic, especially when measuring a second strand to confirm the result of the first measurement. Aiming at a better understanding of the concentration differences, the distribution of ethyl glucuronide (EtG) and caffeine concentrations in hair across the entire head of one test subject was investigated by dividing the scalp completely into regions of ca 2\u00a0cm\u00a0\u00d7\u00a02\u00a0cm area, yielding a total of 104 samples. For the quantification of EtG, a novel LC-MS /MRM method was developed and validated with a limit of detection and limit of quantification of 2 and 4\u00a0pg/mg, respectively. Large variations of the concentration across the head were found, with factors of ca 3.0 and 10.6 for EtG and caffeine, respectively. These differences could not be attributed to measurement error alone. The concentrations were projected onto the subject's head, and concentration patterns were identified for EtG and caffeine. When examining multiple strands from within one 2\u00a0cm\u00a0\u00d7\u00a02\u00a0cm sampling area, the strands showed similar concentrations. Segmental analysis of selected 3\u00a0cm strands showed decreasing concentrations of EtG and caffeine from proximal to distal end, possibly due to wash-out of the analytes. Copyright \u00a9 2017 John Wiley & Sons, Ltd."
+                        },
+                        "CopyrightInformation": "Copyright \u00a9 2017 John Wiley & Sons, Ltd."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Meier",
+                                "ForeName": "Ulf",
+                                "Initials": "U",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-8284-9467"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Institute of Legal Medicine of the University of Basel, Forensic Chemistry and Toxicology, Pestalozzistrasse 22, CH-4056, Basel, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Briellmann",
+                                "ForeName": "Thomas",
+                                "Initials": "T",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Institute of Legal Medicine of the University of Basel, Forensic Chemistry and Toxicology, Pestalozzistrasse 22, CH-4056, Basel, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Scheurer",
+                                "ForeName": "Eva",
+                                "Initials": "E",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-2742-0422"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Institute of Legal Medicine of the University of Basel, Forensic Chemistry and Toxicology, Pestalozzistrasse 22, CH-4056, Basel, Switzerland."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Dussy",
+                                "ForeName": "Franz",
+                                "Initials": "F",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Institute of Legal Medicine of the University of Basel, Forensic Chemistry and Toxicology, Pestalozzistrasse 22, CH-4056, Basel, Switzerland."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D023361",
+                                "#text": "Validation Study"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2017",
+                        "Month": "05",
+                        "Day": "11"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Drug Test Anal",
+                    "NlmUniqueID": "101483449",
+                    "ISSNLinking": "1942-7603"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D015415",
+                                "#text": "Biomarkers"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D005965",
+                                "#text": "Glucuronates"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "17685-04-0",
+                            "NameOfSubstance": {
+                                "@UI": "C093924",
+                                "#text": "ethyl glucuronide"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000428",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alcohol Drinking"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000453",
+                                "@MajorTopicYN": "N",
+                                "#text": "epidemiology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015415",
+                                "@MajorTopicYN": "N",
+                                "#text": "Biomarkers"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000032",
+                                "@MajorTopicYN": "N",
+                                "#text": "analysis"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000032",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "analysis"
+                                },
+                                {
+                                    "@UI": "Q000302",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "isolation & purification"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002853",
+                                "@MajorTopicYN": "N",
+                                "#text": "Chromatography, Liquid"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000379",
+                                "@MajorTopicYN": "Y",
+                                "#text": "methods"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D053593",
+                                "@MajorTopicYN": "N",
+                                "#text": "Forensic Toxicology"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000379",
+                                "@MajorTopicYN": "N",
+                                "#text": "methods"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005965",
+                                "@MajorTopicYN": "N",
+                                "#text": "Glucuronates"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000032",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "analysis"
+                                },
+                                {
+                                    "@UI": "Q000302",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "isolation & purification"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D057230",
+                                "@MajorTopicYN": "N",
+                                "#text": "Limit of Detection"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D053719",
+                                "@MajorTopicYN": "N",
+                                "#text": "Tandem Mass Spectrometry"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000379",
+                                "@MajorTopicYN": "Y",
+                                "#text": "methods"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "LC-MS3"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "caffeine"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "distribution"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ethyl glucuronide"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair analysis"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2016",
+                            "Month": "9",
+                            "Day": "23"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2017",
+                            "Month": "2",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2017",
+                            "Month": "3",
+                            "Day": "7"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2017",
+                            "Month": "3",
+                            "Day": "16",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2018",
+                            "Month": "6",
+                            "Day": "21",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2017",
+                            "Month": "3",
+                            "Day": "16",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "28296341"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1002/dta.2186"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

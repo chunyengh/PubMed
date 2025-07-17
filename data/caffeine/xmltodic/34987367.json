@@ -1,0 +1,821 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "PubMed-not-MEDLINE",
+                "@Owner": "NLM",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "34987367"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "01",
+                    "Day": "07"
+                },
+                "Article": {
+                    "@PubModel": "Electronic-eCollection",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "1662-5161"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "15",
+                            "PubDate": {
+                                "Year": "2021"
+                            }
+                        },
+                        "Title": "Frontiers in human neuroscience",
+                        "ISOAbbreviation": "Front Hum Neurosci"
+                    },
+                    "ArticleTitle": "Delirium, Caffeine, and Perioperative Cortical Dynamics.",
+                    "Pagination": {
+                        "StartPage": "744054",
+                        "MedlinePgn": "744054"
+                    },
+                    "ELocationID": [
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "744054"
+                        },
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.3389/fnhum.2021.744054"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": {
+                            "i": [
+                                "criticality",
+                                "n",
+                                "via"
+                            ],
+                            "#text": "Delirium is a major public health issue associated with considerable morbidity and mortality, particularly after surgery. While the neurobiology of delirium remains incompletely understood, emerging evidence suggests that cognition requires close proximity to a system state called , which reflects a point of dynamic instability that allows for flexible access to a wide range of brain states. Deviations from criticality are associated with neurocognitive disorders, though the relationship between criticality and delirium has not been formally tested. This study tested the primary hypothesis that delirium in the postanesthesia care unit would be associated with deviations from criticality, based on surrogate electroencephalographic measures. As a secondary objective, the impact of caffeine was also tested on delirium incidence and criticality. To address these aims, we conducted a secondary analysis of a randomized clinical trial that tested the effects of intraoperative caffeine on postoperative recovery in adults undergoing major surgery. In this substudy, whole-scalp (16-channel) electroencephalographic data were analyzed from a subset of trial participants ( = 55) to determine whether surrogate measures of neural criticality - (1) autocorrelation function of global alpha oscillations and (2) topography of phase relationships  phase lag entropy - were associated with delirium. These measures were analyzed in participants experiencing delirium in the postanesthesia care unit (compared to those without delirium) and in participants randomized to caffeine compared to placebo. Results demonstrated that autocorrelation function in the alpha band was significantly reduced in delirious participants, which is important given that alpha rhythms are postulated to play a vital role in consciousness. Moreover, participants randomized to caffeine demonstrated increased alpha autocorrelation function concurrent with reduced delirium incidence. Lastly, the anterior-posterior topography of phase relationships appeared most preserved in non-delirious participants and in those receiving caffeine. These data suggest that early postoperative delirium may reflect deviations from neural criticality, and caffeine may reduce delirium risk by shifting cortical dynamics toward criticality."
+                        },
+                        "CopyrightInformation": "Copyright \u00a9 2021 Kim, McKinney, Brooks, Mashour, Lee and Vlisides."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kim",
+                                "ForeName": "Hyoungkyu",
+                                "Initials": "H",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    },
+                                    {
+                                        "Affiliation": "Center for Consciousness Science, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "McKinney",
+                                "ForeName": "Amy",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Brooks",
+                                "ForeName": "Joseph",
+                                "Initials": "J",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Mashour",
+                                "ForeName": "George A",
+                                "Initials": "GA",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    },
+                                    {
+                                        "Affiliation": "Center for Consciousness Science, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    },
+                                    {
+                                        "Affiliation": "Neuroscience Graduate Program, University of Michigan, Ann Arbor, MI, United States."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Lee",
+                                "ForeName": "UnCheol",
+                                "Initials": "U",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    },
+                                    {
+                                        "Affiliation": "Center for Consciousness Science, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Vlisides",
+                                "ForeName": "Phillip E",
+                                "Initials": "PE",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Anesthesiology, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    },
+                                    {
+                                        "Affiliation": "Center for Consciousness Science, University of Michigan Medical School, Ann Arbor, MI, United States."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2021",
+                        "Month": "12",
+                        "Day": "20"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Front Hum Neurosci",
+                    "NlmUniqueID": "101477954",
+                    "ISSNLinking": "1662-5161"
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "cognitive aging"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "cognitive dysfunction"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "delirium"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "electroencephalography"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "postoperative cognitive changes"
+                        }
+                    ]
+                },
+                "CoiStatement": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2021",
+                            "Month": "7",
+                            "Day": "19"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2021",
+                            "Month": "11",
+                            "Day": "30"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "6",
+                            "Hour": "5",
+                            "Minute": "52"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "7",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "7",
+                            "Hour": "6",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2021",
+                            "Month": "1",
+                            "Day": "1"
+                        }
+                    ]
+                },
+                "PublicationStatus": "epublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "34987367"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC8722672"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.3389/fnhum.2021.744054"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Alderson T. H., Bokde A. L. W., Kelso J. A. S., Maguire L., Coyle D. (2020). Metastable neural dynamics underlies cognitive performance across multiple behavioural paradigms. Hum. Brain Mapp. 41 3212\u20133234. 10.1002/hbm.25009",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/hbm.25009"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7375112"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "32301561"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Avidan M. S., Maybrier H. R., Abdallah A. B., Jacobsohn E., Vlisides P. E., Pryor K. O., et al. (2017). Intraoperative ketamine for prevention of postoperative delirium or pain after major surgery in older adults: an international, multicentre, double-blind, randomised clinical trial. Lancet 390 267\u2013275. 10.1016/s0140-6736(17)31467-8",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/s0140-6736(17)31467-8"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5644286"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28576285"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Bertschinger N., Natschl\u00e4ger T. (2004). Real-time computation at the edge of chaos in recurrent neural networks. Neural. Comput. 16 1413\u20131436. 10.1162/089976604323057443",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1162/089976604323057443"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15165396"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chang D., Song D., Zhang J., Shang Y., Ge Q., Wang Z. (2018). Caffeine caused a widespread increase of resting brain entropy. Sci. Rep. 8:2700. 10.1038/s41598-018-21008-6",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/s41598-018-21008-6"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5807546"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29426918"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chialvo D. R., Cannas S. A., Grigera T. S., Martin D. A., Plenz D. (2020). Controlling a complex system near its critical point via temporal correlations. Sci. Rep. 10:12145. 10.1038/s41598-020-69154-0",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/s41598-020-69154-0"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7376152"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "32699316"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Dasgupta M., Dumbrell A. C. (2006). Preoperative risk assessment for delirium after noncardiac surgery: a systematic review. J. Am. Geriatr. Soc. 54 1578\u20131589. 10.1111/j.1532-5415.2006.00893.x",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1532-5415.2006.00893.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17038078"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Delorme A., Makeig S. (2004). EEGLAB: an open source toolbox for analysis of single-trial EEG dynamics including independent component analysis. J. Neurosci. Methods 134 9\u201321. 10.1016/j.jneumeth.2003.10.009",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jneumeth.2003.10.009"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15102499"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Finelli L. A., Baumann H., Borb\u00e9ly A. A., Achermann P. (2000). Dual electroencephalogram markers of human sleep homeostasis: correlation between theta activity in waking and slow-wave activity in sleep. Neuroscience 101 523\u2013529. 10.1016/s0306-4522(00)00409-7",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/s0306-4522(00)00409-7"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "11113301"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fong T. G., Vasunilashorn S. M., Libermann T., Marcantonio E. R., Inouye S. K. (2019). Delirium and Alzheimer disease: a proposed model for shared pathophysiology. Int. J. Geriatr. Psychiatry 34 781\u2013789. 10.1002/gps.5088",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/gps.5088"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6830540"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30773695"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Gleason L. J., Schmitt E. M., Kosar C. M., Tabloski P., Saczynski J. S., Robinson T., et al. (2015). Effect of delirium and other major complications on outcomes after elective surgery in older adults. JAMA Surg. 150 1134\u20131140. 10.1001/jamasurg.2015.2606",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1001/jamasurg.2015.2606"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4684425"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26352694"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Haller S., Rodriguez C., Moser D., Toma S., Hofmeister J., Sinanaj I., et al. (2013). Acute caffeine administration impact on working memory-related brain activation and functional connectivity in the elderly: a BOLD and perfusion MRI study. Neuroscience 250 364\u2013371. 10.1016/j.neuroscience.2013.07.021",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.neuroscience.2013.07.021"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23876323"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Hesse J., Gross T. (2014). Self-organized criticality as a fundamental property of neural systems. Front. Syst. Neurosci. 8:166. 10.3389/fnsys.2014.00166",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3389/fnsys.2014.00166"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4171833"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25294989"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Hshieh T. T., Saczynski J., Gou R. Y., Marcantonio E., Jones R. N., Schmitt E., et al. (2017). Trajectory of functional recovery after postoperative delirium in elective surgery. Ann. Surg. 265 647\u2013653. 10.1097/sla.0000000000001952",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1097/sla.0000000000001952"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5292310"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27501176"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Inouye S. K., van Dyck C. H., Alessi C. A., Balkin S., Siegal A. P., Horwitz R. I. (1990). Clarifying confusion: the confusion assessment method. a new method for detection of delirium. Ann. Intern. Med. 113 941\u2013948. 10.7326/0003-4819-113-12-941",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.7326/0003-4819-113-12-941"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "2240918"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Irrmischer M., Poil S. S., Mansvelder H. D., Intra F. S., Linkenkaer-Hansen K. (2018). Strong long-range temporal correlations of beta/gamma oscillations are associated with poor sustained visual attention performance. Eur. J. Neurosci. 48 2674\u20132683. 10.1111/ejn.13672",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/ejn.13672"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6221163"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28858404"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kuchinke L., Lux V. (2012). Caffeine improves left hemisphere processing of positive words. PLoS One 7:e48487. 10.1371/journal.pone.0048487",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1371/journal.pone.0048487"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3492460"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23144893"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lee H., Golkowski D., Jordan D., Berger S., Ilg R., Lee J., et al. (2019). Relationship of critical dynamics, functional connectivity, and states of consciousness in large-scale human brain networks. Neuroimage 188 228\u2013238. 10.1016/j.neuroimage.2018.12.011",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.neuroimage.2018.12.011"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30529630"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lee H., Noh G. J., Joo P., Choi B. M., Silverstein B. H., Kim M., et al. (2017). Diversity of functional connectivity patterns is reduced in propofol-induced unconsciousness. Hum. Brain Mapp. 38 4980\u20134995. 10.1002/hbm.23708",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/hbm.23708"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6866820"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28670685"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Linkenkaer-Hansen K., Nikouline V. V., Palva J. M., Ilmoniemi R. J. (2001). Long-range temporal correlations and scaling behavior in human brain oscillations. J. Neurosci. 21 1370\u20131377. 10.1523/jneurosci.21-04-01370.2001",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1523/jneurosci.21-04-01370.2001"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6762238"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "11160408"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Lisk R., Yeong K., Enwere P., Jenkinson J., Robin J., Irvin-Sellers M., et al. (2020). Associations of 4AT with mobility, length of stay and mortality in hospital and discharge destination among patients admitted with hip fractures. Age Ageing 49 411\u2013417. 10.1093/ageing/afz161",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1093/ageing/afz161"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31813951"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Marcantonio E. R., Ngo L. H., O\u2019Connor M., Jones R. N., Crane P. K., Metzger E. D., et al. (2014). 3D-CAM: derivation and validation of a 3-minute diagnostic interview for CAM-defined delirium: a cross-sectional diagnostic test study. Ann. Intern. Med. 161 554\u2013561. 10.7326/m14-0865",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.7326/m14-0865"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4319978"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25329203"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Meisel C., Olbrich E., Shriki O., Achermann P. (2013). Fading signatures of critical brain dynamics during sustained wakefulness in humans. J. Neurosci. 33 17363\u201317372. 10.1523/jneurosci.1516-13.2013",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1523/jneurosci.1516-13.2013"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3858643"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24174669"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Moon J. Y., Kim J., Ko T. W., Kim M., Iturria-Medina Y., Choi J. H., et al. (2017). Structure shapes dynamics and directionality in diverse brain networks: mathematical principles and empirical confirmation in three species. Sci. Rep. 7:46606. 10.1038/srep46606",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/srep46606"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5397857"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28425500"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Palva J. M., Zhigalov A., Hirvonen J., Korhonen O., Linkenkaer-Hansen K., Palva S. (2013). Neuronal long-range temporal correlations and avalanche dynamics are correlated with behavioral scaling laws. Proc. Natl. Acad. Sci. U.S.A. 110 3585\u20133590. 10.1073/pnas.1216855110",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1073/pnas.1216855110"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3587255"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23401536"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Saczynski J. S., Marcantonio E. R., Quach L., Fong T. G., Gross A., Inouye S. K., et al. (2012). Cognitive trajectories after postoperative delirium. N. Engl. J. Med. 367 30\u201339. 10.1056/NEJMoa1112923",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1056/NEJMoa1112923"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3433229"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22762316"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Scheffer M., Bascompte J., Brock W. A., Brovkin V., Carpenter S. R., Dakos V., et al. (2009). Early-warning signals for critical transitions. Nature 461 53\u201359. 10.1038/nature08227",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1038/nature08227"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19727193"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shew W. L., Plenz D. (2013). The functional benefits of criticality in the cortex. Neuroscientist 19 88\u2013100. 10.1177/1073858412445487",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1177/1073858412445487"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22627091"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Sprung J., Roberts R. O., Weingarten T. N., Nunes Cavalcante A., Knopman D. S., Petersen R. C., et al. (2017). Postoperative delirium in elderly patients is associated with subsequent cognitive impairment. Br. J. Anaesth. 119 316\u2013323. 10.1093/bja/aex130",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1093/bja/aex130"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28854531"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Stam C. J., Nolte G., Daffertshofer A. (2007). Phase lag index: assessment of functional connectivity from multi channel EEG and MEG with diminished bias from common sources. Hum. Brain Mapp. 28 1178\u20131193. 10.1002/hbm.20346",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/hbm.20346"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6871367"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17266107"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Vlisides P. E., Bel-Bahar T., Nelson A., Chilton K., Smith E., Janke E., et al. (2018). Subanaesthetic ketamine and altered states of consciousness in humans. Br. J. Anaesth. 121 249\u2013259. 10.1016/j.bja.2018.03.011",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.bja.2018.03.011"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6200112"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29935579"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Vlisides P. E., Li D., McKinney A., Brooks J., Leis A. M., Mentz G., et al. (2021). The effects of intraoperative caffeine on postoperative opioid consumption and related outcomes after laparoscopic surgery: a randomized controlled trial. Anesth Analg. 133 233\u2013242. 10.1213/ane.0000000000005532",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1213/ane.0000000000005532"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8717251"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "33939649"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Witlox J., Eurelings L. S., de Jonghe J. F., Kalisvaart K. J., Eikelenboom P., van Gool W. A. (2010). Delirium in elderly patients and the risk of postdischarge mortality, institutionalization, and dementia: a meta-analysis. JAMA 304 443\u2013451. 10.1001/jama.2010.1013",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1001/jama.2010.1013"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20664045"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

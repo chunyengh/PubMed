@@ -1,0 +1,342 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "18641209"
+                },
+                "DateCompleted": {
+                    "Year": "2008",
+                    "Month": "09",
+                    "Day": "02"
+                },
+                "DateRevised": {
+                    "Year": "2023",
+                    "Month": "02",
+                    "Day": "16"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1541-6100"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "138",
+                            "Issue": "8",
+                            "PubDate": {
+                                "Year": "2008",
+                                "Month": "Aug"
+                            }
+                        },
+                        "Title": "The Journal of nutrition",
+                        "ISOAbbreviation": "J Nutr"
+                    },
+                    "ArticleTitle": "L-theanine and caffeine in combination affect human cognition as evidenced by oscillatory alpha-band activity and attention task performance.",
+                    "Pagination": {
+                        "StartPage": "1572S",
+                        "EndPage": "1577S",
+                        "MedlinePgn": "1572S-1577S"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Recent neuropharmacological research has suggested that certain constituents of tea may have modulatory effects on brain state. The bulk of this research has focused on either L-theanine or caffeine ingested alone (mostly the latter) and has been limited to behavioral testing, subjective rating, or neurophysiological assessments during resting. Here, we investigated the effects of both L-theanine and caffeine, ingested separately or together, on behavioral and electrophysiological indices of tonic (background) and phasic (event-related) visuospatial attentional deployment. Subjects underwent 4 d of testing, ingesting either placebo, 100 mg of L-theanine, 50 mg of caffeine, or these treatments combined. The task involved cued shifts of attention to the left or right visual hemifield in anticipation of an imperative stimulus requiring discrimination. In addition to behavioral measures, we examined overall, tonic attentional focus as well as phasic, cue-dependent anticipatory attentional biasing, as indexed by scalp-recorded alpha-band (8-14 Hz) activity. We found an increase in hit rate and target discriminability (d') for the combined treatment relative to placebo, and an increase in d' but not hit rate for caffeine alone, whereas no effects were detected for L-theanine alone. Electrophysiological results did not show increased differential biasing in phasic alpha across hemifields but showed lower overall tonic alpha power in the combined treatment, similar to previous findings at a larger dosage of L-theanine alone. This may signify a more generalized tonic deployment of attentional resources to the visual modality and may underlie the facilitated behavioral performance on the combined ingestion of these 2 major constituents of tea."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kelly",
+                                "ForeName": "Simon P",
+                                "Initials": "SP",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Cognitive Neurophysiology Laboratory, Nathan S. Kline Institute for Psychiatric Research, Program in Cognitive Neuroscience and Schizophrenia, Orangeburg, NY 10962, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Gomez-Ramirez",
+                                "ForeName": "Manuel",
+                                "Initials": "M"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Montesi",
+                                "ForeName": "Jennifer L",
+                                "Initials": "JL"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Foxe",
+                                "ForeName": "John J",
+                                "Initials": "JJ"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D018848",
+                                "#text": "Controlled Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "J Nutr",
+                    "NlmUniqueID": "0404243",
+                    "ISSNLinking": "0022-3166"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D005971",
+                                "#text": "Glutamates"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "8021PR16QO",
+                            "NameOfSubstance": {
+                                "@UI": "C026166",
+                                "#text": "theanine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001288",
+                                "@MajorTopicYN": "N",
+                                "#text": "Attention"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001931",
+                                "@MajorTopicYN": "N",
+                                "#text": "Brain Mapping"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000494",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "pharmacology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000494",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "pharmacology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003071",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cognition"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003463",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cues"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004359",
+                                "@MajorTopicYN": "N",
+                                "#text": "Drug Therapy, Combination"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005971",
+                                "@MajorTopicYN": "N",
+                                "#text": "Glutamates"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000008",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "administration & dosage"
+                                },
+                                {
+                                    "@UI": "Q000494",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "pharmacology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013647",
+                                "@MajorTopicYN": "N",
+                                "#text": "Task Performance and Analysis"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2008",
+                            "Month": "7",
+                            "Day": "22",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2008",
+                            "Month": "9",
+                            "Day": "3",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2008",
+                            "Month": "7",
+                            "Day": "22",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "18641209"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1093/jn/138.8.1572S"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0022-3166(22)09912-6"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

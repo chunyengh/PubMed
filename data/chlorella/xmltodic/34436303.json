@@ -1,0 +1,1451 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "34436303"
+                },
+                "DateCompleted": {
+                    "Year": "2022",
+                    "Month": "01",
+                    "Day": "11"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "01",
+                    "Day": "11"
+                },
+                "Article": {
+                    "@PubModel": "Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1660-3397"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "19",
+                            "Issue": "8",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Aug",
+                                "Day": "17"
+                            }
+                        },
+                        "Title": "Marine drugs",
+                        "ISOAbbreviation": "Mar Drugs"
+                    },
+                    "ArticleTitle": "Marine Ingredients for Sensitive Skin: Market Overview.",
+                    "ELocationID": [
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "464"
+                        },
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.3390/md19080464"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": {
+                            "i": [
+                                "Laminaria ochroleuca",
+                                "Ascophyllum nodosum",
+                                "Asparagopsis armata",
+                                "Chlorella vulgaris",
+                                "Ascophyllum nodosum",
+                                "Asparagopsis armata"
+                            ],
+                            "#text": "Marine ingredients are a source of new chemical entities with biological action, which is the reason why they have gained relevance in the cosmetic industry. The facial care category is the most relevant in this industry, and within it, the sensitive skin segment occupies a prominent position. This work analyzed the use of marine ingredients in 88 facial cosmetics for sensitive skin from multinational brands, as well as their composition and the scientific evidence that supports their efficacy. Marine ingredients were used in 27% of the cosmetic products for sensitive skin and included the species ,  (brown macroalgae),  (red macroalgae), and  (microalgae). Carotenoids, polysaccharides, and lipids are the chemical classes highlighted in these preparations. Two ingredients, namely the  extract and  extracts, present clinical evidence supporting their use for sensitive skin. Overall, marine ingredients used in cosmetics for sensitive skin are proposed to reduce skin inflammation and improve the barrier function. Marine-derived preparations constitute promising active ingredients for sensitive skin cosmetic products. Their in-depth study, focusing on the extracted metabolites, randomized placebo-controlled studies including volunteers with sensitive skin, and the use of extraction methods that are more profitable may provide a great opportunity for the cosmetic industry."
+                        }
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ferreira",
+                                "ForeName": "Marta Salvador",
+                                "Initials": "MS",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-9064-4859"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Associate Laboratory i4HB-Institute for Health and Bioeconomy, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    },
+                                    {
+                                        "Affiliation": "UCIBIO-Applied Molecular Biosciences Unit, MedTech, Laboratory of Pharmaceutical Technology, Department of Drug Sciences, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Resende",
+                                "ForeName": "Diana I S P",
+                                "Initials": "DISP",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-4077-6060"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "CIIMAR-Centro Interdisciplinar de Investiga\u00e7\u00e3o Marinha e Ambiental, Avenida General Norton de Matos, S/N, 4450-208 Matosinhos, Portugal."
+                                    },
+                                    {
+                                        "Affiliation": "Laborat\u00f3rio de Qu\u00edmica Org\u00e2nica e Farmac\u00eautica, Departamento de Ci\u00eancias Qu\u00edmicas, Faculdade de Farm\u00e1cia, Universidade do Porto, 4050-313 Porto, Portugal."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Lobo",
+                                "ForeName": "Jos\u00e9 M Sousa",
+                                "Initials": "JMS",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-9518-8397"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Associate Laboratory i4HB-Institute for Health and Bioeconomy, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    },
+                                    {
+                                        "Affiliation": "UCIBIO-Applied Molecular Biosciences Unit, MedTech, Laboratory of Pharmaceutical Technology, Department of Drug Sciences, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sousa",
+                                "ForeName": "Em\u00edlia",
+                                "Initials": "E",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-5397-4672"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "CIIMAR-Centro Interdisciplinar de Investiga\u00e7\u00e3o Marinha e Ambiental, Avenida General Norton de Matos, S/N, 4450-208 Matosinhos, Portugal."
+                                    },
+                                    {
+                                        "Affiliation": "Laborat\u00f3rio de Qu\u00edmica Org\u00e2nica e Farmac\u00eautica, Departamento de Ci\u00eancias Qu\u00edmicas, Faculdade de Farm\u00e1cia, Universidade do Porto, 4050-313 Porto, Portugal."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Almeida",
+                                "ForeName": "Isabel F",
+                                "Initials": "IF",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-1498-048X"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Associate Laboratory i4HB-Institute for Health and Bioeconomy, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    },
+                                    {
+                                        "Affiliation": "UCIBIO-Applied Molecular Biosciences Unit, MedTech, Laboratory of Pharmaceutical Technology, Department of Drug Sciences, Faculty of Pharmacy, University of Porto, 4050-313 Porto, Portugal."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": [
+                            {
+                                "GrantID": "POCI-01-0145-FEDER-028736",
+                                "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "CHIRALBIOACTIVE-PI-3RL-IINFACTS-2019",
+                                "Agency": "Cooperativa de Ensino Superior Polit\u00e9cnico e Universit\u00e1rio",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "FCT/MCTES (UID/Multi/04378/2020)",
+                                "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "UIDB/04423/2020",
+                                "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "UIDP/04423/2020",
+                                "Agency": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+                                "Country": null
+                            }
+                        ]
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2021",
+                        "Month": "08",
+                        "Day": "17"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Mar Drugs",
+                    "NlmUniqueID": "101213729",
+                    "ISSNLinking": "1660-3397"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D003358",
+                                "#text": "Cosmetics"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D003879",
+                                "#text": "Dermatologic Agents"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000818",
+                                "@MajorTopicYN": "N",
+                                "#text": "Animals"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D059001",
+                                "@MajorTopicYN": "N",
+                                "#text": "Aquatic Organisms"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003358",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Cosmetics"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003879",
+                                "@MajorTopicYN": "N",
+                                "#text": "Dermatologic Agents"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000627",
+                                "@MajorTopicYN": "Y",
+                                "#text": "therapeutic use"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005145",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Face"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006967",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hypersensitivity"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000188",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007221",
+                                "@MajorTopicYN": "N",
+                                "#text": "Industry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D058086",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Microalgae"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012624",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Seaweed"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "algae"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "cosmetics"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "marine ingredients"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "sensitive skin"
+                        }
+                    ]
+                },
+                "CoiStatement": "The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "2"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "12"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "14"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "26",
+                            "Hour": "12",
+                            "Minute": "25"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "27",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "12",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2021",
+                            "Month": "8",
+                            "Day": "17"
+                        }
+                    ]
+                },
+                "PublicationStatus": "epublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "34436303"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC8398991"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.3390/md19080464"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "md19080464"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Kim J.H., Lee J.-E., Kim K.H., Kang N.J. Beneficial effects of marine algae-derived carbohydrates for skin health. Mar. Drugs. 2018;16:459. doi: 10.3390/md16110459.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md16110459"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6266229"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30469402"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kim S.-K., Pangestuti R. Biological properties of cosmeceuticals derived from marine algae. In: Kim S.-K., editor. Marine Cosmeceuticals: Trends and Prospects. CRC Press; Boca Raton, FL, USA: 2012. p. 191."
+                        },
+                        {
+                            "Citation": "Lochhead R.Y. Chapter 13-The use of polymers in cosmetic products. In: Sakamoto K., Lochhead R.Y., Maibach H.I., Yamashita Y., editors. Cosmetic Science and Technology. Elsevier; Amsterdam, The Netherlands: 2017. pp. 171\u2013221."
+                        },
+                        {
+                            "Citation": "Sathasivam R., Radhakrishnan R., Hashem A., Abd_Allah E.F. Microalgae metabolites: A rich source for food and medicine. Saudi J. Biol. Sci. 2019;26:709\u2013722. doi: 10.1016/j.sjbs.2017.11.003.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.sjbs.2017.11.003"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6486502"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31048995"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Brunt E.G., Burgess J.G. The promise of marine molecules as cosmetic active ingredients. Int. J. Cosmet. Sci. 2018;40:1\u201315. doi: 10.1111/ics.12435.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/ics.12435"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29057483"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kim S.K., Ravichandran Y.D., Khan S.B., Kim Y.T. Prospective of the cosmeceuticals derived from marine organisms. Biotechnol. Bioprocess Eng. 2008;13:511\u2013523. doi: 10.1007/s12257-008-0113-5.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s12257-008-0113-5"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bayona K.C.D., Navarro S.M., Lara A.D., Colorado J., Atehort\u00faa L., Mart\u00ednez A. Activity of sulfated polysaccharides from microalgae Porphyridium cruentum over degenerative mechanisms of the skin. Int. J. Adv. Sci. Technol. 2012;2:85\u201392."
+                        },
+                        {
+                            "Citation": "Leandro A., Pereira L., Gon\u00e7alves A.M.M. Diverse applications of marine macroalgae. Mar. Drugs. 2020;18:17. doi: 10.3390/md18010017.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md18010017"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7024196"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31878264"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Drouart C., SEPPIC  Ingredients and Formulas.  [(accessed on 3 May 2021)]; Available online:  https://www.seppic.com/"
+                        },
+                        {
+                            "Citation": "The European Parliament and The Council of the European Union Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products. Off. J. Eur. Union L. 2009;342:59."
+                        },
+                        {
+                            "Citation": "Guillerme J.-B., Couteau C., Coiffard L. Applications for marine resources in cosmetics. Cosmetics. 2017;4:35. doi: 10.3390/cosmetics4030035.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics4030035"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Cosmetic Products.  [(accessed on 1 June 2021)]; Available online:  https://cosmeticseurope.eu/cosmetic-products/"
+                        },
+                        {
+                            "Citation": "2020 Annual Report-Cosmetics Market.  [(accessed on 1 June 2021)]; Available online:  https://www.loreal-finance.com/en/annual-report-2020/cosmetics-market-2-1-0/"
+                        },
+                        {
+                            "Citation": "Chen W., Dai R., Li L. The prevalence of self-declared sensitive skin: A systematic review and meta-analysis. J. Eur. Acad. Dermatol. Venereol. 2020;34:1779\u20131788. doi: 10.1111/jdv.16166.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jdv.16166"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31869523"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Farage M.A. The prevalence of sensitive skin. Front. Med. 2019;6:98. doi: 10.3389/fmed.2019.00098.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3389/fmed.2019.00098"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6533878"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31157225"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Misery L. Neuropsychiatric factors in sensitive skin. Clin. Dermatol. 2017;35:281\u2013284. doi: 10.1016/j.clindermatol.2017.01.011.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.clindermatol.2017.01.011"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28511825"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Berardesca E., Farage M., Maibach H. Sensitive skin: An overview. Int. J. Cosmet. Sci. 2013;35:2\u20138. doi: 10.1111/j.1468-2494.2012.00754.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1468-2494.2012.00754.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22928591"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Misery L. Sensitive skin, reactive skin. Ann. Dermatol. Venereol. 2019;146:585\u2013591. doi: 10.1016/j.annder.2019.05.007.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.annder.2019.05.007"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31320184"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Farage M.A., Jiang Y., Tiesman J.P., Fontanillas P., Osborne R. Genome-wide association study identifies loci associated with sensitive skin. Cosmetics. 2020;7:49. doi: 10.3390/cosmetics7020049.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics7020049"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Verhoeven E.W., de Klerk S., Kraaimaat F.W., van de Kerkhof P.C., de Jong E.M., Evers A.W. Biopsychosocial mechanisms of chronic itch in patients with skin diseases: A review. Acta Derm. Venereol. 2008;88:211\u2013218. doi: 10.2340/00015555-0452.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.2340/00015555-0452"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "18480917"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Zheng Y., Liang H., Li Z., Tang M., Song L. Skin microbiome in sensitive skin: The decrease of Staphylococcus epidermidis seems to be related to female lactic acid sting test sensitive skin. J. Dermatol. Sci. 2020;97:225\u2013228. doi: 10.1016/j.jdermsci.2019.12.004.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.jdermsci.2019.12.004"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "32156526"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Misery L., Weisshaar E., Brenaut E., Evers A.W.M., Huet F., Stander S., Reich A., Berardesca E., Serra-Baldrich E., Wallengren J., et al. Pathophysiology and management of sensitive skin: Position paper from the special interest group on sensitive skin of the International Forum for the Study of Itch (IFSI) J. Eur. Acad. Dermatol. Venereol. 2020;34:222\u2013229. doi: 10.1111/jdv.16000.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jdv.16000"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31660659"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Misery L., Loser K., Stander S. Sensitive skin. J. Eur. Acad. Dermatol. Venereol. 2016;30(Suppl. 1):2\u20138. doi: 10.1111/jdv.13532.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/jdv.13532"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26805416"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Richters R., Falcone D., Uzunbajakava N., Verkruysse W., van Erp P., van de Kerkhof P. What is sensitive skin? A systematic literature review of objective measurements. Skin Pharmacol. Physiol. 2015;28:75\u201383. doi: 10.1159/000363149.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1159/000363149"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25322670"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ferrer-Montiel A., Camprub\u00ed-Robles M., Garc\u00eda-Sanz N., Sempere A., Valente P., Nest W.V.D., Carre\u00f1o C. The contribution of neurogenic inflammation to sensitive skin: Concepts, mechanisms and cosmeceutical intervention. Int. J. Cosmet. Sci. 2009;11:311\u2013315. doi: 10.1111/j.1468-2494.2009.00530_1.x.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1111/j.1468-2494.2009.00530_1.x"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Roussaki-Schulze A.V., Zafiriou E., Nikoulis D., Klimi E., Rallis E., Zintzaras E. Objective biophysical findings in patients with sensitive skin. Drugs Exp. Clin. Res. 2005;31:17\u201324.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16444908"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Raj N., Voegeli R., Rawlings A.V., Doppler S., Imfeld D., Munday M.R., Lane M.E. A fundamental investigation into aspects of the physiology and biochemistry of the stratum corneum in subjects with sensitive skin. Int. J. Cosmet. Sci. 2017;39:2\u201310. doi: 10.1111/ics.12334.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/ics.12334"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27079667"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Cho H.J., Chung B.Y., Lee H.B., Kim H.O., Park C.W., Lee C.H. Quantitative study of stratum corneum ceramides contents in patients with sensitive skin. J. Dermatol. 2012;39:295\u2013300. doi: 10.1111/j.1346-8138.2011.01406.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1346-8138.2011.01406.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22035317"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Richters R.J., Falcone D., Uzunbajakava N.E., Varghese B., Caspers P.J., Puppels G.J., van Erp P.E., van de Kerkhof P.C. Sensitive Skin: Assessment of the skin barrier using confocal raman microspectroscopy. Skin Pharmacol. Physiol. 2017;30:1\u201312. doi: 10.1159/000452152.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1159/000452152"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5516410"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "28122376"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Resende D.I.S.P., Ferreira M.S., Sousa-Lobo J.M., Sousa E., Almeida I.F. Usage of Synthetic Peptides in Cosmetics for Sensitive Skin. Pharmaceuticals. 2021;14:702. doi: 10.3390/ph14080702.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/ph14080702"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC8400021"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "34451799"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Resende D.I.S.P., Ferreira M., Magalh\u00e3es C., Sousa Lobo J.M., Sousa E., Almeida I.F. Trends in the use of marine ingredients in anti-aging cosmetics. Algal Res. 2021;55:102273. doi: 10.1016/j.algal.2021.102273.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.algal.2021.102273"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Martins A., Vieira H., Gaspar H., Santos S. Marketed marine natural products in the pharmaceutical and cosmeceutical industries: Tips for success. Mar. Drugs. 2014;12:1066\u20131101. doi: 10.3390/md12021066.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md12021066"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3944531"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24549205"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Siahaan E.A., Pangestuti R., Munandar H., Kim S.-K. Cosmeceuticals properties of sea cucumbers: Prospects and trends. Cosmetics. 2017;4:26. doi: 10.3390/cosmetics4030026.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics4030026"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Domloge N., Bauza E., Cucumel K., Peyronel D., Dal Farra C. Artemia extract toward more extensive sun protection. Cosmet. Toilet. 2002;2002:67\u201378."
+                        },
+                        {
+                            "Citation": "Cho M.G., Han G.T., Han S.I., Kang J.G., Lee G.H., Lee Y.S., Oh J.Y., Park M.S. Wrinkle Resisting Cosmetic Composition Containing Plankton Artemia Salina (Brine Shrimp) Extract, and Its Preparation Method. KR 2002073725-A. KR Patent. 2002 Sep;"
+                        },
+                        {
+                            "Citation": "Vaseli-Hagh N., Deezagi A., Shahraki M.K. Anti-aging effects of the proteins fromartemia extract on human fibroblasts cell proliferation and collagen expression in induced aging conditions. Ann. Biotechnol. 2018;3:1015."
+                        },
+                        {
+                            "Citation": "Kim S.-K., Wijesekara I. Cosmeceuticals from marine resources: Prospects and commercial trends. In: Kim S.-K., editor. Marine Cosmeceuticals: Trends and Prospects. CRC Press; Boca Raton, FL, USA: 2012. pp. 1\u201310."
+                        },
+                        {
+                            "Citation": "Alves A.L., Marques A.L.P., Martins E., Silva T.H., Reis R.L. Cosmetic potential of marine fish skin collagen. Cosmetics. 2017;4:39. doi: 10.3390/cosmetics4040039.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics4040039"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Pereira L. Seaweeds as source of bioactive substances and skin care therapy\u2014cosmeceuticals, algotheraphy, and thalassotherapy. Cosmetics. 2018;5:68. doi: 10.3390/cosmetics5040068.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics5040068"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Wang H.-M.D., Chen C.-C., Huynh P., Chang J.-S. Exploring the potential of using algae in cosmetics. Bioresour. Technol. 2015;184:355\u2013362. doi: 10.1016/j.biortech.2014.12.001.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.biortech.2014.12.001"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25537136"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "CosIng.  [(accessed on 17 June 2021)]; Available online:  https://ec.europa.eu/growth/tools-databases/cosing/"
+                        },
+                        {
+                            "Citation": "Smale D.A., Wernberg T., Yunnie A.L.E., Vance T. The rise of Laminaria ochroleuca in the Western English Channel (UK) and comparisons with its competitor and assemblage dominant Laminaria hyperborea. Mar. Ecol. 2015;36:1033\u20131044. doi: 10.1111/maec.12199.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1111/maec.12199"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Pessarrodona A., Foggo A., Smale D.A. Can ecosystem functioning be maintained despite climate-driven shifts in species composition? Insights from novel marine forests. J. Ecol. 2019;107:91\u2013104. doi: 10.1111/1365-2745.13053.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1111/1365-2745.13053"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fernandes F., Barbosa M., Oliveira A.P., Azevedo I.C., Sousa-Pinto I., Valent\u00e3o P., Andrade P.B. The pigments of kelps (Ochrophyta) as part of the flexible response to highly variable marine environments. J. App. Phycol. 2016;28:3689\u20133696. doi: 10.1007/s10811-016-0883-7.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s10811-016-0883-7"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Rodr\u00edguez-Bernaldo de Quir\u00f3s A., Lage-Yusty M.A., L\u00f3pez-Hern\u00e1ndez J. Determination of phenolic compounds in macroalgae for human consumption. Food Chem. 2010;121:634\u2013638. doi: 10.1016/j.foodchem.2009.12.078.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.foodchem.2009.12.078"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Katiyar S.K., Ahmad N., Mukhtar H. Green tea and skin. Arch. Dermatol. 2000;136:989\u2013994. doi: 10.1001/archderm.136.8.989.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1001/archderm.136.8.989"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "10926734"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Katiyar S.K., Elmets C.A., Agarwal R., Mukhtar H. Protection against ultraviolet-B radiation-induced local and systemic suppression of contact hypersensitivity and edema responses in C3H/HeN mice by green tea polyphenols. Photochem. Photobiol. 1995;62:855\u2013861. doi: 10.1111/j.1751-1097.1995.tb09147.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1751-1097.1995.tb09147.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "8570723"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Koch M., Glombitza K.-W., Eckhard G. Phlorotannins of phaeophycea Laminaria ochroleuca. Phytochemistry. 1980;19:1821\u20131823. doi: 10.1016/S0031-9422(00)83820-0.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/S0031-9422(00)83820-0"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Barbosa M., Fernandes F., Pereira D.M., Azevedo I.C., Sousa-Pinto I., Andrade P.B., Valent\u00e3o P. Fatty acid patterns of the kelps Saccharina latissima, Saccorhiza polyschides and Laminaria ochroleuca: Influence of changing environmental conditions. Arab. J. Chem. 2020;13:45\u201358. doi: 10.1016/j.arabjc.2017.01.015.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.arabjc.2017.01.015"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Safety Assessment of Brown Algae-Derived Ingredients as Used in Cosmetics.  [(accessed on 1 June 2021)]; Available online:  https://www.cir-safety.org/sites/default/files/Brown%20Algae_1.pdf."
+                        },
+                        {
+                            "Citation": "Algotherm  Laminaria\u00a0ochroleuca.  [(accessed on 5 May 2021)]; Available online:  https://algotherm.ua/en/algae/laminaria-ochroleuca/"
+                        },
+                        {
+                            "Citation": "OCEA DEFENCE\u00ae Marine Skin Immunity Booster.  [(accessed on 3 June 2021)]; Available online:  http://www.biosiltech.com/pdf/gelyma/OCEA%20DEFENCE%20-%20LEAFLET.pdf."
+                        },
+                        {
+                            "Citation": "ANTILEUKINE 6\u2014Global Defense Active Ingredient.  [(accessed on 1 June 2001)]; Available online:  https://www.seppic.com/en/antileukine-6."
+                        },
+                        {
+                            "Citation": "Bonneville M., Saint-Mezard P., Benetiere J., Hennino A., Pernet I., Denis A., Nicolas J. Laminaria ochroleuca extract reduces skin inflammation. J. Eur. Acad. Dermatol. Venereol. 2007;21:1124\u20131125. doi: 10.1111/j.1468-3083.2006.02111.x.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1111/j.1468-3083.2006.02111.x"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17714147"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Pereira L., Morrison L., Shukla P.S., Critchley A.T. A concise review of the brown macroalga Ascophyllum nodosum (Linnaeus) Le Jolis. J. Appl. Phycol. 2020;32:3561\u20133584. doi: 10.1007/s10811-020-02246-6.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s10811-020-02246-6"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Audibert L., Fauchon M., Blanc N., Hauchard D., Ar Gall E. Phenolic compounds in the brown seaweed Ascophyllum nodosum: Distribution and radical-scavenging activities. Phytochem. Anal. 2010;21:399\u2013405. doi: 10.1002/pca.1210.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/pca.1210"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20333652"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Holdt S.L., Kraan S. Bioactive compounds in seaweed: Functional food applications and legislation. J. Appl. Phycol. 2011;23:543\u2013597. doi: 10.1007/s10811-010-9632-5.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s10811-010-9632-5"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bahar B., O\u2019Doherty J.V., Smyth T.J., Sweeney T. A comparison of the effects of an Ascophyllum nodosum ethanol extract and its molecular weight fractions on the inflammatory immune gene expression in-vitro and ex-vivo. Innov. Food Sci. Emerg. Technol. 2016;37:276\u2013285. doi: 10.1016/j.ifset.2016.07.027.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.ifset.2016.07.027"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Senni K., Gueniche F., Foucault-Bertaud A., Igondjo-Tchen S., Fioretti F., Colliec-Jouault S., Durand P., Guezennec J., Godeau G., Letourneur D. Fucoidan a sulfated polysaccharide from brown algae is a potent modulator of connective tissue proteolysis. Arch. Biochem. Biophys. 2006;445:56\u201364. doi: 10.1016/j.abb.2005.11.001.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.abb.2005.11.001"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "16364234"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Qu\u00e9guineur B., Goya L., Ramos S., Mart\u00edn M.A., Mateos R., Guiry M.D., Bravo L. Effect of phlorotannin-rich extracts of Ascophyllum nodosum and Himanthalia elongata (Phaeophyceae) on cellular oxidative markers in human HepG2 cells. J. App. Phycol. 2013;25:1\u201311. doi: 10.1007/s10811-012-9832-2.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s10811-012-9832-2"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Guinea M., Franco V., Araujo-Baz\u00e1n L., Rodr\u00edguez-Mart\u00edn I., Gonz\u00e1lez S. In vivo UVB-photoprotective activity of extracts from commercial marine macroalgae. Food Chem. Toxicol. 2012;50:1109\u20131117. doi: 10.1016/j.fct.2012.01.004.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.fct.2012.01.004"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22273696"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chater P.I., Wilcox M., Cherry P., Herford A., Mustar S., Wheater H., Brownlee I., Seal C., Pearson J. Inhibitory activity of extracts of Hebridean brown seaweeds on lipase activity. J. App. Phycol. 2016;28:1303\u20131313. doi: 10.1007/s10811-015-0619-0.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s10811-015-0619-0"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4789227"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27057089"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "SHIK B.J., SIK J., SOOK K.Y., PIL P.K. A discoloration method of fucoidan containing solution, discolorized fucoidan containing solution and cosmetic compositions for sensitive skins containing the same. KR10102. 5903B1:2009."
+                        },
+                        {
+                            "Citation": "Oomizu S., Yanase Y., Suzuki H., Kameyoshi Y., Hide M. Fucoidan prevents C\u03b5 germline transcription and NF\u03baB p52 translocation for IgE production in B cells. Biochem. Biophys. Res. Commun. 2006;350:501\u2013507. doi: 10.1016/j.bbrc.2006.08.009.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.bbrc.2006.08.009"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17027924"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Tian T., Chang H., He K., Ni Y., Li C., Hou M., Chen L., Xu Z., Chen B., Ji M. Fucoidan from seaweed Fucus vesiculosus inhibits 2,4-dinitrochlorobenzene-induced atopic dermatitis. Int. Immunopharmacol. 2019;75:105823. doi: 10.1016/j.intimp.2019.105823.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.intimp.2019.105823"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31422184"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Abu R., Jiang Z., Ueno M., Isaka S., Nakazono S., Okimura T., Cho K., Yamaguchi K., Kim D., Oda T. Anti-metastatic effects of the sulfated polysaccharide ascophyllan isolated from Ascophyllum nodosum on B16 melanoma. Biochem. Biophys. Res. Commun. 2015;458:727\u2013732. doi: 10.1016/j.bbrc.2015.01.061.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.bbrc.2015.01.061"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25623538"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Jiang Z., Okimura T., Yamaguchi K., Oda T. The potent activity of sulfated polysaccharide, ascophyllan, isolated from Ascophyllum nodosum to induce nitric oxide and cytokine production from mouse macrophage RAW264.7 cells: Comparison between ascophyllan and fucoidan. Nitric Oxide. 2011;25:407\u2013415. doi: 10.1016/j.niox.2011.10.001.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.niox.2011.10.001"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22024029"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Aldavine\u2122 5X Algae Polysaccharides Complex.  [(accessed on 4 June 2021)]; Available online:  http://ulprospector.com/documents/1428207.pdf?bs=4499&b=124731&st=20&r=eu&ind=personalcare."
+                        },
+                        {
+                            "Citation": "Chang S.N., Dey D.K., Oh S.T., Kong W.H., Cho K.H., Al-Olayan E.M., Hwang B.S., Kang S.C., Park J.G. Phorbol 12-Myristate 13-acetate induced toxicity study and the role of tangeretin in abrogating HIF-1\u03b1-NF-\u03baB crosstalk In vitro and in vivo. Int. J. Mol. Sci. 2020;21:9261. doi: 10.3390/ijms21239261.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/ijms21239261"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC7729754"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "33291656"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Pinteus S., Lemos M.F.L., Alves C., Neugebauer A., Silva J., Thomas O.P., Botana L.M., Gaspar H., Pedrosa R. Marine invasive macroalgae: Turning a real threat into a major opportunity-the biotechnological potential of Sargassum muticum and Asparagopsis armata. Algal Res. 2018;34:217\u2013234. doi: 10.1016/j.algal.2018.06.018.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.algal.2018.06.018"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Gantt E., Grabowski B., Cunningham F.X. Antenna systems of red algae: Phycobilisomes with photosystem ll and chlorophyll complexes with photosystem I. In: Green B.R., Parson W.W., editors. Light-Harvesting Antennas in Photosynthesis. Springer; Dordrecht, The Netherlands: 2003. pp. 307\u2013322."
+                        },
+                        {
+                            "Citation": "Ragusa I., Nardone G.N., Zanatta S., Bertin W., Amadio E. Spirulina for skin care: A bright blue future. Cosmetics. 2021;8:7. doi: 10.3390/cosmetics8010007.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics8010007"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Pimentel F.B., Alves R.C., Rodrigues F., P. P. Oliveira M.B. Macroalgae-derived ingredients for cosmetic industry\u2014An update. Cosmetics. 2018;5:2. doi: 10.3390/cosmetics5010002.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.3390/cosmetics5010002"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Carvalhal F., Cristelo R.R., Resende D.I.S.P., Pinto M.M.M., Sousa E., Correia-da-Silva M. Antithrombotics from the sea: Polysaccharides and beyond. Mar. Drugs. 2019;17:170. doi: 10.3390/md17030170.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md17030170"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6471875"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "30884850"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Shick J.M., Dunlap W.C. Mycosporine-like amino acids and related gadusols: Biosynthesis, accumulation, and UV-protective functions in aquatic organisms. Annu. Rev. Physiol. 2002;64:223\u2013262. doi: 10.1146/annurev.physiol.64.081501.155802.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1146/annurev.physiol.64.081501.155802"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "11826269"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Reef R., Kaniewska P., Hoegh-Guldberg O. Coral skeletons defend against ultraviolet radiation. PLoS ONE. 2009;4:e7995. doi: 10.1371/journal.pone.0007995.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1371/journal.pone.0007995"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2776492"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19946361"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Bedoux G., Hardouin K., Burlot A.S., Bourgougnon N. Chapter Twelve-Bioactive components from seaweeds: Cosmetic applications and future development. In: Bourgougnon N., editor. Advances in Botanical Research. Volume 71. Academic Press; Cambridge, MA, USA: 2014. pp. 345\u2013378."
+                        },
+                        {
+                            "Citation": "Pereira L. Seaweed flora of the european north atlantic and mediterranean. In: Kim S.-K., editor. Springer Handbook of Marine Biotechnology. Springer; Berlin/Heidelberg, Germany: 2015. pp. 65\u2013178."
+                        },
+                        {
+                            "Citation": "Pangestuti R., Kim S.-K. Chapter Seven-Biological activities of carrageenan. In: Kim S.-K., editor. Advances in Food and Nutrition Research. Volume 72. Academic Press; Cambridge, MA, USA: 2014. pp. 113\u2013124.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25081080"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hartmann A., Gostner J., Fuchs J.E., Chaita E., Aligiannis N., Skaltsounis L., Ganzera M. Inhibition of collagenase by mycosporine-like amino acids from marine sources. Planta Med. 2015;81:813\u2013820. doi: 10.1055/s-0035-1546105.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1055/s-0035-1546105"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4515944"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26039265"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chrapusta E., Kaminski A., Duchnik K., Bober B., Adamski M., Bialczyk J. Mycosporine-like amino acids: Potential health and beauty ingredients. Mar. Drugs. 2017;15:326. doi: 10.3390/md15100326.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md15100326"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5666432"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "29065484"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kageyama H., Waditee-Sirisattha R. Antioxidative, anti-inflammatory, and anti-aging properties of mycosporine-like amino acids: Molecular and cellular mechanisms in the protection of skin-aging. Mar. Drugs. 2019;17:222. doi: 10.3390/md17040222.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md17040222"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC6521297"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "31013795"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Suh S.-S., Hwang J., Park M., Seo H.H., Kim H.-S., Lee J.H., Moh S.H., Lee T.-K. Anti-inflammation activities of mycosporine-like amino acids (MAAs) in response to UV radiation suggest potential anti-skin aging activity. Mar. Drugs. 2014;12:5174\u20135187. doi: 10.3390/md12105174.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md12105174"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4210892"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25317535"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Phykosil 2000.  [(accessed on 15 June 2021)]; Available online:  https://www.ulprospector.com/documents/1055240.pdf?bs=4655&b=132140&st=20&r=na&ind=personalcare."
+                        },
+                        {
+                            "Citation": "Christaki E., Eleftherios B., Ilias G., Panagiota F.P. Functional properties of carotenoids originating from algae. J. Sci. Food Agric. 2013;93:5\u201311. doi: 10.1002/jsfa.5902.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1002/jsfa.5902"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23044813"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ru I.T.K., Sung Y.Y., Jusoh M., Wahid M.E.A., Nagappan T. Chlorella vulgaris: A perspective on its potential for combining high biomass with high value bioproducts. App. Phycol. 2020;1:2\u201311. doi: 10.1080/26388081.2020.1715256.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1080/26388081.2020.1715256"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Raposo M.F.d.J., De Morais R.M.S.C., Bernardo de Morais A.M.M. Bioactivity and applications of sulphated polysaccharides from marine microalgae. Mar. Drugs. 2013;11:233\u2013252. doi: 10.3390/md11010233.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/md11010233"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3564169"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23344113"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chen C.-L., Liou S.-F., Chen S.-J., Shih M.-F. Protective effects of Chlorella-derived peptide on UVB-induced production of MMP-1 and degradation of procollagen genes in human skin fibroblasts. Regul. Toxicol. Pharmacol. 2011;60:112\u2013119. doi: 10.1016/j.yrtph.2011.03.001.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.yrtph.2011.03.001"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "21397653"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "de Melo R.G., de Andrade A.F., Bezerra R.P., Viana Marques D.d.A., da Silva J.V.A., Paz S.T., de Lima Filho J.L., Porto A.L.F. Hydrogel-based Chlorella vulgaris extracts: A new topical formulation for wound healing treatment. J. Appl. Phycol. 2019;31:3653\u20133663. doi: 10.1007/s10811-019-01837-2.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1007/s10811-019-01837-2"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Machmud E., Ruslin M., Waris R., Asse R.A., Qadafi A.M., Achmad H. Effect of the Application of Chlorella vulgaris Ointment to the Number of Fibroblast Cells as an Indicator of Wound Healing in the Soft Tissue of Pig Ears. Pesqui. Bras. Odontopediatria Clin. Integr. 2020;20:5012. doi: 10.1590/pboci.2020.032.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1590/pboci.2020.032"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Kang H., Lee C.H., Kim J.R., Kwon J.Y., Seo S.G., Han J.G., Kim B.G., Kim J.-E., Lee K.W. Chlorella vulgaris attenuates dermatophagoides farinae-induced atopic dermatitis-like symptoms in NC/Nga mice. Int. J. Mol. Sci. 2015;16:21021\u201321034. doi: 10.3390/ijms160921021.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/ijms160921021"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4613239"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26404252"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Singh A., Singh S.P., Bamezai R. Inhibitory potential of Chlorella vulgaris (E-25) on mouse skin papillomagenesis and xenobiotic detoxication system. Anticancer Res. 1999;19:1887\u20131891.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10470132"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Cornejo Navarro P. Inhibici\u00f3n de la angiog\u00e9nesis por un producto destinado a la prevenci\u00f3n y cuidado del enrojecimiento facial y sus aplicaciones cosm\u00e9ticas. Piel. 2016;31:321\u2013324. doi: 10.1016/j.piel.2015.11.008.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "doi",
+                                    "#text": "10.1016/j.piel.2015.11.008"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,350 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "30623481"
+                },
+                "DateCompleted": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "17"
+                },
+                "DateRevised": {
+                    "Year": "2019",
+                    "Month": "06",
+                    "Day": "17"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1346-8138"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "46",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2019",
+                                "Month": "Mar"
+                            }
+                        },
+                        "Title": "The Journal of dermatology",
+                        "ISOAbbreviation": "J Dermatol"
+                    },
+                    "ArticleTitle": "Dietary supplement product composed of natural ingredients as a suspected cause of erythema multiforme: A case report and identification for the confident false positivity of lymphocyte transformation test.",
+                    "Pagination": {
+                        "StartPage": "234",
+                        "EndPage": "239",
+                        "MedlinePgn": "234-239"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/1346-8138.14739"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Growing and sustainable consumption of health-care products raises a controversial issue underlying the reliability of an in\u00a0vitro diagnostic approach for adverse skin reaction. This report aimed to: (i) discuss the causative nature of a commercial dietary supplement composed of natural ingredients, particularly an Euglena-containing product, suspicious for erythema multiforme in our exemplified case; and (ii) to address the assay suitability of the lymphocyte transformation test (LTT) for identifying allergic reaction to any ingredient(s) of the product. A Japanese elderly man developed erythema multiforme after intake of a commercially available natural dietary product, whose LTT was positive. His clinical course and positive LTT suggested a provisional diagnosis of natural dietary product-induced eruption. We conducted an inquiry survey for the standard LTT with any commercial products containing Euglena in three major Japanese laboratory services and identified 22 subjects, almost all of whom (21/22, 95.6%) showed a positive LTT for any Euglena-containing products as a suspected causative. Seven normal healthy volunteers who had no intake history of Euglena-containing products showed an equivalent LTT positivity rate with the same product taken by our case; culprit components of the product included Euglena, Angelica keiskei, Barley grass and Chlorella. A cell-free culture system and enzyme-linked immunoassay suggest that the high LTT positivity relies on the non-specific lymphoproliferative activity, and not contamination of uncharacterized microorganisms and endotoxins. Because of the constitutive false positivity of LTT, this assay is unreliable for in\u00a0vitro supportive diagnosis of adverse skin events caused by dietary products containing particular natural ingredients, as well as herbal materials.",
+                        "CopyrightInformation": "\u00a9 2019 Japanese Dermatological Association."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Utsunomiya",
+                                "ForeName": "Natsuko",
+                                "Initials": "N",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Oyama",
+                                "ForeName": "Noritaka",
+                                "Initials": "N",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0003-4934-5205"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Chino",
+                                "ForeName": "Takenao",
+                                "Initials": "T",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Utsunomiya",
+                                "ForeName": "Akira",
+                                "Initials": "A",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0003-1164-6088"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hida",
+                                "ForeName": "Yukio",
+                                "Initials": "Y",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Clinical Laboratories, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hasegawa",
+                                "ForeName": "Minoru",
+                                "Initials": "M",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0003-3738-2682"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Faculty of Medical Sciences, University of Fukui, Fukui, Japan."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D002363",
+                                "#text": "Case Reports"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2019",
+                        "Month": "01",
+                        "Day": "09"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "J Dermatol",
+                    "NlmUniqueID": "7600545",
+                    "ISSNLinking": "0385-2407"
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000368",
+                                "@MajorTopicYN": "N",
+                                "#text": "Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D019587",
+                                "@MajorTopicYN": "N",
+                                "#text": "Dietary Supplements"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000009",
+                                "@MajorTopicYN": "Y",
+                                "#text": "adverse effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004797",
+                                "@MajorTopicYN": "N",
+                                "#text": "Enzyme-Linked Immunosorbent Assay"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004892",
+                                "@MajorTopicYN": "N",
+                                "#text": "Erythema Multiforme"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000097",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "blood"
+                                },
+                                {
+                                    "@UI": "Q000139",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "chemically induced"
+                                },
+                                {
+                                    "@UI": "Q000175",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "diagnosis"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005055",
+                                "@MajorTopicYN": "N",
+                                "#text": "Euglena"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005189",
+                                "@MajorTopicYN": "N",
+                                "#text": "False Positive Reactions"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008213",
+                                "@MajorTopicYN": "N",
+                                "#text": "Lymphocyte Activation"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015203",
+                                "@MajorTopicYN": "N",
+                                "#text": "Reproducibility of Results"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012882",
+                                "@MajorTopicYN": "N",
+                                "#text": "Skin Tests"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000592",
+                                "@MajorTopicYN": "Y",
+                                "#text": "standards"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "Euglena"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "adverse skin reaction"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "erythema multiforme"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "lymphocyte transformation test"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "natural dietary supplement"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2018",
+                            "Month": "4",
+                            "Day": "30"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2018",
+                            "Month": "10",
+                            "Day": "25"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2019",
+                            "Month": "1",
+                            "Day": "10",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2019",
+                            "Month": "6",
+                            "Day": "18",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2019",
+                            "Month": "1",
+                            "Day": "10",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "30623481"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/1346-8138.14739"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

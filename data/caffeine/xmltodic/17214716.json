@@ -1,0 +1,370 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "17214716"
+                },
+                "DateCompleted": {
+                    "Year": "2007",
+                    "Month": "04",
+                    "Day": "20"
+                },
+                "DateRevised": {
+                    "Year": "2022",
+                    "Month": "03",
+                    "Day": "17"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0011-9059"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "46",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2007",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "International journal of dermatology",
+                        "ISOAbbreviation": "Int J Dermatol"
+                    },
+                    "ArticleTitle": "Effect of caffeine and testosterone on the proliferation of human hair follicles in vitro.",
+                    "Pagination": {
+                        "StartPage": "27",
+                        "EndPage": "35",
+                        "MedlinePgn": "27-35"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "@NlmCategory": "BACKGROUND",
+                                "#text": "Androgenetic alopecia (AGA) is a common problem in men of all ages, affecting approximately 50% at 50 years of age. The underlying cause is an androgen-dependent miniaturization of genetically predetermined hair follicles. Here, the hair organ culture model was used to investigate the effects of testosterone and caffeine; the latter being a promising candidate for hair growth stimulation."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "Hair follicles from 14 biopsies, taken from the vertex areas from male AGA patients, were cultivated for 120-192 h in vitro with normal William's E medium (control) or William's E medium containing different concentrations of testosterone and/or caffeine. Hair shaft elongation was measured daily and at the end of cultivation, cryosections of follicles were stained with Ki-67 to evaluate the degree and localization of keratinocyte proliferation."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Significant growth suppression was found in hair follicles treated with 5 microg/ml testosterone. This was counteracted by caffeine in concentrations of 0.001% and 0.005%. Moreover, caffeine alone led to a significant stimulation of hair follicle growth. These results were confirmed immunohistochemically by Ki-67 staining."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "@NlmCategory": "CONCLUSIONS",
+                                "#text": "Androgen-dependent growth inhibition of ex vivo hair follicles from patients suffering from AGA was present in the human hair organ culture model, a constellation which may serve for future studies to screen new substances against androgen-dependent hair loss. Caffeine was identified as a stimulator of human hair growth in vitro; a fact which may have important clinical impact in the management of AGA."
+                            }
+                        ]
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Fischer",
+                                "ForeName": "T W",
+                                "Initials": "TW",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology and Allergology, Friedrich-Schiller-University, Jena, Germany. tobias.fischer@derma.uni-jena.de"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hipler",
+                                "ForeName": "U C",
+                                "Initials": "UC"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Elsner",
+                                "ForeName": "P",
+                                "Initials": "P"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Dermatol",
+                    "NlmUniqueID": "0243704",
+                    "ISSNLinking": "0011-9059"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000728",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D019394",
+                                "#text": "Ki-67 Antigen"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D010726",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3XMK78S47O",
+                            "NameOfSubstance": {
+                                "@UI": "D013739",
+                                "#text": "Testosterone"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000378",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "metabolism"
+                                },
+                                {
+                                    "@UI": "Q000473",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "pathology"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000728",
+                                "@MajorTopicYN": "N",
+                                "#text": "Androgens"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001706",
+                                "@MajorTopicYN": "N",
+                                "#text": "Biopsy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018859",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Follicle"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000187",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "drug effects"
+                                },
+                                {
+                                    "@UI": "Q000254",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "growth & development"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007150",
+                                "@MajorTopicYN": "N",
+                                "#text": "Immunohistochemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D066298",
+                                "@MajorTopicYN": "N",
+                                "#text": "In Vitro Techniques"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D019394",
+                                "@MajorTopicYN": "N",
+                                "#text": "Ki-67 Antigen"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010726",
+                                "@MajorTopicYN": "N",
+                                "#text": "Phosphodiesterase Inhibitors"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000473",
+                                "@MajorTopicYN": "N",
+                                "#text": "pathology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013739",
+                                "@MajorTopicYN": "N",
+                                "#text": "Testosterone"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2007",
+                            "Month": "1",
+                            "Day": "12",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2007",
+                            "Month": "4",
+                            "Day": "21",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2007",
+                            "Month": "1",
+                            "Day": "12",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "17214716"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/j.1365-4632.2007.03119.x"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "IJD3119"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

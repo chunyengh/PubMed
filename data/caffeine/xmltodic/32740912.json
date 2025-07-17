@@ -1,0 +1,305 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Automated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "32740912"
+                },
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "10"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "10"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1365-2133"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "184",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "The British journal of dermatology",
+                        "ISOAbbreviation": "Br J Dermatol"
+                    },
+                    "ArticleTitle": "Caffeine relaxes hair follicles in androgenetic alopecia.",
+                    "Pagination": {
+                        "StartPage": "7",
+                        "EndPage": "8",
+                        "MedlinePgn": "7-8"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/bjd.19388"
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": {
+                            "@ValidYN": "Y",
+                            "LastName": "Ohyama",
+                            "ForeName": "M",
+                            "Initials": "M",
+                            "Identifier": {
+                                "@Source": "ORCID",
+                                "#text": "0000-0002-2662-5717"
+                            },
+                            "AffiliationInfo": {
+                                "Affiliation": "Department of Dermatology, Kyorin University Faculty of Medicine, Tokyo, Japan."
+                            }
+                        }
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016420",
+                                "#text": "Comment"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2020",
+                        "Month": "08",
+                        "Day": "02"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Dermatol",
+                    "NlmUniqueID": "0004041",
+                    "ISSNLinking": "0007-0963"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000728",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "33507-63-0",
+                            "NameOfSubstance": {
+                                "@UI": "D013373",
+                                "#text": "Substance P"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "9002-60-2",
+                            "NameOfSubstance": {
+                                "@UI": "D000324",
+                                "#text": "Adrenocorticotropic Hormone"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "9015-71-8",
+                            "NameOfSubstance": {
+                                "@UI": "D003346",
+                                "#text": "Corticotropin-Releasing Hormone"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "CommentsCorrectionsList": {
+                    "CommentsCorrections": {
+                        "@RefType": "CommentOn",
+                        "RefSource": "Br J Dermatol. 2021 Jan;184(1):96-110. doi: 10.1111/bjd.19115.",
+                        "PMID": {
+                            "@Version": "1",
+                            "#text": "32271938"
+                        }
+                    }
+                },
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000324",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adrenocorticotropic Hormone"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000505",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alopecia"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000728",
+                                "@MajorTopicYN": "N",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003346",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Corticotropin-Releasing Hormone"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018859",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Follicle"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013373",
+                                "@MajorTopicYN": "N",
+                                "#text": "Substance P"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2020",
+                            "Month": "6",
+                            "Day": "14"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2020",
+                            "Month": "6",
+                            "Day": "15"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2020",
+                            "Month": "8",
+                            "Day": "3",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2021",
+                            "Month": "5",
+                            "Day": "11",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2020",
+                            "Month": "8",
+                            "Day": "3",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "32740912"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/bjd.19388"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Title": "References",
+                    "Reference": [
+                        {
+                            "Citation": "Hadshiew IM, Foitzik K, Arck PC et al. Burden of hair loss: stress and the underestimated psychosocial impact of telogen effluvium and androgenetic alopecia. J Invest Dermatol 2004; 123:455-7."
+                        },
+                        {
+                            "Citation": "Fischer TW, Hipler UC, Elsner P. Effect of caffeine and testosterone on the proliferation of human hair follicles in vitro. Int J Dermatol 2007; 46:27-35."
+                        },
+                        {
+                            "Citation": "Gatherwright J, Liu MT, Amirlak B et al. The contribution of endogenous and exogenous factors to male alopecia: a study of identical twins. Plastic Reconstruct Surg 2013; 131:794e-801e."
+                        },
+                        {
+                            "Citation": "Staufenbiel SM, Penninx BW, Spijker AT et al. Hair cortisol, stress exposure, and mental health in humans: a systematic review. Psychoneuroendocrinology 2013; 38:1220-35."
+                        },
+                        {
+                            "Citation": "Ito N, Ito T, Kromminga A et al. Human hair follicles display a functional equivalent of the hypothalamic-pituitary-adrenal axis and synthesize cortisol. Faseb J 2005; 19:1332-4."
+                        },
+                        {
+                            "Citation": "Fischer TW, Bergmann A, Kruse N et al. New effects of caffeine on corticotropin-releasing hormone(CRH)-induced stress along the intrafollicular classical hypothalamic-pituitary-adrenal (HPA) axis (CRH-R1/2, IP3-R, ACTH, MC-R2) and the neurogenic non-HPA-axis (substance P, p75NTR and TrkA) in ex vivo human male androgenetic scalp hair follicles. Br J Dermatol 2021; 184: 96-110."
+                        },
+                        {
+                            "Citation": "Wikoff D, Welsh BT, Henderson R et al. Systematic review of the potential adverse effects of caffeine consumption in healthy adults, pregnant women, adolescents, and children. Food Chem Toxicol 2017; 109:585-648."
+                        },
+                        {
+                            "Citation": "Otberg N, Patzelt A, Rasulev U et al. The role of hair follicles in the percutaneous absorption of caffeine. Br J Clin Pharmacol 2008; 65:488-92."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,354 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "19486913"
+                },
+                "DateCompleted": {
+                    "Year": "2009",
+                    "Month": "10",
+                    "Day": "19"
+                },
+                "DateRevised": {
+                    "Year": "2013",
+                    "Month": "11",
+                    "Day": "21"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1872-7697"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "73",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2009",
+                                "Month": "Sep"
+                            }
+                        },
+                        "Title": "International journal of psychophysiology : official journal of the International Organization of Psychophysiology",
+                        "ISOAbbreviation": "Int J Psychophysiol"
+                    },
+                    "ArticleTitle": "Caffeine effects on resting-state arousal in children.",
+                    "Pagination": {
+                        "StartPage": "355",
+                        "EndPage": "361",
+                        "MedlinePgn": "355-61"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1016/j.ijpsycho.2009.05.012"
+                    },
+                    "Abstract": {
+                        "AbstractText": "From previous work in our laboratory, increases in skin conductance level (SCL), together with global (across-scalp) decreases in electroencephalogram (EEG) alpha power and increases in alpha frequency, are useful indices of arousal increase, and here we sought to identify changes in these indices with caffeine ingestion in children. We explored the effects of a single oral dose of caffeine (80 mg) in a randomised double-blind placebo-controlled repeated-measures cross-over study. Thirty healthy children aged between 8 and 13 years (mean age 10.5 years; 11 females) participated in two sessions, 1 week apart. EEG and SCL from a 3 min eyes-closed epoch, commencing approximately 30 min after ingestion of caffeine or placebo, were examined. Caffeine was associated with increased SCL, and a global reduction in EEG power in the theta and alpha bands, as well as topographically-focused reductions in delta and beta power, and a focal increase in alpha frequency. Only global alpha level demonstrated the expected inverse relationship with SCL in both placebo and caffeine conditions. These results are generally consistent with recent electrodermal and EEG studies of arousal. Together with our previous adult data, they indicate that caffeine can be used to increase arousal in both adults and children, without the potential confounds associated with varying task demands. Caffeine appears useful as a simple tool for manipulating arousal in studies exploring its role in physiological and behavioural functioning. This may be helpful in determining the role of hypothetical arousal anomalies in syndromes such as attention-deficit/hyperactivity disorder."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Barry",
+                                "ForeName": "Robert J",
+                                "Initials": "RJ",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Brain & Behaviour Research Institute and School of Psychology, University of Wollongong, Wollongong, NSW 2522, Australia. rbarry@uow.edu.au"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Clarke",
+                                "ForeName": "Adam R",
+                                "Initials": "AR"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Johnstone",
+                                "ForeName": "Stuart J",
+                                "Initials": "SJ"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Brown",
+                                "ForeName": "Christopher R",
+                                "Initials": "CR"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Bruggemann",
+                                "ForeName": "Jason M",
+                                "Initials": "JM"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "van Rijbroek",
+                                "ForeName": "Irene",
+                                "Initials": "I"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016430",
+                                "#text": "Clinical Trial"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016449",
+                                "#text": "Randomized Controlled Trial"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2009",
+                        "Month": "05",
+                        "Day": "30"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Netherlands",
+                    "MedlineTA": "Int J Psychophysiol",
+                    "NlmUniqueID": "8406214",
+                    "ISSNLinking": "0167-8760"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000697",
+                                "#text": "Central Nervous System Stimulants"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000293",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adolescent"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000513",
+                                "@MajorTopicYN": "N",
+                                "#text": "Alpha Rhythm"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001143",
+                                "@MajorTopicYN": "N",
+                                "#text": "Arousal"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "Y",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001931",
+                                "@MajorTopicYN": "N",
+                                "#text": "Brain Mapping"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000697",
+                                "@MajorTopicYN": "N",
+                                "#text": "Central Nervous System Stimulants"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "Y",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002648",
+                                "@MajorTopicYN": "N",
+                                "#text": "Child"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018592",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cross-Over Studies"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004311",
+                                "@MajorTopicYN": "N",
+                                "#text": "Double-Blind Method"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005712",
+                                "@MajorTopicYN": "N",
+                                "#text": "Galvanic Skin Response"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012146",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Rest"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013057",
+                                "@MajorTopicYN": "N",
+                                "#text": "Spectrum Analysis"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2009",
+                            "Month": "4",
+                            "Day": "29"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2009",
+                            "Month": "5",
+                            "Day": "23"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2009",
+                            "Month": "5",
+                            "Day": "25"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2009",
+                            "Month": "6",
+                            "Day": "3",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2009",
+                            "Month": "6",
+                            "Day": "3",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2009",
+                            "Month": "10",
+                            "Day": "20",
+                            "Hour": "6",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "19486913"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1016/j.ijpsycho.2009.05.012"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "S0167-8760(09)00142-1"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

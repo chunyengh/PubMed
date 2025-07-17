@@ -1,0 +1,223 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Automated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "32985946"
+                },
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "10",
+                    "Day": "28"
+                },
+                "DateRevised": {
+                    "Year": "2021",
+                    "Month": "10",
+                    "Day": "28"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1530-8898"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "33",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "Journal of cognitive neuroscience",
+                        "ISOAbbreviation": "J Cogn Neurosci"
+                    },
+                    "ArticleTitle": "Caffeine Boosts Preparatory Attention for Reward-related Stimulus Information.",
+                    "Pagination": {
+                        "StartPage": "104",
+                        "EndPage": "118",
+                        "MedlinePgn": "104-118"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1162/jocn_a_01630"
+                    },
+                    "Abstract": {
+                        "AbstractText": "The intake of caffeine and the prospect of reward have both been associated with increased arousal, enhanced attention, and improved behavioral performance on cognitive tasks, but how they interact to exert these effects is not well understood. To investigate this question, we had participants engage in a two-session cued-reward cognitive task while we recorded their electrical brain activity using scalp electroencephalography. The cue indicated whether monetary reward could be received for fast and accurate responses to a color-word Stroop stimulus that followed. Before each session, participants ingested decaffeinated coffee with either caffeine (3-mg/kg bodyweight) or placebo (3-mg/kg bodyweight lactose). The behavioral results showed that both caffeine and reward-prospect improved response accuracy and speed. In the brain, reward-prospect resulted in an enlarged frontocentral slow wave (contingent negative variation, or CNV) and reduced posterior alpha power (indicating increased cortical activity) before stimulus presentation, both neural markers for preparatory attention. Moreover, the CNV enhancement for reward-prospect trials was considerably more pronounced in the caffeine condition as compared to the placebo condition. These interactive neural enhancements due to caffeine and reward-prospect were mainly visible in preparatory attention activity triggered by the cue (CNV). In addition, some interactive neural enhancements in the processing of the Stroop target stimulus that followed were also observed. The results suggest that caffeine facilitates the neural processes underlying attentional preparation and stimulus processing, especially for task-relevant information."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "van den Berg",
+                                "ForeName": "Berry",
+                                "Initials": "B",
+                                "AffiliationInfo": {
+                                    "Affiliation": "University of Groningen, The Netherlands."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "de Jong",
+                                "ForeName": "Marlon",
+                                "Initials": "M",
+                                "AffiliationInfo": {
+                                    "Affiliation": "University of Groningen, The Netherlands."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Woldorff",
+                                "ForeName": "Marty G",
+                                "Initials": "MG",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Duke University."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Lorist",
+                                "ForeName": "Monicque M",
+                                "Initials": "MM",
+                                "AffiliationInfo": {
+                                    "Affiliation": "University of Groningen, The Netherlands."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2020",
+                        "Month": "09",
+                        "Day": "28"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "J Cogn Neurosci",
+                    "NlmUniqueID": "8910747",
+                    "ISSNLinking": "0898-929X"
+                },
+                "ChemicalList": {
+                    "Chemical": {
+                        "RegistryNumber": "3G6A5W338E",
+                        "NameOfSubstance": {
+                            "@UI": "D002110",
+                            "#text": "Caffeine"
+                        }
+                    }
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001288",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Attention"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003265",
+                                "@MajorTopicYN": "N",
+                                "#text": "Contingent Negative Variation"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004569",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electroencephalography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012201",
+                                "@MajorTopicYN": "N",
+                                "#text": "Reward"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2020",
+                            "Month": "9",
+                            "Day": "29",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2021",
+                            "Month": "10",
+                            "Day": "29",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2020",
+                            "Month": "9",
+                            "Day": "28",
+                            "Hour": "12",
+                            "Minute": "19"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "32985946"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1162/jocn_a_01630"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

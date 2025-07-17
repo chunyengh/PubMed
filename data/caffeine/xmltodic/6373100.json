@@ -1,0 +1,227 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "6373100"
+                },
+                "DateCompleted": {
+                    "Year": "1984",
+                    "Month": "06",
+                    "Day": "26"
+                },
+                "DateRevised": {
+                    "Year": "2009",
+                    "Month": "11",
+                    "Day": "19"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0278-2677"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "3",
+                            "Issue": "2",
+                            "PubDate": {
+                                "Year": "1984",
+                                "Season": "Mar-Apr"
+                            }
+                        },
+                        "Title": "Clinical pharmacy",
+                        "ISOAbbreviation": "Clin Pharm"
+                    },
+                    "ArticleTitle": "Classification, mechanisms, and management of headache.",
+                    "Pagination": {
+                        "StartPage": "139",
+                        "EndPage": "152",
+                        "MedlinePgn": "139-52"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Classification, epidemiology, pathophysiology, and therapy of migraine, cluster, and muscle-contraction (tension) headaches are reviewed. Migraine headache is related to vasomotor changes and is often preceded or accompanied by neurologic symptoms, nausea, and vomiting. Ergot alkaloids are used in acute migraine episodes; products containing caffeine are sometimes used for synergy. Other agents including antiemetic and sedative drugs and a combination product containing isometheptene mucate , dichloralphenazone , and acetaminophen have been used. Methysergide is the drug of choice for migraine prophylaxis. Of all patients with cluster headache, 90% experience episodes that occur in series separated by intervals as short as one week or as long as 25 years, and the remaining 10% have chronic headache. Pain is unilateral, nausea and vomiting are rare, and there is no aura. Pathophysiology is thought to be similar to that of migraine. Supportive treatment includes drug therapy to improve sleep and avoidance of alcohol and vasodilating agents. Aerosol ergot preparations may be effective for treatment of acute episodes . Prednisone has been used both as an abortive agent and for prophylaxis, while ergotamine, methysergide, and lithium have been tried prophylactically. Chronic tension headache is a constant, tight, pressing, or bandlike sensation in the frontal, temporal, or occipital area that occurs daily. The deep, steady ache differs from the throbbing sensation of vascular headache. Constant overcontraction of scalp muscles may be a cause. Heat, massage, and stretching are used to alleviate excess muscle contraction. Tension headache has been treated with analgesics, nonsteroidal anti-inflammatory agents, muscle relaxants, and amitriptyline. Drug treatment of headache must be based on headache type and tailored to individual response. Bio-feedback may be useful in some patients when combined with drugs."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Repschlaeger",
+                                "ForeName": "B J",
+                                "Initials": "BJ"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "McPherson",
+                                "ForeName": "M A",
+                                "Initials": "MA"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D016454",
+                                "#text": "Review"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "United States",
+                    "MedlineTA": "Clin Pharm",
+                    "NlmUniqueID": "8207437",
+                    "ISSNLinking": "0278-2677"
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001676",
+                                "@MajorTopicYN": "N",
+                                "#text": "Biofeedback, Psychology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003027",
+                                "@MajorTopicYN": "N",
+                                "#text": "Cluster Headache"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000628",
+                                "@MajorTopicYN": "N",
+                                "#text": "therapy"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004576",
+                                "@MajorTopicYN": "N",
+                                "#text": "Electromyography"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006261",
+                                "@MajorTopicYN": "N",
+                                "#text": "Headache"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000145",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "classification"
+                                },
+                                {
+                                    "@UI": "Q000175",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "diagnosis"
+                                },
+                                {
+                                    "@UI": "Q000188",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug therapy"
+                                },
+                                {
+                                    "@UI": "Q000453",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "epidemiology"
+                                },
+                                {
+                                    "@UI": "Q000209",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "etiology"
+                                },
+                                {
+                                    "@UI": "Q000503",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "physiopathology"
+                                },
+                                {
+                                    "@UI": "Q000628",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "therapy"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008881",
+                                "@MajorTopicYN": "N",
+                                "#text": "Migraine Disorders"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000188",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "drug therapy"
+                                },
+                                {
+                                    "@UI": "Q000628",
+                                    "@MajorTopicYN": "N",
+                                    "#text": "therapy"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "NumberOfReferences": "131"
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "1984",
+                            "Month": "3",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "1984",
+                            "Month": "3",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "1984",
+                            "Month": "3",
+                            "Day": "1",
+                            "Hour": "0",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": {
+                        "@IdType": "pubmed",
+                        "#text": "6373100"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1300 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Automated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "32271938"
+                },
+                "DateCompleted": {
+                    "Year": "2021",
+                    "Month": "05",
+                    "Day": "14"
+                },
+                "DateRevised": {
+                    "Year": "2024",
+                    "Month": "03",
+                    "Day": "12"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1365-2133"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "184",
+                            "Issue": "1",
+                            "PubDate": {
+                                "Year": "2021",
+                                "Month": "Jan"
+                            }
+                        },
+                        "Title": "The British journal of dermatology",
+                        "ISOAbbreviation": "Br J Dermatol"
+                    },
+                    "ArticleTitle": {
+                        "sub": "3",
+                        "sup": "NTR",
+                        "#text": "New effects of caffeine on corticotropin-releasing hormone (CRH)-induced stress along the intrafollicular classical hypothalamic-pituitary-adrenal (HPA) axis (CRH-R1/2, IP -R, ACTH, MC-R2) and the neurogenic non-HPA axis (substance P, p75 and TrkA) in ex\u00a0vivo human male androgenetic scalp hair follicles."
+                    },
+                    "Pagination": {
+                        "StartPage": "96",
+                        "EndPage": "110",
+                        "MedlinePgn": "96-110"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/bjd.19115"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "BACKGROUND",
+                                "#text": "Human hair is highly responsive to stress, and human scalp hair follicles (HFs) contain a peripheral neuroendocrine equivalent of the systemic hypothalamic-pituitary-adrenal (HPA) stress axis. Androgenetic alopecia (AGA) is supposed to be aggravated by stress. We used corticotropin-releasing hormone (CRH), which triggers the HPA axis, to induce a stress response in human ex\u00a0vivo male AGA HFs. Caffeine is known to reverse testosterone-mediated hair growth inhibition in the same hair organ culture model."
+                            },
+                            {
+                                "@Label": "OBJECTIVES",
+                                "#text": "To investigate whether caffeine would antagonize CRH-mediated stress in these HFs."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "sup": [
+                                    "-7",
+                                    "-1"
+                                ],
+                                "#text": "HFs from balding vertex area scalp biopsies of men affected by AGA were incubated with CRH (10 mol L ) with or without caffeine (0\u00b7001% or 0\u00b7005%)."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "sup": "NTR",
+                                "sub": "3",
+                                "#text": "Compared to controls, CRH significantly enhanced the expression of catagen-inducing transforming growth factor-\u03b22 (TGF-\u03b22) (P < 0\u00b7001), CRH receptors 1 and 2 (CRH-R1/2) (P < 0\u00b701), adrenocorticotropic hormone (ACTH) (P < 0\u00b7001) and melanocortin receptor 2 (MC-R2) (P < 0\u00b7001), and additional stress-associated parameters, substance P and p75 neurotrophin receptor (p75 ). CRH inhibited matrix keratinocyte proliferation and expression of anagen-promoting insulin-like growth factor-1 (IGF-1) and the pro-proliferative nerve growth factor receptor NGF-tyrosine kinase receptor A (TrkA). Caffeine significantly counteracted all described stress effects and additionally enhanced inositol trisphosphate receptor (IP -R), for the first time detected in human HFs."
+                            },
+                            {
+                                "@Label": "CONCLUSIONS",
+                                "#text": "These findings provide the first evidence in ex\u00a0vivo human AGA HFs that the stress mediator CRH induces not only a complex intrafollicular HPA response, but also a non-HPA-related stress response. Moreover, we show that these effects can be effectively antagonized by caffeine. Thus, these data strongly support the hypothesis that stress can impair human hair physiology and induce hair loss, and that caffeine may effectively counteract stress-induced hair damage and possibly prevent stress-induced hair loss."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2020 The Authors. British Journal of Dermatology published by John Wiley & Sons Ltd on behalf of British Association of Dermatologists."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Fischer",
+                                "ForeName": "T W",
+                                "Initials": "TW",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-9700-5275"
+                                },
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Dermatology, Allergology and Venerology, University of L\u00fcbeck, L\u00fcbeck, Germany."
+                                    },
+                                    {
+                                        "Affiliation": "Department of Dermatology, Kepler University Hospital, Johannes Kepler University Linz, Linz, Austria."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Bergmann",
+                                "ForeName": "A",
+                                "Initials": "A",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Allergology and Venerology, University of L\u00fcbeck, L\u00fcbeck, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kruse",
+                                "ForeName": "N",
+                                "Initials": "N",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Allergology and Venerology, University of L\u00fcbeck, L\u00fcbeck, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kleszczynski",
+                                "ForeName": "K",
+                                "Initials": "K",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, Allergology and Venerology, University of L\u00fcbeck, L\u00fcbeck, Germany."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Skobowiat",
+                                "ForeName": "C",
+                                "Initials": "C",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology, University of Alabama at Birmingham, Birmingham, AL, 35294, USA."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Slominski",
+                                "ForeName": "A T",
+                                "Initials": "AT",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Dermatology, University of Alabama at Birmingham, Birmingham, AL, 35294, USA."
+                                    },
+                                    {
+                                        "Affiliation": "Comprehensive Cancer Center, Cancer Chemoprevention Program, University of Alabama at Birmingham, Birmingham, AL, 35294, USA."
+                                    },
+                                    {
+                                        "Affiliation": "VA Medical Center, Birmingham, AL, 35294, USA."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Paus",
+                                "ForeName": "R",
+                                "Initials": "R",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "Department of Dermatology, Allergology and Venerology, University of L\u00fcbeck, L\u00fcbeck, Germany."
+                                    },
+                                    {
+                                        "Affiliation": "Centre for Dermatology Research, University of Manchester, Manchester, UK."
+                                    },
+                                    {
+                                        "Affiliation": "NIHR Manchester Biomedical Research Centre, Manchester, UK."
+                                    },
+                                    {
+                                        "Affiliation": "Department of Dermatology & Cutaneous Surgery, University of Miami Miller School of Medicine, Miami, FL, USA."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": [
+                            {
+                                "GrantID": "R01 AR056666",
+                                "Acronym": "AR",
+                                "Agency": "NIAMS NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "R01 AR071189",
+                                "Acronym": "AR",
+                                "Agency": "NIAMS NIH HHS",
+                                "Country": "United States"
+                            },
+                            {
+                                "GrantID": "R01 AR073004",
+                                "Acronym": "AR",
+                                "Agency": "NIAMS NIH HHS",
+                                "Country": "United States"
+                            }
+                        ]
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            },
+                            {
+                                "@UI": "D052061",
+                                "#text": "Research Support, N.I.H., Extramural"
+                            },
+                            {
+                                "@UI": "D013485",
+                                "#text": "Research Support, Non-U.S. Gov't"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2020",
+                        "Month": "06",
+                        "Day": "24"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Br J Dermatol",
+                    "NlmUniqueID": "0004041",
+                    "ISSNLinking": "0007-0963"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000728",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D044103",
+                                "#text": "Receptor, Melanocortin, Type 2"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D017475",
+                                "#text": "Receptors, Nerve Growth Factor"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "33507-63-0",
+                            "NameOfSubstance": {
+                                "@UI": "D013373",
+                                "#text": "Substance P"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "9002-60-2",
+                            "NameOfSubstance": {
+                                "@UI": "D000324",
+                                "#text": "Adrenocorticotropic Hormone"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "9015-71-8",
+                            "NameOfSubstance": {
+                                "@UI": "D003346",
+                                "#text": "Corticotropin-Releasing Hormone"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "EC 2.7.10.1",
+                            "NameOfSubstance": {
+                                "@UI": "D020794",
+                                "#text": "Receptor Protein-Tyrosine Kinases"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "CommentsCorrectionsList": {
+                    "CommentsCorrections": {
+                        "@RefType": "CommentIn",
+                        "RefSource": "Br J Dermatol. 2021 Jan;184(1):7-8. doi: 10.1111/bjd.19388.",
+                        "PMID": {
+                            "@Version": "1",
+                            "#text": "32740912"
+                        }
+                    }
+                },
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000324",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adrenocorticotropic Hormone"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000728",
+                                "@MajorTopicYN": "N",
+                                "#text": "Androgens"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000494",
+                                "@MajorTopicYN": "N",
+                                "#text": "pharmacology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003346",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Corticotropin-Releasing Hormone"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018859",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair Follicle"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D007030",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hypothalamo-Hypophyseal System"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010913",
+                                "@MajorTopicYN": "N",
+                                "#text": "Pituitary-Adrenal System"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D020794",
+                                "@MajorTopicYN": "N",
+                                "#text": "Receptor Protein-Tyrosine Kinases"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D044103",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Receptor, Melanocortin, Type 2"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D017475",
+                                "@MajorTopicYN": "N",
+                                "#text": "Receptors, Nerve Growth Factor"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D012535",
+                                "@MajorTopicYN": "N",
+                                "#text": "Scalp"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000378",
+                                "@MajorTopicYN": "N",
+                                "#text": "metabolism"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013373",
+                                "@MajorTopicYN": "N",
+                                "#text": "Substance P"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2020",
+                            "Month": "4",
+                            "Day": "1"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2020",
+                            "Month": "4",
+                            "Day": "10",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2021",
+                            "Month": "5",
+                            "Day": "15",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2020",
+                            "Month": "4",
+                            "Day": "10",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2022",
+                            "Month": "1",
+                            "Day": "1"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "32271938"
+                        },
+                        {
+                            "@IdType": "mid",
+                            "#text": "NIHMS1677187"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC7962141"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/bjd.19115"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Fischer TW, Schmidt S, Strauss B, Elsner P. Hairdex: a tool for evaluation of disease-specific quality of life in patients with hair diseases. Hautarzt 2001; 52:219\u201327.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11284067"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Schmidt S, Fischer TW, Chren MM et al. Strategies of coping and quality of life in women with alopecia. Br J Dermatol 2001; 144:1038\u201343.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11359394"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hadshiew IM, Foitzik K, Arck PC, Paus R. Burden of hair loss: stress and the underestimated psychosocial impact of telogen effluvium and androgenetic alopecia. J Invest Dermatol 2004; 123:455\u20137.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15304082"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Paus R, Arck P. Neuroendocrine perspectives in alopecia areata: does stress play a role? J Invest Dermatol 2009; 129:1324\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19434088"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Alexopoulos A, Chrousos GP. Stress-related skin disorders. Rev Endocr Metab Disord 2016; 17:295\u2013304.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27368716"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "York J, Nicholson T, Minors P, Duncan DF. Stressful life events and loss of hair among adult women, a case\u2013control study. Psychol Rep 1998; 82:1044\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9676515"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Gatherwright J, Liu MT, Gliniak C et al. The contribution of endogenous and exogenous factors to female alopecia: a study of identical twins. Plast Reconstr Surg 2012; 130:1219\u201326.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "22878477"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Gatherwright J, Liu MT, Amirlak B et al. The contribution of endogenous and exogenous factors to male alopecia: a study of identical twins. Plast Reconstr Surg 2013; 131:794e\u2013801e.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "23629119"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Shin H, Choi SJ, Cho AR et al. Acute stress-induced changes in follicular dermal papilla cells and mobilization of mast cells: implications for hair growth. Ann Dermatol 2016; 28:600\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5064190"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27746640"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Peters EM, Handjiski B, Kuhlmei A et al. Neurogenic inflammation in stress-induced termination of murine hair growth is promoted by nerve growth factor. Am J Pathol 2004; 165:259\u201371.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1618553"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15215181"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Peters EM, Arck PC, Paus R. Hair growth inhibition by psychoe-motional stress: a mouse model for neural mechanisms in hair growth control. Exp Dermatol 2006; 15:1\u201313.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16364026"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Joachim RA, Kuhlmei A, Dinh QT et al. Neuronal plasticity of the \u2018brain\u2013skin connection\u2019: stress-triggered up-regulation of neuropeptides in dorsal root ganglia and skin via nerve growth factor-dependent pathways. J Mol Med (Berl) 2007; 85:1369\u201378.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17639286"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Arck PC, Handjiski B, Kuhlmei A et al. Mast cell deficient and neurokinin-1 receptor knockout mice are protected from stress-induced hair growth inhibition. J Mol Med (Berl) 2005; 83: 386\u201396.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15759104"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Peters EM, Stieglitz MG, Liezman C et al. p75 neurotrophin receptor-mediated signaling promotes human hair follicle regression (catagen). Am J Pathol 2006; 168:221\u201334.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1592649"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "16400025"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Peters EM, Liotiri EM, Bod\u00f3 E et al. Probing the effects of stress mediators on the human hair follicle: substance P holds central position. Am J Pathol 2007; 171:1872\u201386.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2111110"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "18055548"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Huang WY, Huang YC, Huang KS et al. Stress-induced premature senescence of dermal papilla cells compromises hair follicle epithelial\u2013mesenchymal interaction. J Dermatol Sci 2017; 86:114\u201322.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "28117106"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Tr\u00fceb RM. The impact of oxidative stress on hair. Int J Cosmet Sci 2015; 37 (Suppl. 2):25\u201330.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26574302"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Haslam IS, Jadkauskaite L, Szab\u00f3 IL et al. Oxidative damage control in a human (mini-)organ: Nrf2 activation protects against oxidative stress-induced hair growth inhibition. J Invest Dermatol 2017; 137:295\u2013304.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "27702566"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Wortsman J. Neuroendocrinology of the skin. Endocr Rev 2000; 21:457\u201387.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11041445"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Ito N, Ito T, Kromminga A et al. Human hair follicles display a functional equivalent of the hypothalamic\u2013pituitary\u2013adrenal axis and synthesize cortisol. FASEB J 2005; 19:1332\u20134.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15946990"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Pisarchik A, Tobin DJ et al. Differential expression of a cutaneous corticotropin-releasing hormone system. Endocrinology 2004; 145:941\u201350.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1201495"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "14605004"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Slominski AT, Zmijewski MA, Zbytek B et al. Key role of CRF in the skin stress response system. Endocr Rev 2013; 34:827\u201384.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3857130"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23939821"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Zbytek B, Pfeffer LM, Slominski AT. Corticotropin-releasing hormone stimulates NF-\u03baB in human epidermal keratinocytes. J Endocrinol 2004; 181:R1\u20137.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1262682"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "15171702"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Zbytek B, Slominski AT. CRH mediates inflammation induced by lipopolysaccharide in human adult epidermal keratinocytes. J Invest Dermatol 2007; 127:730\u20132.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1839835"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17068474"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Philpott M, Green M, Kealey T. Human hair growth in vitro. J Cell Sci 1990; 97:463\u201371.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "1705941"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Philpott M, Sanders D, Westgate G, Kealey T. Human hair growth in vitro: a model for the study of hair follicle biology. J Dermatol Sci 1994; 7 (Suppl.):S55\u201372.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7999676"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Stenn KS, Paus R. Controls of hair follicle cycling. Physiol Rev 2001; 81:449\u201394.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11152763"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Paus R, Langan EA, Vidali S et al. Neuroendocrinology of the hair follicle: principles and clinical perspectives. Trends Mol Med 2014; 20:559\u201370.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25066729"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Ohnemus U, Uenalan M, Inzunza J et al. The hair follicle as an estrogen target and source. Endocr Rev 2006; 27:677\u2013706.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16877675"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Paus R, Cotsarelis G. The biology of hair follicles. N Engl J Med 1999; 341:491\u20137.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10441606"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Foitzik K, Krause K, Nixon AJ et al. Prolactin and its receptor are expressed in murine hair follicle epithelium, show hair cycle-dependent expression, and induce catagen. Am J Pathol 2003; 162:1611\u201321.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1851183"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "12707045"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Wortsman J, Luger T et al. Corticotropin releasing hormone and proopiomelanocortin involvement in the cutaneous response to stress. Physiol Rev 2000; 80:979\u20131020.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10893429"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski AT, Manna PR, Tuckey RC. On the role of skin in the regulation of local and systemic steroidogenic activities. Steroids 2015; 103:72\u201388.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC4631694"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25988614"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Paus R, Botchkarev VA, Botchkareva NV et al. The skin POMC system (SPS). Leads and lessons from the hair follicle. Ann N Y Acad Sci 1999; 885:350\u201363.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10816666"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Ito N, Ito T, Betterman A et al. The human hair bulb is a source and target of CRH. J Invest Dermatol 2004; 122:235\u20137.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "14962114"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Skobowiat C, Dowdy JC, Sayre RM et al. Cutaneous hypothalamic\u2013pituitary\u2013adrenal axis homolog: regulation by ultraviolet radiation. Am J Physiol Endocrinol Metab 2011; 301:E484\u201393.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3174533"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "21673307"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Wortsman J, Tuckey RC, Paus R. Differential expression of HPA axis homolog in the skin. Mol Cell Endocrinol 2007; 265\u20136:143\u20139.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1839836"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17197073"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Aguilera G, Rabadan-Diehl C, Nikodemova M. Regulation of pituitary corticotropin releasing hormone receptors. Peptides 2001; 22:769\u201374.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11337090"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Perrin MH, Vale WW. Corticotropin releasing factor receptors and their ligand family. Ann NY Acad Sci 1999; 885:312\u201328.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10816663"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Czok G. Coffee and its physiological effects. Arch Sci Med (Torino) 1972; 129:32\u20138.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "5086934"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fischer TW, Hipler UC, Elsner P. Effect of caffeine and testosterone on the proliferation of human hair follicles in vitro. Int J Dermatol 2007; 46:27\u201335.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17214716"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fischer TW, Herczeg-Lisztes E, Funk W et al. Differential effects of caffeine on hair shaft elongation, matrix and outer root sheath keratinocyte proliferation, and TGF-\u03b22-/IGF-1-mediated regulation of hair cycle in male and female human hair follicles in vitro. Br J Dermatol 2014; 171:1031\u201343.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "24836650"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Langan EA, Philpott M, Kloepper JE, Paus R. Human hair follicle organ culture: theory, application and perspectives. Exp Dermatol 2015; 24:903\u201311.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "26284830"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Kloepper JE, Sugawara K, Al-Nuaimi Y et al. Methods in hair research: how to objectively distinguish between anagen and catagen in human hair follicle organ culture. Exp Dermatol 2010; 19:305\u201312.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19725870"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Sehringer B, Zahradnik HP, Simon M et al. mRNA expression profiles for corticotrophin-releasing hormone, urocortin, CRH-binding protein and CRH receptors in human term gestational tissues determined by real-time quantitative RT-PCR. J Mol Endocrinol 2004; 32:339\u201348.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15072543"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Alfonso M, Richter-Appelt H, Tosti A et al. The psychosocial impact of hair loss among men: a multinational European study. Curr Med Res Opin 2005; 21:1829\u201336.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16307704"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Miranda BH, Tobin DJ, Sharpe DT, Randall VA. Intermediate hair follicles: a new more clinically relevant model for hair growth investigations. Br J Dermatol 2010; 163:287\u201395.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20500795"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Lu Z, Fischer TW, Hasse S et al. Profiling the response of human hair follicles to ultraviolet radiation. J Invest Dermatol 2009; 129:1790\u2013804.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19158839"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski AT, Roloff B, Zbytek B et al. Corticotropin releasing hormone and related peptides can act as bioregulatory factors in human keratinocytes. In Vitro Cell Dev Biol Anim 2000; 36:211\u201316.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10777063"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Quevedo ME, Slominski A, Pinto W et al. Pleiotropic effects of corticotropin releasing hormone on normal human skin keratinocytes. In Vitro Cell Dev Biol Anim 2001; 37:50\u20134.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "11249206"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Suda T, Tomori N, Yajima F et al. Immunoreactive corticotropin-releasing factor in human plasma. J Clin Invest 1985; 76:2026\u20139.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC424270"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "2997301"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Ermak G, Hwang J et al. The expression of proopiomelanocortin (POMC) and of corticotropin releasing hormone receptor (CRH-R) genes in mouse skin. Biochim Biophys Acta 1996; 1289:247\u201351.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8600981"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Roloff B, Fechner K, Slominski A et al. Hair cycle-dependent expression of corticotropin-releasing factor (CRF) and CRF receptors in murine skin. FASEB J 1998; 12:287\u201397.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9506472"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Zbytek B, Szczesniewski A et al. CRH stimulation of corticosteroids production in melanocytes is mediated by ACTH. Am J Physiol Endocrinol Metab 2005; 288:E701\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15572653"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Slominski A, Zbytek B, Semak I et al. CRH stimulates POMC activity and corticosterone production in dermal fibroblasts. J Neuroimmunol 2005; 162:97\u2013102.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15833364"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Berridge MJ, Irvine RF. Inositol trisphosphate, a novel second messenger in cellular signal transduction. Nature 1984; 312:315\u201321.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "6095092"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Taylor CW, Genazzani AA, Morris SA. Expression of inositol trisphosphate receptors. Cell Calcium 1999; 26:237\u201351.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10668562"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Zbytek B, Slominski AT. Corticotropin-releasing hormone induces keratinocyte differentiation in the adult human epidermis. J Cell Physiol 2005; 203:118\u201326.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15468147"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Blackard WG, Guzelian PS, Small EE. Down regulation of insulin receptors. Trans Am Clin Climatol Assoc 1979; 90:94\u2013101.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2279387"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "229608"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Parker I, Ivorra I. Caffeine inhibits inositol trisphosphate-mediated liberation of intracellular calcium in Xenopus oocytes. J Physiol 1991; 433:229\u201340.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC1181368"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "1844813"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Kang SS, Han KS, Ku BM et al. Caffeine-mediated inhibition of calcium release channel inositol 1,4,5-trisphosphate receptor subtype 3 blocks glioblastoma invasion and extends survival. Cancer Res 2010; 70:1173\u201383.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC3273964"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20103623"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Butcher RW, Sutherland EW. Adenosine 3\u2032,5\u2032-phosphate in biological materials. I. Purification and properties of cyclic 3\u2032,5\u2032-nucleotide phosphodiesterase and use of this enzyme to characterize adenosine 3\u2032,5\u2032-phosphate in human urine. J Biol Chem 1962;237:1244\u201350.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "13875173"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Wojtal KA, Hoekstra D, van Ijzendoorn SC. cAMP-dependent protein kinase A and the dynamics of epithelial cell surface domains: moving membranes to keep in shape. Bioessays 2008; 30:146\u201355.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "18200529"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Chakraborty A, Pawelek J. MSH receptors in immortalized human epidermal keratinocytes: a potential mechanism for coordinate regulation of the epidermal-melanin unit. J Cell Physiol 1993; 157:344\u201350.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "8227166"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Schulze E, Witt M, Fink T et al. Immunohistochemical detection of human skin nerve fibers. Acta Histochem 1997; 99:301\u20139.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "9381913"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Hordinsky MK, Kennedy W, Wendelschafer-Crabb G, Lewis S. Structure and function of cutaneous nerves in alopecia areata. J Invest Dermatol 1995; 104 (5 Suppl.):28\u20139.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7537784"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Bae S, Matsunaga Y, Tanaka Y, Katayama I. Autocrine induction of substance P mRNA and peptide in cultured normal human keratinocytes. Biochem Biophys Res Commun 1999; 263:327\u201333.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "10491292"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Arck PC, Slominski A, Theoharides TC et al. Neuroimmunology of stress: skin takes center stage. J Invest Dermatol 2006; 126:1697\u2013704.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC2232898"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "16845409"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ito N, Sugawara K, Bod\u00f3 E et al. Corticotropin-releasing hormone stimulates the in situ generation of mast cells from precursors in the human hair follicle mesenchyme. J Invest Dermatol 2010; 130:995\u20131004.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "20043013"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Scholzen TE, Luger TA. Neutral endopeptidase and angiotensin-converting enzyme \u2013 key enzymes terminating the action of neuroendocrine mediators. Exp Dermatol 2004; 13 (Suppl. 4):22\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "15507108"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Adly MA, Assaf HA, Hussein MR. Expression pattern of p75 neurotrophin receptor protein in human scalp skin and hair follicles: hair cycle-dependent expression. J Am Acad Dermatol 2009; 60:99\u2013109.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "19103362"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Botchkarev VA, Yaar M, Peters EM et al. Neurotrophins in skin biology and pathology. J Invest Dermatol 2006; 126:1719\u201327.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16845411"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Chao MV, Hempstead BL. p75 and Trk: a two-receptor system. Trends Neurosci 1995; 18:321\u20136.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "7571013"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Iacaruso MF, Galli S, Mart\u00ed M et al. Structural model for p75NTR\u2013TrkA intracellular domain interaction: a combined FRET and bioinformatics study. J Mol Biol 2011; 414:681\u201398.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "21978666"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Adly MA, Assaf HA, Nada EA et al. Expression of nerve growth factor and its high-affinity receptor, tyrosine kinase A proteins, in the human scalp skin. J Cutan Pathol 2006; 33:559\u201368.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "16919030"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Siebenhaar F, Sharov AA, Peters EM et al. Substance P as an immunomodulatory neuropeptide in a mouse model for autoimmune hair loss (alopecia areata). J Invest Dermatol 2007; 127:1489\u201397.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "17273166"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

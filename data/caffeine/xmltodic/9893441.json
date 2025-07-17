@@ -1,0 +1,262 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Manual",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "9893441"
+                },
+                "DateCompleted": {
+                    "Year": "1999",
+                    "Month": "03",
+                    "Day": "23"
+                },
+                "DateRevised": {
+                    "Year": "2013",
+                    "Month": "11",
+                    "Day": "21"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Print",
+                            "#text": "0047-1887"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Print",
+                            "Volume": "52",
+                            "Issue": "4",
+                            "PubDate": {
+                                "Year": "1998",
+                                "Month": "Aug"
+                            }
+                        },
+                        "Title": "Nihon hoigaku zasshi = The Japanese journal of legal medicine",
+                        "ISOAbbreviation": "Nihon Hoigaku Zasshi"
+                    },
+                    "ArticleTitle": "Utility of caffeine analysis for forensic hair discrimination.",
+                    "Pagination": {
+                        "StartPage": "233",
+                        "EndPage": "237",
+                        "MedlinePgn": "233-7"
+                    },
+                    "Abstract": {
+                        "AbstractText": "Utility of caffeine analysis for the purpose of forensic hair discrimination was evaluated. Methanol extracts of each 5-cm strand of scalp hair, after its incubation at 37 degrees C for 15 h, was analyzed by gas chromatography-mass spectrometry (GC-MS). For quantitative analysis of caffeine, caffeine-d3 was added as internal standard to the methanol extract. Hair specimens were obtained from three victims and from twenty-two volunteers. The results showed that caffeine levels in hair varied according to each individual; caffeine was detected up to a maximum level of 4.19 ng/5-cm hair. The concentrations of caffeine in hair obtained from four different regions of the scalp in twenty-two volunteers showed a coefficient of variation not greater than 24.7% for each individual. Based on our data, it was concluded that caffeine levels give relatively high reliability for discriminating a victim's hair from others at a criminal or accidental scene, although it should be used in combination with morphological examination and ABO blood group determination."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Tanada",
+                                "ForeName": "N",
+                                "Initials": "N",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Forensic Medicine, Fukuoka University School of Medicine, Japan."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kashimura",
+                                "ForeName": "S",
+                                "Initials": "S"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Kageura",
+                                "ForeName": "M",
+                                "Initials": "M"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Hara",
+                                "ForeName": "K",
+                                "Initials": "K"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D002363",
+                                "#text": "Case Reports"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            }
+                        ]
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Japan",
+                    "MedlineTA": "Nihon Hoigaku Zasshi",
+                    "NlmUniqueID": "0413715",
+                    "ISSNLinking": "0047-1887"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D000017",
+                                "#text": "ABO Blood-Group System"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "3G6A5W338E",
+                            "NameOfSubstance": {
+                                "@UI": "D002110",
+                                "#text": "Caffeine"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000017",
+                                "@MajorTopicYN": "N",
+                                "#text": "ABO Blood-Group System"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000328",
+                                "@MajorTopicYN": "N",
+                                "#text": "Adult"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000368",
+                                "@MajorTopicYN": "N",
+                                "#text": "Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D002110",
+                                "@MajorTopicYN": "N",
+                                "#text": "Caffeine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000032",
+                                "@MajorTopicYN": "Y",
+                                "#text": "analysis"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005260",
+                                "@MajorTopicYN": "N",
+                                "#text": "Female"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D005554",
+                                "@MajorTopicYN": "N",
+                                "#text": "Forensic Medicine"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000379",
+                                "@MajorTopicYN": "Y",
+                                "#text": "methods"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008401",
+                                "@MajorTopicYN": "N",
+                                "#text": "Gas Chromatography-Mass Spectrometry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006197",
+                                "@MajorTopicYN": "N",
+                                "#text": "Hair"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "Y",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008297",
+                                "@MajorTopicYN": "N",
+                                "#text": "Male"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D008875",
+                                "@MajorTopicYN": "N",
+                                "#text": "Middle Aged"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015203",
+                                "@MajorTopicYN": "N",
+                                "#text": "Reproducibility of Results"
+                            }
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "1999",
+                            "Month": "1",
+                            "Day": "20"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "1999",
+                            "Month": "1",
+                            "Day": "20",
+                            "Hour": "0",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "1999",
+                            "Month": "1",
+                            "Day": "20",
+                            "Hour": "0",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": {
+                        "@IdType": "pubmed",
+                        "#text": "9893441"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,807 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Curated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "29156601"
+                },
+                "DateCompleted": {
+                    "Year": "2018",
+                    "Month": "05",
+                    "Day": "03"
+                },
+                "DateRevised": {
+                    "Year": "2018",
+                    "Month": "12",
+                    "Day": "02"
+                },
+                "Article": {
+                    "@PubModel": "Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1660-4601"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "14",
+                            "Issue": "11",
+                            "PubDate": {
+                                "Year": "2017",
+                                "Month": "Nov",
+                                "Day": "19"
+                            }
+                        },
+                        "Title": "International journal of environmental research and public health",
+                        "ISOAbbreviation": "Int J Environ Res Public Health"
+                    },
+                    "ArticleTitle": "Acute Toxicity and Ecological Risk Assessment of Benzophenone-3 (BP-3) and Benzophenone-4 (BP-4) in Ultraviolet (UV)-Filters.",
+                    "ELocationID": [
+                        {
+                            "@EIdType": "pii",
+                            "@ValidYN": "Y",
+                            "#text": "1414"
+                        },
+                        {
+                            "@EIdType": "doi",
+                            "@ValidYN": "Y",
+                            "#text": "10.3390/ijerph14111414"
+                        }
+                    ],
+                    "Abstract": {
+                        "AbstractText": {
+                            "i": [
+                                "Chlorella vulgaris",
+                                "Daphnia magna",
+                                "Brachydanio rerio",
+                                "C. vulgaris",
+                                "D. magna",
+                                "B. rerio",
+                                "C. vulgaris",
+                                "D. magna",
+                                "B. rerio"
+                            ],
+                            "sub": [
+                                "50",
+                                "50",
+                                "50"
+                            ],
+                            "sup": "-3",
+                            "#text": "Ultraviolet (UV)-absorbing chemicals (UV filters) are used in personal care products for the protection of human skin and hair from damage by UV radiation. Although these substances are released into the environment in the production and consumption processes, little is known about their ecotoxicology effects. The acute toxicity and potential ecological risk of UV filters benzophenone-3 (BP-3) and benzophenone-4 (BP-4) on , , and  were analyzed in the present study. The EC values (96 h) of BP-3 and BP-4 on  were 2.98 and 201.00 mg/L, respectively. The 48 h-LC of BP-3 and BP-4 on  were 1.09 and 47.47 mg/L, respectively. The 96 h-LC of BP-3 and BP-4 on  were 3.89 and 633.00 mg/L, respectively. The toxicity of a mixture of BP-3 and BP-4 on , , and  all showed antagonistic effects. The induced predicted no-effect concentrations of BP-3 and BP-4 by the assessment factor method were 1.80 \u00d7 10 and 0.47 mg/L, respectively, by assessment factor (AF) method, which were both lower than the concentrations detected in the environment at present, verifying that BP-3 and BP-4 remain low-risk chemicals to the aquatic ecosystem."
+                        }
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Du",
+                                "ForeName": "Yang",
+                                "Initials": "Y",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. 220150552@seu.edu.cn."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. 220150552@seu.edu.cn."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Wang",
+                                "ForeName": "Wen-Qian",
+                                "Initials": "WQ",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. 220160595@seu.edu.cn."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. 220160595@seu.edu.cn."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Pei",
+                                "ForeName": "Zhou-Tao",
+                                "Initials": "ZT",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. 220170623@seu.edu.cn."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. 220170623@seu.edu.cn."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Ahmad",
+                                "ForeName": "Fahmi",
+                                "Initials": "F",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. ahmad.fahmi@rocketmail.com."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. ahmad.fahmi@rocketmail.com."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Xu",
+                                "ForeName": "Rou-Rou",
+                                "Initials": "RR",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. zt746603025@gmail.com."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. zt746603025@gmail.com."
+                                    }
+                                ]
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Zhang",
+                                "ForeName": "Yi-Min",
+                                "Initials": "YM",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Research Center of Watershed Ecological Conservation and Water Pollution Control, Nanjing Institute of Environmental Sciences, Ministry of Environmental Protection of the People's Republic of China, Nanjing 210042, China. zym@nies.org."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Sun",
+                                "ForeName": "Li-Wei",
+                                "Initials": "LW",
+                                "AffiliationInfo": [
+                                    {
+                                        "Affiliation": "School of Energy & Environment, Southeast University, Nanjing 210042, China. liwei-sun@seu.edu.cn."
+                                    },
+                                    {
+                                        "Affiliation": "Taihu Lake Water Environment Engineering Research Center (Wuxi), Southeast University, Wuxi 210042, China. liwei-sun@seu.edu.cn."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2017",
+                        "Month": "11",
+                        "Day": "19"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "Switzerland",
+                    "MedlineTA": "Int J Environ Res Public Health",
+                    "NlmUniqueID": "101238455",
+                    "ISSNLinking": "1660-4601"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D001577",
+                                "#text": "Benzophenones"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D013473",
+                                "#text": "Sunscreening Agents"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D014874",
+                                "#text": "Water Pollutants, Chemical"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D029961",
+                                "#text": "Zebrafish Proteins"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D000818",
+                                "@MajorTopicYN": "N",
+                                "#text": "Animals"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D001577",
+                                "@MajorTopicYN": "N",
+                                "#text": "Benzophenones"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000032",
+                                "@MajorTopicYN": "Y",
+                                "#text": "analysis"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D048408",
+                                "@MajorTopicYN": "N",
+                                "#text": "Chlorella vulgaris"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003621",
+                                "@MajorTopicYN": "N",
+                                "#text": "Daphnia"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000187",
+                                "@MajorTopicYN": "N",
+                                "#text": "drug effects"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D054750",
+                                "@MajorTopicYN": "N",
+                                "#text": "Ecotoxicology"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D004784",
+                                "@MajorTopicYN": "N",
+                                "#text": "Environmental Monitoring"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D006801",
+                                "@MajorTopicYN": "N",
+                                "#text": "Humans"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D018570",
+                                "@MajorTopicYN": "N",
+                                "#text": "Risk Assessment"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D013473",
+                                "@MajorTopicYN": "N",
+                                "#text": "Sunscreening Agents"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000032",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "analysis"
+                                },
+                                {
+                                    "@UI": "Q000633",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "toxicity"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014466",
+                                "@MajorTopicYN": "N",
+                                "#text": "Ultraviolet Rays"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D014874",
+                                "@MajorTopicYN": "N",
+                                "#text": "Water Pollutants, Chemical"
+                            },
+                            "QualifierName": [
+                                {
+                                    "@UI": "Q000032",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "analysis"
+                                },
+                                {
+                                    "@UI": "Q000633",
+                                    "@MajorTopicYN": "Y",
+                                    "#text": "toxicity"
+                                }
+                            ]
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D015027",
+                                "@MajorTopicYN": "N",
+                                "#text": "Zebrafish"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000254",
+                                "@MajorTopicYN": "N",
+                                "#text": "growth & development"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D029961",
+                                "@MajorTopicYN": "N",
+                                "#text": "Zebrafish Proteins"
+                            }
+                        }
+                    ]
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "UV filters"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "acute toxicity"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "benzophenone-3"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "benzophenone-4"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "ecological risk assessment"
+                        }
+                    ]
+                },
+                "CoiStatement": "The authors declare no conflicts of interest."
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2017",
+                            "Month": "10",
+                            "Day": "24"
+                        },
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "4"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "6"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "22",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "22",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2018",
+                            "Month": "5",
+                            "Day": "4",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "pmc-release",
+                            "Year": "2017",
+                            "Month": "11",
+                            "Day": "1"
+                        }
+                    ]
+                },
+                "PublicationStatus": "epublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "29156601"
+                        },
+                        {
+                            "@IdType": "pmc",
+                            "#text": "PMC5708053"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.3390/ijerph14111414"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "ijerph14111414"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Reference": [
+                        {
+                            "Citation": "Ekowati Y., Buttiglieri G., Ferrero G., Valle-Sistac J., Diaz-Cruz M.S., Barcel\u00f3 D., Petrovic M., Villagrasa M., Kennedy M., Rodr\u00edguez-Roda I. Occurrence of pharmaceuticals and UV filters in swimming pools and spas. Environ. Sci. Pollut. Res. 2016;23:14431\u201314441. doi: 10.1007/s11356-016-6560-1.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s11356-016-6560-1"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27068900"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Silva C.P.D., Em\u00eddio E.S., Marchi M.R.R.D. The occurrence of UV filters in natural and drinking water in S\u00e3o Paulo State (Brazil) Environ. Sci. Pollut. Res. 2015;22:19706\u201319715. doi: 10.1007/s11356-015-5174-3.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s11356-015-5174-3"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26278906"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Wang L., Asimakopoulos A.G., Moon H.B., Nakata H., Kannan K. Benzotriazole, benzothiazole, and benzophenone compounds in indoor dust from the United States and East Asian Countries. Environ. Sci. Technol. 2013;47:4752\u20134759. doi: 10.1021/es305000d.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1021/es305000d"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "23544437"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Spurgeon D.J., Jones O.A.H., Dorne J.L.C.M., Svendsen C., Swain S., St\u00fcrzenbaum S.R. Systems toxicology approaches for understanding the joint effects of environmental chemical mixtures. Sci. Total Environ. 2010;408:3725\u20133734. doi: 10.1016/j.scitotenv.2010.02.038.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.scitotenv.2010.02.038"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20231031"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Hodges G., Roberts D.W., Marshall S.J., Dearden J.C. Defining the toxic mode of action of ester sulphonates using the joint toxicity of mixtures. Chemosphere. 2006;64:17\u201325. doi: 10.1016/j.chemosphere.2005.12.021.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.chemosphere.2005.12.021"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "16457872"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Peck A.M. Analytical methods for the determination of persistent ingredients of personal care products in environmental matrices. Anal. Bioanal. Chem. 2006;386:907\u2013939. doi: 10.1007/s00216-006-0728-3.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s00216-006-0728-3"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17047946"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Sun H.Q., Du Y., Zhang Z.Y., Jiang W.J., Guo Y.M., Lu X.W., Zhang Y.M., Sun L.W. Acute toxicity and ecological risk assessment of benzophenone and N,N-Diethyl-3 Methylbenzamide in personal care products. Int. J. Environ. Res. Public Health. 2016;13:925. doi: 10.3390/ijerph13090925.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.3390/ijerph13090925"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5036758"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "27657095"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Qi L., Chen Z., Wei D., Du Y. Acute toxicity formation potential of benzophenone-type UV filters in chlorination disinfection process. J. Environ. Sci. 2014;26:440\u2013447.",
+                            "ArticleIdList": {
+                                "ArticleId": {
+                                    "@IdType": "pubmed",
+                                    "#text": "25076536"
+                                }
+                            }
+                        },
+                        {
+                            "Citation": "Fent K., Zenker A., Rapp M. Widespread occurrence of estrogenic UV-filters in aquatic ecosystems in Switzerland. Environ. Sci. Pollut. Res. 2010;158:1817\u20131824. doi: 10.1016/j.envpol.2009.11.005.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.envpol.2009.11.005"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "20004505"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ma B., Lu G., Liu F., Nie Y., Zhang Z.H., Li Y. Organic UV filters in the surface water of Nanjing, China: Occurrence, distribution and ecological risk assessment. Bull. Environ. Contam. Toxicol. 2016;96:530\u2013535. doi: 10.1007/s00128-015-1725-z.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s00128-015-1725-z"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26747437"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Brausch J.M., Rand G.M. A review of personal care products in the aquatic environment: Environmental concentrations and toxicity. Chemosphere. 2011;82:1518\u20131532. doi: 10.1016/j.chemosphere.2010.11.018.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.chemosphere.2010.11.018"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "21185057"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Heffernan A.L., Baduel C., Toms L.M.L., Calafat A.M., Ye X., Hobson P., Broomhall S., Mueller J.F. Use of pooled samples to assess human exposure to parabens, benzophenone-3 and triclosan in Queensland, Australia. Environ. Int. 2015;85:77\u201383. doi: 10.1016/j.envint.2015.09.001.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.envint.2015.09.001"
+                                    },
+                                    {
+                                        "@IdType": "pmc",
+                                        "#text": "PMC5537729"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26368661"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Cuderman P. Heath E. Determination of UV filters and antimicrobial agents in environmental water samples. Anal. Bioanal. Chem. 2007;387:1343\u20131350. doi: 10.1007/s00216-006-0927-y.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s00216-006-0927-y"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "17136341"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chemicals-Alga Growth Inhibition Test, GB/T 21805-2008, General Administration of Quality Supervision, Inspection and Quarantine, People\u2019s Republic of China; Standardization Administration of China.  [(accessed on 2 September 2016)]; Available online:  http://www.sac.gov.cn/was5/web/search."
+                        },
+                        {
+                            "Citation": "Method for Acute Toxicity Test of Daphnia Magna Straus, GB/T 16125-2012, Ministry of Health, People\u2019s Republic of China, Standardization Administration of China.  [(accessed on 2 September 2016)]; Available online:  http://www.sac.gov.cn/was5/web/search."
+                        },
+                        {
+                            "Citation": "Chemicals-Fish Acute Toxicity Test, GB/T 27861-2011. Administration of Quality Supervision, Inspection and Quarantine, People\u2019s Republic of China; Standardization Administration of China.  [(accessed on 2 September 2016)]; Available online:  http://www.sac.gov.cn/was5/web/search."
+                        },
+                        {
+                            "Citation": "Wang X., Wei F., Qi W. Monitoring Analysis Method of Water and Wastewater. 4th ed. Ministry of Environmental Protection of the People\u2019s Republic of China; Beijing, China: 2013. pp. 767\u2013781."
+                        },
+                        {
+                            "Citation": "URL AIST-MeRAM.  [(accessed on 1 May 2017)]; Available online:  https://en-meram.aist-riss.jp/"
+                        },
+                        {
+                            "Citation": "Kim S., Choi K. Occurrences, toxicities, and ecological risks of benzophenone-3, a common component of organic sunscreen products: a mini-review. Environ. Int. 2014;70:143\u2013157. doi: 10.1016/j.envint.2014.05.015.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.envint.2014.05.015"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24934855"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Tsui M.M.P., Leung H.W., Wai T.C., Yamashita N., Taniyasu S., Liu W., Lam P.K.S., Murphy M.B. Occurrence, distribution and ecological risk assessment of multiple classes of UV filters in surface waters from different countries. Water Res. 2014;67:55\u201365. doi: 10.1016/j.watres.2014.09.013.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.watres.2014.09.013"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "25261628"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Chen T.H., Wu Y.T., Ding W.H. UV-filter benzophenone-3 inhibits agonistic behavior in male Siamese fighting fish (Betta splendens) J. Ecotoxicol. 2016;25:1\u20138. doi: 10.1007/s10646-015-1588-4.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1007/s10646-015-1588-4"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26589946"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Fent K., Kunz P.Y., Zenker A., Rapp M. A tentative environmental risk assessment of the UV-filters 3-(4-methylbenzylidene-camphor), 2-ethyl-hexyl-4-trimethoxycinnamate, benzophenone-3, benzophenone-4 and 3-benzylidene camphor. Mar. Environ. Res. 2010;69:S4\u2013S6. doi: 10.1016/j.marenvres.2009.10.010.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.marenvres.2009.10.010"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "19910045"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Rodil R., Quintana J.B., Conchagra\u00f1a E., L\u00f3pez-Mah\u00eda P., Muniategui-Lorenzo S., Prada-Rodr\u00edguez D. Emerging pollutants in sewage, surface and drinking water in Galicia (NW Spain) Chemosphere. 2012;86:1040\u20131049. doi: 10.1016/j.chemosphere.2011.11.053.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.chemosphere.2011.11.053"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "22189380"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Ramos S., Homem V., Alves A., Santos L. A review of organic UV-filters in wastewater treatment plants. Environ. Int. 2016;86:24\u201344. doi: 10.1016/j.envint.2015.10.004.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.envint.2015.10.004"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26479831"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Luque-Garcia J.L., Cabezas-Sanchez P., Anuncia\u00e7\u00e3o D.S., Camara M. Analytical and bioanalytical approaches to unravel the selenium-mercury antagonism: A review. Anal. Chem. Acta. 2013;801:1\u201313. doi: 10.1016/j.aca.2013.08.043.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.aca.2013.08.043"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "24139569"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "Citation": "Oz\u00e1ez I., Morcillo G., Mart\u00ednezguitarte J.L. The effects of binary UV filter mixtures on the midge Chironomus riparius. Sci. Total Environ. 2016;556:154\u2013162. doi: 10.1016/j.scitotenv.2016.02.210.",
+                            "ArticleIdList": {
+                                "ArticleId": [
+                                    {
+                                        "@IdType": "doi",
+                                        "#text": "10.1016/j.scitotenv.2016.02.210"
+                                    },
+                                    {
+                                        "@IdType": "pubmed",
+                                        "#text": "26971216"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

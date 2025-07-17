@@ -1,0 +1,150 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "PubMed-not-MEDLINE",
+                "@Owner": "NLM",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "18489298"
+                },
+                "DateCompleted": {
+                    "Year": "2010",
+                    "Month": "06",
+                    "Day": "09"
+                },
+                "DateRevised": {
+                    "Year": "2008",
+                    "Month": "05",
+                    "Day": "20"
+                },
+                "Article": {
+                    "@PubModel": "Print",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1468-2494"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "28",
+                            "Issue": "5",
+                            "PubDate": {
+                                "Year": "2006",
+                                "Month": "Oct"
+                            }
+                        },
+                        "Title": "International journal of cosmetic science",
+                        "ISOAbbreviation": "Int J Cosmet Sci"
+                    },
+                    "ArticleTitle": "Caffeine improves barrier function in male skin.",
+                    "Pagination": {
+                        "StartPage": "343",
+                        "EndPage": "347",
+                        "MedlinePgn": "343-7"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/j.1467-2494.2006.00346.x"
+                    },
+                    "Abstract": {
+                        "AbstractText": "The influence of androgens, especially testosterone and its effector dihydrotestosterone, results in a constitutive disadvantage for male skin, e.g. reduced viability of hair at the scalp and reduced epidermal permeability barrier repair capacity. Dihydrotestosterone can act, among others, as an adenyl cyclase inhibitor. Caffeine on the other hand is an inexpensive and (in regular doses) harmless substance used in various cosmetic products, which can act as a phosphodiesterase inhibitor. To prove the hypothesis that caffeine as a phosphodiesterase inhibitor is able to override testosterone-induced effects on barrier function, we performed a double-blind placebo controlled study with healthy volunteers. In this study, 0.5% caffeine in a hydroxyethylcellulose gel preparation (HEC) was applied on one forearm, HEC without caffeine on the other forearm of male and female volunteers for 7 days and transepidermal water loss (TEWL) was measured before and at the end of the treatment period. Basal TEWL did not differ significantly between male and female subjects but the application of caffeine significantly reduced TEWL in male skin compared with female skin. We conclude that caffeine is beneficial for barrier function in male skin."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Brandner",
+                                "ForeName": "J M",
+                                "Initials": "JM",
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Dermatology and Venerology, University Medical Center Hamburg-Eppendorf, 20246 Hamburg, Germany. brandner@uke.uni-hamburg.de"
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Behne",
+                                "ForeName": "M J",
+                                "Initials": "MJ"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Huesing",
+                                "ForeName": "B",
+                                "Initials": "B"
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Moll",
+                                "ForeName": "I",
+                                "Initials": "I"
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "PublicationTypeList": {
+                        "PublicationType": {
+                            "@UI": "D016428",
+                            "#text": "Journal Article"
+                        }
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Cosmet Sci",
+                    "NlmUniqueID": "8007161",
+                    "ISSNLinking": "0142-5463"
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2008",
+                            "Month": "5",
+                            "Day": "21",
+                            "Hour": "9",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2008",
+                            "Month": "5",
+                            "Day": "21",
+                            "Hour": "9",
+                            "Minute": "1"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2008",
+                            "Month": "5",
+                            "Day": "21",
+                            "Hour": "9",
+                            "Minute": "0"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "18489298"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/j.1467-2494.2006.00346.x"
+                        },
+                        {
+                            "@IdType": "pii",
+                            "#text": "ICS346"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,656 @@
+{
+    "PubmedArticleSet": {
+        "PubmedArticle": {
+            "MedlineCitation": {
+                "@Status": "MEDLINE",
+                "@Owner": "NLM",
+                "@IndexingMethod": "Curated",
+                "PMID": {
+                    "@Version": "1",
+                    "#text": "36704855"
+                },
+                "DateCompleted": {
+                    "Year": "2023",
+                    "Month": "06",
+                    "Day": "08"
+                },
+                "DateRevised": {
+                    "Year": "2023",
+                    "Month": "06",
+                    "Day": "08"
+                },
+                "Article": {
+                    "@PubModel": "Print-Electronic",
+                    "Journal": {
+                        "ISSN": {
+                            "@IssnType": "Electronic",
+                            "#text": "1468-2494"
+                        },
+                        "JournalIssue": {
+                            "@CitedMedium": "Internet",
+                            "Volume": "45",
+                            "Issue": "3",
+                            "PubDate": {
+                                "Year": "2023",
+                                "Month": "Jun"
+                            }
+                        },
+                        "Title": "International journal of cosmetic science",
+                        "ISOAbbreviation": "Int J Cosmet Sci"
+                    },
+                    "ArticleTitle": "Recent patent applications for coffee and coffee by-products as active ingredients in cosmetics.",
+                    "Pagination": {
+                        "StartPage": "267",
+                        "EndPage": "287",
+                        "MedlinePgn": "267-287"
+                    },
+                    "ELocationID": {
+                        "@EIdType": "doi",
+                        "@ValidYN": "Y",
+                        "#text": "10.1111/ics.12843"
+                    },
+                    "Abstract": {
+                        "AbstractText": [
+                            {
+                                "@Label": "OBJECTIVE",
+                                "@NlmCategory": "OBJECTIVE",
+                                "#text": "Coffee is one of the most consumed beverages worldwide, and its production and consumption generate large amounts of by-products annually. Coffee by-products and coffee beans are rich in bioactive compounds of great commercial value, including potential applications as active ingredients in skin care products and cosmetic formulations. In addition, there has been growing interest in the use of natural ingredients for cosmetic purposes. Considering the importance of coffee in the world economy, its chemical constituents with potential for cosmetic and dermatological application, and the importance of patents for innovation and technological development, the present study aimed to review recent patents involving coffee and coffee by-product use in cosmetics."
+                            },
+                            {
+                                "@Label": "METHODS",
+                                "@NlmCategory": "METHODS",
+                                "#text": "This review was carried out using Espacenet. The following inclusion criteria were established: patents that included the terms \"coffee\" and \"skin\" in the title, abstract and claims and belonged to the classification A61Q, which is related to the \"specific use of cosmetics or similar toilet preparations\" considering the International Patent Classification (IPC) or Cooperative Patent Classification (CPC)."
+                            },
+                            {
+                                "@Label": "RESULTS",
+                                "@NlmCategory": "RESULTS",
+                                "#text": "Considering the 52 patents analysed, the bean was the main way to obtain extracts (39), followed by green beans (7), silverskin (3), peel and pulp (1), pulp (1) and beans and leaves (1). The formulations are mainly intended for use in nonspecific areas of skin (29), eye areas (12), scalp hair (9) and lip skin (2) with claims of anti-ageing, moisturizers, sun protection, hair growth, anti-dandruff, etc. CONCLUSION: Coffee and its residues have high amounts of phenolic compounds, caffeine, fatty acids and other substances known to have important biological properties for the skin. Coffee and its by-products are promising ingredients to be incorporated into topical formulations, ensuring skin health benefits and reducing the environmental impact."
+                            }
+                        ],
+                        "CopyrightInformation": "\u00a9 2023 Society of Cosmetic Scientists and Societe Francaise de Cosmetologie."
+                    },
+                    "AuthorList": {
+                        "@CompleteYN": "Y",
+                        "Author": [
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "de Mello",
+                                "ForeName": "Val\u00e9ria",
+                                "Initials": "V",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-2888-1458"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmaceutical Sciences, Faculty of Pharmacy, Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "de Mesquita J\u00fanior",
+                                "ForeName": "Gilmar Alves",
+                                "Initials": "GA",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-4048-8106"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmaceutical Sciences, Faculty of Pharmacy, Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Alvim",
+                                "ForeName": "Julia Gabriela Eurico",
+                                "Initials": "JGE",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0001-7792-7523"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmaceutical Sciences, Faculty of Pharmacy, Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Costa",
+                                "ForeName": "Juliana de Carvalho da",
+                                "Initials": "JCD",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0002-2336-7361"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmaceutical Sciences, Faculty of Pharmacy, Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                                }
+                            },
+                            {
+                                "@ValidYN": "Y",
+                                "LastName": "Vilela",
+                                "ForeName": "Fernanda Maria Pinto",
+                                "Initials": "FMP",
+                                "Identifier": {
+                                    "@Source": "ORCID",
+                                    "#text": "0000-0001-6169-4550"
+                                },
+                                "AffiliationInfo": {
+                                    "Affiliation": "Department of Pharmaceutical Sciences, Faculty of Pharmacy, Federal University of Juiz de Fora, Juiz de Fora, Brazil."
+                                }
+                            }
+                        ]
+                    },
+                    "Language": "eng",
+                    "GrantList": {
+                        "@CompleteYN": "Y",
+                        "Grant": [
+                            {
+                                "Agency": "Universidade Federal de Juiz de Fora",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "001",
+                                "Agency": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior",
+                                "Country": null
+                            },
+                            {
+                                "GrantID": "APQ-02555-18",
+                                "Agency": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de Minas Gerais",
+                                "Country": null
+                            }
+                        ]
+                    },
+                    "PublicationTypeList": {
+                        "PublicationType": [
+                            {
+                                "@UI": "D016454",
+                                "#text": "Review"
+                            },
+                            {
+                                "@UI": "D016428",
+                                "#text": "Journal Article"
+                            }
+                        ]
+                    },
+                    "ArticleDate": {
+                        "@DateType": "Electronic",
+                        "Year": "2023",
+                        "Month": "03",
+                        "Day": "13"
+                    }
+                },
+                "MedlineJournalInfo": {
+                    "Country": "England",
+                    "MedlineTA": "Int J Cosmet Sci",
+                    "NlmUniqueID": "8007161",
+                    "ISSNLinking": "0142-5463"
+                },
+                "ChemicalList": {
+                    "Chemical": [
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D003358",
+                                "#text": "Cosmetics"
+                            }
+                        },
+                        {
+                            "RegistryNumber": "0",
+                            "NameOfSubstance": {
+                                "@UI": "D003069",
+                                "#text": "Coffee"
+                            }
+                        }
+                    ]
+                },
+                "CitationSubset": "IM",
+                "MeshHeadingList": {
+                    "MeshHeading": [
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003358",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Cosmetics"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "N",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D003069",
+                                "@MajorTopicYN": "Y",
+                                "#text": "Coffee"
+                            },
+                            "QualifierName": {
+                                "@UI": "Q000737",
+                                "@MajorTopicYN": "N",
+                                "#text": "chemistry"
+                            }
+                        },
+                        {
+                            "DescriptorName": {
+                                "@UI": "D010330",
+                                "@MajorTopicYN": "N",
+                                "#text": "Patents as Topic"
+                            }
+                        }
+                    ]
+                },
+                "OtherAbstract": {
+                    "@Type": "Publisher",
+                    "@Language": "fre",
+                    "AbstractText": "Le caf\u00e9 est l'une des boissons les plus consomm\u00e9es dans le monde, et sa production et sa consommation g\u00e9n\u00e8rent chaque ann\u00e9e de grandes quantit\u00e9s de sous-produits. Les sous-produits du caf\u00e9 et les grains de caf\u00e9 sont riches en compos\u00e9s bioactifs d'une grande valeur commerciale, y compris des applications potentielles en tant qu'ingr\u00e9dients actifs dans les produits de soins de la peau et les formulations cosm\u00e9tiques. De plus, il y a eu un int\u00e9r\u00eat croissant pour l'utilisation d'ingr\u00e9dients naturels \u00e0 des fins cosm\u00e9tiques. Compte tenu de l'importance du caf\u00e9 dans l'\u00e9conomie mondiale, de ses constituants chimiques ayant un potentiel d'application cosm\u00e9tique et dermatologique, et de l'importance des brevets pour l'innovation et le d\u00e9veloppement technologique, la pr\u00e9sente \u00e9tude visait \u00e0 examiner les brevets r\u00e9cents concernant l'utilisation du caf\u00e9 et des sous-produits du caf\u00e9 dans les cosm\u00e9tiques. M\u00c9THODES: Cette revue a \u00e9t\u00e9 r\u00e9alis\u00e9e \u00e0 l'aide d'Espacenet. Les crit\u00e8res d'inclusion suivants ont \u00e9t\u00e9 \u00e9tablis: les brevets qui incluaient les termes \u201ccaf\u00e9\u201d et \u201cpeau\u201d dans le titre, l'abr\u00e9g\u00e9 et les revendications et appartenaient \u00e0 la classification A61Q, qui est li\u00e9e \u00e0 \u201cl'utilisation sp\u00e9cifique de cosm\u00e9tiques ou de pr\u00e9parations de toilette similaires\u201d compte tenu de la Classification internationale des brevets ou Classification coop\u00e9rative des brevets. R\u00c9SULTATS: Consid\u00e9rant les 52 brevets analys\u00e9s, le grain \u00e9tait le principal moyen d'obtenir des extraits (39), suivi du grain vert (7), du silverskin (3), de la peau et de la pulpe (1), de la pulpe (1) et des grains et des feuilles (1). Les formulations sont principalement destin\u00e9es \u00e0 \u00eatre utilis\u00e9es dans des zones non sp\u00e9cifiques de la peau (29), des yeux (12), des cheveux du cuir chevelu (9) et de la peau des l\u00e8vres (2) avec des revendications anti-\u00e2ge, hydratantes, protection solaire, croissance des cheveux, antipelliculaire, etc. CONCLUSION: Le caf\u00e9 et ses r\u00e9sidus contiennent de grandes quantit\u00e9s de compos\u00e9s ph\u00e9noliques, de caf\u00e9ine, d'acides gras et d'autres substances connues pour avoir des propri\u00e9t\u00e9s biologiques importantes pour la peau. Le caf\u00e9 et ses sous-produits sont des ingr\u00e9dients prometteurs \u00e0 incorporer dans des formulations topiques, garantissant des bienfaits pour la sant\u00e9 de la peau et r\u00e9duisant l'impact environnemental.",
+                    "CopyrightInformation": "\u00a9 2023 Society of Cosmetic Scientists and Societe Francaise de Cosmetologie."
+                },
+                "KeywordList": {
+                    "@Owner": "NOTNLM",
+                    "Keyword": [
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "eye area"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "formulations"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "hair treatment"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "lip skin"
+                        },
+                        {
+                            "@MajorTopicYN": "N",
+                            "#text": "skin barrier"
+                        }
+                    ]
+                }
+            },
+            "PubmedData": {
+                "History": {
+                    "PubMedPubDate": [
+                        {
+                            "@PubStatus": "revised",
+                            "Year": "2023",
+                            "Month": "1",
+                            "Day": "13"
+                        },
+                        {
+                            "@PubStatus": "received",
+                            "Year": "2022",
+                            "Month": "10",
+                            "Day": "18"
+                        },
+                        {
+                            "@PubStatus": "accepted",
+                            "Year": "2023",
+                            "Month": "1",
+                            "Day": "18"
+                        },
+                        {
+                            "@PubStatus": "medline",
+                            "Year": "2023",
+                            "Month": "6",
+                            "Day": "6",
+                            "Hour": "6",
+                            "Minute": "42"
+                        },
+                        {
+                            "@PubStatus": "pubmed",
+                            "Year": "2023",
+                            "Month": "1",
+                            "Day": "28",
+                            "Hour": "6",
+                            "Minute": "0"
+                        },
+                        {
+                            "@PubStatus": "entrez",
+                            "Year": "2023",
+                            "Month": "1",
+                            "Day": "27",
+                            "Hour": "2",
+                            "Minute": "43"
+                        }
+                    ]
+                },
+                "PublicationStatus": "ppublish",
+                "ArticleIdList": {
+                    "ArticleId": [
+                        {
+                            "@IdType": "pubmed",
+                            "#text": "36704855"
+                        },
+                        {
+                            "@IdType": "doi",
+                            "#text": "10.1111/ics.12843"
+                        }
+                    ]
+                },
+                "ReferenceList": {
+                    "Title": "REFERENCES",
+                    "Reference": [
+                        {
+                            "Citation": "FAO. Market and trades, coffee - commodity in focus. Rome: Food and Agricultural Organization of the United Nations; 2022. https://www.fao.org/markets-and-trade/commodities/coffee/en/"
+                        },
+                        {
+                            "Citation": "ICO. Coffee market report (November 2022). In. International Coffee Organization, London, 2022. https://www.ico.org/documents/cy2022-23/cmr-1122-e.pdf"
+                        },
+                        {
+                            "Citation": "Abrh\u00e1m J, Vo\u0161ta M, \u010cajka P, Rub\u00e1\u010dek F. The specifics of selected agricultural commodities in international trade. J Agric Resour. 2021;7(2):5-19. https://doi.org/10.51599/are.2021.07.02.01"
+                        },
+                        {
+                            "Citation": "EMBRAPA. Sum\u00e1rio executivo: produ\u00e7\u00e3o dos caf\u00e9s do Brasil ocupa 1,82 milh\u00e3o de hectares em 2022. 2022."
+                        },
+                        {
+                            "Citation": "Seow WJ, Low YD, Pan WC, Gunther SM, Sim X, Torta F, et al. Coffee, black tea, and green tea consumption in relation to plasma metabolites in an Asian population. Mol Nutr Food Res. 2020;64:e2000527. https://doi.org/10.1002/mnfr.202000527"
+                        },
+                        {
+                            "Citation": "Murthy PS, Naidu MM. Sustainable management of coffee industry by-products and value addition - a review. Resour Conserv Recycl. 2012;66:45-58. https://doi.org/10.1016/j.resconrec.2012.06.005"
+                        },
+                        {
+                            "Citation": "Padmapriya R, Tharian JA, Thirunalasundari T. Coffee waste management - AN overview. Int J Curr Sci. 2013;9:83-91."
+                        },
+                        {
+                            "Citation": "Pinto D, Lameir\u00e3o F, Matos CD, Rodrigues F, Costa P. Chapter 25 - cosmetics-food waste recovery. In: Galanakis CM, editor. Food waste recovery. 2nd ed. Porto: Academic Press; 2021. p. 503-28."
+                        },
+                        {
+                            "Citation": "Santos EM, Macedo LM, Tundisi LL, Ataide JA, Camargo GA, Alves RC, et al. Coffee by-products in topical formulations: a review. Trends Food Sci Technol. 2021;111:280-91. https://doi.org/10.1016/j.tifs.2021.02.064"
+                        },
+                        {
+                            "Citation": "Turnip L, Sihotang RA, Turnip KNP, Arico Z. The effect of coffee residue extract on hair growth. IOP conf. Series. Mater Sci Eng. 2018;420:012079. https://doi.org/10.1088/1757-899X/420/1/012079"
+                        },
+                        {
+                            "Citation": "Marto J, Gouveia LF, Chiari BG, Paiva A, Isaac V, Pinto P, et al. The green generation of sunscreens: using coffee industrial subproducts. Ind Crops Prod. 2016;80:93-100. https://doi.org/10.1016/j.indcrop.2015.11.033"
+                        },
+                        {
+                            "Citation": "Delgado-Arias S, Zapata-Valencia S, Cano-Agudelo Y, Osorio-Arias J, Vega-Castro O. Evaluation of the antioxidant and physical properties of an exfoliating cream developed from coffee grounds. J Food Process Eng. 2019;43:e13067. https://doi.org/10.1111/jfpe.13067"
+                        },
+                        {
+                            "Citation": "Segheto L, Santos BCS, Werneck AFL, Vilela FMP, Sousa OV, Rodarte MP. Antioxidant extracts of coffee leaves and its active ingredient 5-caffeoylquinic acid reduce chemically-induced inflammation in mice. Ind Crops Prod. 2018;126:48-57. https://doi.org/10.1016/j.indcrop.2018.09.027"
+                        },
+                        {
+                            "Citation": "Cefali LC, Ataide JA, Moriel P, Foglio MA, Mazzola PG. Plant-based active photoprotectants for sunscreens. Int J Cosmet Sci. 2016;38:346-53. https://doi.org/10.1111/ics.12316"
+                        },
+                        {
+                            "Citation": "Hilda D, Arini A, Nancy CD. Formulation of body scrub cream from extract of arabika green coffee (Coffea arabica L.) as antioxidant. Adv Health Sci Res. 2020;33:337-42. https://doi.org/10.2991/ahsr.k.210115.071"
+                        },
+                        {
+                            "Citation": "Luo J, He W, Li X, Ji X, Liu J. Anti-acne vulgaris effects of chlorogenic acid by anti-inflammatory activity and lipogenesis inhibition. Exp Dermatol. 2021;30(6):865-71. https://doi.org/10.1111/exd.14277"
+                        },
+                        {
+                            "Citation": "Putri E, Angkasa C, Ginting CN, Chiuman L, Lister NE. Comparison of anti-aging effectiveness from gotu kola extract cream (Centella asiatica) and robusta coffee cream (Coffea canephora) toward hydration levels in male musculus skin. Am Sci Res J Eng Technol Sci. 2019;61(1):192-201."
+                        },
+                        {
+                            "Citation": "Cubas ALV, Machado MM, Bianchet RT, Hermann KAC, Bork JA, Debacherc NA, et al. Oil extraction from spent coffee grounds assisted by non-thermal plasma. Sep Purif Technol. 2020;250:117-71. https://doi.org/10.1016/j.seppur.2020.117171"
+                        },
+                        {
+                            "Citation": "Wu CT, Agrawal DC, Huang WY, Hsu HC, Yang SJ, Huang SH, et al. Functionality analysis of spent coffee ground extracts obtained by the hydrothermal method. J Chem. 2019;2019:1-8. https://doi.org/10.1155/2019/4671438"
+                        },
+                        {
+                            "Citation": "Rodrigues F, Oliveira AP, Neves J, Sarmento B, Amaral MH, Oliveira MBPP. Coffee silverskin: a possible valuable cosmetic ingredient. Pharm Biol. 2015;53(3):386-94. https://doi.org/10.3109/13880209.2014.922589"
+                        },
+                        {
+                            "Citation": "Boger BR, Bigotto BG, Lonni AASG, Benassi MT. Eye cosmeceutical formulations with roasted coffee oil in free and microencapsulated forms: development and preliminary stability study. Eur J Lipid Sci Technol. 2021;124:2100168. https://doi.org/10.1002/ejlt.202100168"
+                        },
+                        {
+                            "Citation": "Putri DE, Djamil R, Faizatum F. Body scrub virgin coconut oil, coffee grounds and carbon active coconut shell as a moisturizer and skin brightening. Scr Med. 2021;52(1):76-81. https://doi.org/10.5937/scriptamed52-30814"
+                        },
+                        {
+                            "Citation": "Bertges FS, Amaral MPH, Rodarte MP, Fonseca MJV, Sousa OV, Vilela FMP, et al. Assessment of chemical changes and skin penetration of green arabica coffee beans biotransformed by aspergillus oryzae. Biocatal Agric Biotechnol. 2020;23:101512. https://doi.org/10.1016/j.bcab.2020.101512"
+                        },
+                        {
+                            "Citation": "Neves JVG, Borges MV, Silva DM, Leite CXS, Santos MRC, Lima NGB, et al. Total phenolic content and primary antioxidant capacity of aqueous extracts of coffee husk: chemical evaluation and beverage development. Food Sci Technol. 2021;39(Suppl. 1):348-53. https://doi.org/10.1590/fst.36018"
+                        },
+                        {
+                            "Citation": "B\u00f6ger BR, Mori ALB, Viegas MC, Benassi MT. Quality attributes of roasted arabica coffee oil extracted by pressing: composition, antioxidante activity, sun protection factor and other physical and chemical parameters. Grasas Aceites. 2021;72(1):e394. https://doi.org/10.3989/gya.1144192"
+                        },
+                        {
+                            "Citation": "Ribeiro H, Marto J, Raposo S, Agapito M, Vera I, Chiari BG, et al. From coffee industry waste materials to skin-friendly products with improved skin fat levels. Eur J Lipid Sci Technol. 2013;115:330-6. https://doi.org/10.1002/ejlt.201200239"
+                        },
+                        {
+                            "Citation": "Campos PMBGM, Merc\u00fario DG. Formas cosm\u00e9ticas (S\u00e9rie Fundamentos da Cosmetologia). Cosmet Toiletries. 2014;26(2):36-9."
+                        },
+                        {
+                            "Citation": "Ribeiro H, Marto J, Raposo S, Agapito M, Isaac V, Chiari BG, et al. From coffee industry waste materials to skin-friendly products with improved skin fat levels. Eur J Lipid Sci Technol. 2012;115(3):330-6. https://doi.org/10.1002/ejlt.201200239"
+                        },
+                        {
+                            "Citation": "\u00d6z\u00e7elik B, Kartal M, Orhan I. Cytotoxicity, antiviral and antimicrobial activities of alkaloids, flavonoids, and phenolic acids. PharmBiol. 2011;49(4):396-402. https://doi.org/10.3109/13880209.2010.519390"
+                        },
+                        {
+                            "Citation": "Gomes FMS, Xavier JC, Dos Santos JFS, Matos YMLS, Tintino SR, Freitas TS, et al. Evaluation of antibacterial and modifying action of catechin antibiotics in resistant strains. Microb Pathog. 2018;115:175-8. https://doi.org/10.1016/j.micpath.2017.12.058"
+                        },
+                        {
+                            "Citation": "Canci LA, Benassi MT, Canan C, Kalschne DL, Colla E. Antimicrobial potential of aqueous coffee extracts against pathogens and lactobacillus species: a food matrix application. Food Biosci. 2022;47(101756):1-8. https://doi.org/10.1016/j.fbio.2022.101756"
+                        },
+                        {
+                            "Citation": "Singh SK, Kumar Y, Kumar SS, Sharma VK, Dua K, Samad A. Antimicrobial evaluation of mangiferin analogues. Indian J Pharm Sci. 2009;71(3):328. https://doi.org/10.4103/0250-474X.56023"
+                        },
+                        {
+                            "Citation": "Wagemaker TAL, Campos PMBGM, Fernandes AS, Rijo P, Nicolai M, Roberto A, et al. Unsaponifiable matter from oil of green coffee beans: cosmetic properties and safety evaluation. Drug Dev Ind Pharm. 2016;42:1695-9. https://doi.org/10.3109/03639045.2016.1165692"
+                        },
+                        {
+                            "Citation": "Mesquita GAM Jr, Costa YFG, Mello V, Costa FFC, Rodarte MP, Costa JC, et al. Chemical characterisation by UPLC-Q-ToF-MS/MS and antibacterial potential of Coffea arabica L. leaves: a coffee by-product. Phytochem Anal. 2022;33(7):1036-44. https://doi.org/10.1002/pca.3157"
+                        },
+                        {
+                            "Citation": "Kiattisin K, Intasai N, Nitthikan N, Nantarat T, Lee KH, Lin WC, et al. Antioxidant, anti-tyrosinase, anti-aging potentials and safety of arabica coffee cherry extract. Chiang Mai J Sci. 2019;46(5):930-45."
+                        },
+                        {
+                            "Citation": "Zofia NL, Aleksandra Z, Tomasz B, Martyna ZD, Magdalena Z, Zofia HD, et al. Effect of fermentation time on antioxidant and anti-ageing properties of green coffee kombucha ferments. Molecules. 2020;25:5394. https://doi.org/10.3390/molecules25225394"
+                        },
+                        {
+                            "Citation": "Visconti MJ, Haidari W, Feldman SR. Therapeutic use of caffeine in dermatology: a literature review. J Dermatol Dermatolog Surg. 2020;24(1):18-24. https://doi.org/10.4103/jdds.jdds_52_19"
+                        },
+                        {
+                            "Citation": "Huang HC, Wei CM, Si\u00e3o JH, Tsai TCH, Ko WP, Chang KJ, et al. Supercritical fluid extract of spent coffee grounds attenuates melanogenesis through downregulation of the PKA, PI3K/Akt, and MAPK signaling pathways. Evid Based Complement Alternat. 2016;2016:1-11. https://doi.org/10.1155/2016/5860296"
+                        },
+                        {
+                            "Citation": "Sung HM, Jung HJ, Sin JS, Kim KM, Wee JH. Skin whitening activity of supercritical fluid extract from spent coffee in B16F10 melanoma cell. Food Sci Biotech. 2015;24(3):1087-96."
+                        },
+                        {
+                            "Citation": "Rodrigues NP, Benassi MT, Bragagnolo N. Scavenging capacity of coffee brews against oxygen and nitrogen reactive species and the correlation with bioactive compounds by multivariate analysis. Food Res Int. 2014;61:228-35. https://doi.org/10.1016/j.foodres.2013.09.028"
+                        },
+                        {
+                            "Citation": "Iriondo-DeHond A, Martorell P, Genov\u00e9s S, Ram\u00f3n D, Stamatakis K, Fresno M, et al. Coffee silverskin extract protects against accelerated aging caused by oxidative agents. Molecules. 2016;21:721. https://doi.org/10.3390/molecules21060721"
+                        },
+                        {
+                            "Citation": "Bessada SMF, Alves CA, Oliveira MBPP. Coffee silverskin: a review on potential cosmetic applications. Cosmetics. 2018;5(1):5. https://doi.org/10.3390/cosmetics5010005"
+                        },
+                        {
+                            "Citation": "Qin HD, Shi YQ, Liu ZH, Li ZG, Wang HS, Wang H, et al. Effect of chlorogenic acid on mast cell-dependent anaphylactic reaction. Int Immunopharmacol. 2010;10:1135-41. https://doi.org/10.1016/j.intimp.2010.06.018"
+                        },
+                        {
+                            "Citation": "Ahmadraji F, Shatalebi MA. Evaluation of the clinical efficacy and safety of an eye counter pad containing caffeine and vitamin K in emulsified oil base. Adv Biomed Res. 2015;4:10. https://doi.org/10.4103/2277-9175.148292 eCollection 2015."
+                        },
+                        {
+                            "Citation": "Echeverri D, Montes FR, Cabrera M, Gal\u00e1n A, Prieto A. Caffeine's vascular mechanisms of action. Int J Vasc Med. 2010;2010:1-10. https://doi.org/10.1155/2010/834060 Epub 2010 Aug 25. (2010), 2010."
+                        },
+                        {
+                            "Citation": "Wagemaker TAL, Carvalho CRL, Maia NB, Baggio SR, Guerreiro Filho O. Sun protection factor, content and composition of lipid fraction of green coffee beans. Ind Crops Prod. 2011;33(2):469-73. https://doi.org/10.1016/j.indcrop.2010.10.026"
+                        },
+                        {
+                            "Citation": "Oliveira PMA, Almeida RHA, Oliveira NA, Bostynb S, Gon\u00e7alves CB, Oliveira AL. Enrichment of diterpenes in green coffee oil using supercritical fluid extraction-characterization and comparison with green coffee oil from pressing. J Supercrit Fluids. 2014;95:137-45. https://doi.org/10.1016/j.supflu.2014.08.016"
+                        },
+                        {
+                            "Citation": "Volker JM, Koch N, Becker M, Klenk A. Caffeine and its pharmacological benefits in the management of androgenetic alopecia: a review. Skin Pharmacol Physiol. 2020;33:93-109. https://doi.org/10.1159/000508228"
+                        },
+                        {
+                            "Citation": "Golpour M, Rabbani H, Farzin D, Azizi F, Mazand J. Comparing the effectiveness of local solution of minoxidil and caffeine 2.5% with local solution of minoxidil 2.5% in treatment of androgenetic alopecia. J Maz Univ Med Sci. 2013;23(106):30-6."
+                        },
+                        {
+                            "Citation": "Sehra S, Tuana FMB, Holbreic M, Mousdicas N, Kaplan MH, Travers JB. Clinical correlations of recent developments in the pathogenesis of atopic dermatitis. Dermatite at\u00f3pica: implica\u00e7\u00f5es cl\u00ednicas de avan\u00e7os recentes na patog\u00eanese. An Bras Dermatol. 2008;83(1):57-73. https://doi.org/10.1590/S0365-05962008000100009"
+                        },
+                        {
+                            "Citation": "Lugovic-Mihic L, Pilipovic K, Crnaric I, Situm M, Duvancic T. Differential diagnosis of cheilitis - how to classify cheilitis? Acta Clin Croat. 2018;57:342-51. https://doi.org/10.20471/acc.2018.57.02.16"
+                        },
+                        {
+                            "Citation": "Maksym, B., Dusan, S., Scottpatrick, S. Topical dermatologic acne treatment cream composition and method of manufacture. Patent CA3067924A1. 2020."
+                        },
+                        {
+                            "Citation": "Soo, K.Y. Skin cosmetic composite of black food and cypress manufacturing method of the same and beauty mask pack containing the same. Patent KR20200027188A. 2020."
+                        },
+                        {
+                            "Citation": "Yongxiang, L., Ziyi, L., 2021. Use of coffee cherry juice for improving skin. Patent CN112843139A. 2022"
+                        },
+                        {
+                            "Citation": "Yung-Hsiang, L., Zih-Yi, L. Application of coffee pulp extract. Patent CN110037950A. 2019."
+                        },
+                        {
+                            "Citation": "Hwi, K.D., In, K.Y., Kun, P.K. Cosmetic composition that suppresses the generation of senile body odor and contains a skin moisturizing effect containing coffee bean mung bean and bamboo shoot complex extract. Patent KR102257667B1. 2021."
+                        },
+                        {
+                            "Citation": "Herman A, Herman AP. Caffeine's mechanisms of action and its cosmetic use. Skin Pharmacol Physiol. 2013;26:8-14. https://doi.org/10.1159/000343174 (2012)."
+                        },
+                        {
+                            "Citation": "Zillich OV, Schweiggert-Weisz U, Eisner P, Kerscher M. Polyphenols as active ingredients for cosmetic products. Int J Cosmet Sci. 2015;37:455-64. https://doi.org/10.1111/ics.12218"
+                        },
+                        {
+                            "Citation": "Jin, S.J., Sig, C.D., Hyeon, P.G., Na, L.H., Su, P.J.Soo, K.P.Hwa, C.D., Ju, N.Y. Composition for preventing improving and treating acne skin. Patent KR102055098B1. 2019."
+                        },
+                        {
+                            "Citation": "Hee, J.E. Natural cosmetic additives to improve wrinkles and strengthen elasticity. Patent KR102049067B1. 2019."
+                        },
+                        {
+                            "Citation": "Yue, H. Skin-beautifying and firming cream and preparation method thereof. Patent CN111840172A. 2020."
+                        },
+                        {
+                            "Citation": "Yibo, K., Jinghong, L., Lianwei, R., Qing, W. Bilberry water-light composition and preparation method thereof. Patent CN112156053A. 2021."
+                        },
+                        {
+                            "Citation": "Mingzhen, Y. Wrinkle-removing and repairing skin care product. Patent CN112294717A. 2021."
+                        },
+                        {
+                            "Citation": "Jing, Z. Whitening and skin tendering face cream and preparation method thereof. Patent CN110693790A. 2020."
+                        },
+                        {
+                            "Citation": "Can, H., Congyan, L., Sijie, L., Ji, Z. Coffee silver skin extract and preparation method and application thereof. Patent CN111616995A. 2020."
+                        },
+                        {
+                            "Citation": "Yuk, H.J., Seon, K.D., IN, K.T., Sil, L.Y., Mi, L.Y., Jung, S.E., Young, S.Y. Composition for preventing ameliorating or treating allergic disease comprising coffee extract as effective component. Patent KR102120758B1. 2020."
+                        },
+                        {
+                            "Citation": "Kon, K.M., Cosmetic composition for preventing skin disease comprising Nipa fruticans extract. Patent KR102125904B1. 2020."
+                        },
+                        {
+                            "Citation": "Sil, K.Y. A atopy treating scrab washer using a stem cell crushed extract free-membrane stem cell and a coffee beans crushed powder. Patent KR20200084170A. 2020."
+                        },
+                        {
+                            "Citation": "Huachao, L., Huixian, H., Shouxian, H., Huachu, J., Fu, X. Repairing essence for removing couperose skin as well as preparation method thereof. Patent CN110141544A. 2019."
+                        },
+                        {
+                            "Citation": "Jiasong, D. Wheat germ cream capable of compacting skin and losing weight. Patent CN110604720A. 2019."
+                        },
+                        {
+                            "Citation": "Zihan, L. Pure natural bath composition with frosting effect, and preparation method for pure natural bath composition. Patent CN111450023A. 2020."
+                        },
+                        {
+                            "Citation": "Yi, G., Jiyong, S. Method for making perfumed soap by utilizing coffee grounds to recycle fermentation material. Patent CN111304025A. 2020."
+                        },
+                        {
+                            "Citation": "Minjun, Z. Moisturizing composition applying 4XMoisLock quadruple molecular layer water locking technology. Patent CN110101618A. 2019."
+                        },
+                        {
+                            "Citation": "In, M.H., Mi, K.Y. Skin-whitening cosmetic composition containing green coffee bean extract obtained using focused ultrasonic treatment. Patent KR102013272B1. 2019."
+                        },
+                        {
+                            "Citation": "Yibing, D., Lifeng, K., Rongrong, W. Wormwood paste for skin whitening and care and preparation method of wormwood paste. Patent CN110013462A. 2019."
+                        },
+                        {
+                            "Citation": "Juan, W., Yunlin, P., Yanfeng, N., Chaowan, G., Lu, H., Yan, P. Skin care product, preparation method of skin care product and application of skin care product in lightening skin lines. Patent CN113133963A. 2021."
+                        },
+                        {
+                            "Citation": "Rongrong, G., Changqing, D. Composition for effectively relieving skin allergy and couperose skin as well as preparation method and application of composition. Patent CN113797153A. 2021."
+                        },
+                        {
+                            "Citation": "Nam, P.S., Songhua, X. A novel composition for inhibiting photo-aging. Patent KR20210081814A. 2021."
+                        },
+                        {
+                            "Citation": "Heon, R.S. Mask comprising compounds for skin protection. Patent KR20210125776A. 2021."
+                        },
+                        {
+                            "Citation": "Yingliu, M. Whitening essence and preparation method thereof. Patent CN113398024A. 2021"
+                        },
+                        {
+                            "Citation": "Xiaoyong, H., Yidan, K., Jing, Z. Vegetable oil composition with effect of delaying skin aging, and application of vegetable oil composition. Patent CN113712862A. 2021."
+                        },
+                        {
+                            "Citation": "Yingliu, M. Whitening and freckle-removing cream and preparation method thereof. Patent CN113318030A. 2021."
+                        },
+                        {
+                            "Citation": "Deming, G., Weihong, W.,Lin'ai, M., Jieqiong, X. Wrinkle removal composition with symbiotic bacterium combined ferment substance, wrinkle removal eye cream and preparation method of wrinkle removal eye cream. Patent CN111228208A. 2020."
+                        },
+                        {
+                            "Citation": "Jianjun, L., Zhengping, H., Yu, L, Qianwen, C. Eye cream capable of removing dark circles, eliminating under-eye puffiness, resisting wrinkles and smoothing wrinkles, and preparation method of eye cream. Patent CN112675089A. 2021."
+                        },
+                        {
+                            "Citation": "Yingyun, C., Chuanmao, L., Weidan, Z., Chubiao, Z., Weijie, Z. Composition for removing dark circles and under-eye puffiness as well as preparation method and application thereof. Patent CN111743833A. 2020."
+                        },
+                        {
+                            "Citation": "Yingxiu, W., Xuezhu, L., Xiaopeng, C. Dark circle improving composition and application thereof and serum. Patent CN110251454A. 2019."
+                        },
+                        {
+                            "Citation": "Yingyun, C., Chuanmao, L., Weidan, Z., Chubiao, Z., Weijie, Z. Eye skin repair composition and preparation method and application thereof. Patent CN110772463A. 2020."
+                        },
+                        {
+                            "Citation": "Lihui, W., Mingsheng, D., Jinxiong, L. Multiple-effect eye freeze-drying mask and steam eye mask. Patent CN110464658A. 2019."
+                        },
+                        {
+                            "Citation": "Weijian, D., Lixia, L., Baobin, S. Multi-effect eye essence and preparation method thereof. Patent CN112472631A. 2021."
+                        },
+                        {
+                            "Citation": "Tao, L. Eye cream developed with heparin sodium, rutin and coffee extract and preparation method thereof. Patent CN109998949A. 2019."
+                        },
+                        {
+                            "Citation": "Kun, X. Eye cream with upper eyelid and lower eyelid partitioned care function. Patent CN112641717A. 2021."
+                        },
+                        {
+                            "Citation": "Zhang, C. Moisturizing and repairing composition with efficacy of improving eye edema and application of moisturizing and repairing composition. Patent CN112120946A. 2020."
+                        },
+                        {
+                            "Citation": "Zhengzhe, L., Ying, Q., Chengfu, L. Eye cream composition for fading fine wrinkles and preparation method thereof. Patent CN111991286A. 2020."
+                        },
+                        {
+                            "Citation": "Shumin, C., Yinghui, Z. Eye essence for fading dark circle and eyeprint and preparation method thereof. Patent CN113181103A. 2021."
+                        },
+                        {
+                            "Citation": "Rok, L.K., Seok, H.B., Ji, B.C. Woong, K.J. A cosmetic composition for preventing hair loss and promoting hair growth containing spicule powder and natural extract. Patent KR20200014517A. 2020."
+                        },
+                        {
+                            "Citation": "Jun, M. Natural hair shampoo composition powder with rosemary coffee oriental herb for preventing hair loss and stimulating hair growth and method thereof. Patent KR102041995B1. 2019."
+                        },
+                        {
+                            "Citation": "Gu, K.S., Eun, L.K., Chul, S.B. Cosmetic composition for improving the health of scalp comprising natural caffeine and chlorogenic acid. Patent KR20200011781A. 2020."
+                        },
+                        {
+                            "Citation": "Yeong, K.J. A cosmetic composition comprising an extract extracted from chestnuts or a peptide fraction isolated therefrom and natural caffeine derived from coffee. Patent KR20200043147A. 2019."
+                        },
+                        {
+                            "Citation": "Yehoshua, K.M. Composition and method for promoting hair growth. Patent WO2019028214A1. 2020."
+                        },
+                        {
+                            "Citation": "Liang, W., Shuting, W., Chenjie, F., Lei, C.,Yunyi, C., Hao, D., Yuanyuan, H., Jiamin, C., Zhou, L., Yulin, L., Junlin, Z., Jiayi, X., Yiming, C., Xiaoming, W. Application of caffeol in hair loss prevention and hair growth. Patent CN112057459A. 2020."
+                        },
+                        {
+                            "Citation": "Haeng, L.S. Manufacturing method of natural scalp care. Patent KR102217586B1. 2021)."
+                        },
+                        {
+                            "Citation": "Mi, J.H., Hoon, S.S., Jin, K.M., Jong, B.S., Young, K.S. Manufacture method of cosmetic composition containing used coffee ground for head skin peeling or preventing dandruff. Patent KR20200050545. 2020."
+                        },
+                        {
+                            "Citation": "Juan, W. External hair care composition with effects of preventing hair loss, growing hair and blackening hair, preparation and preparation method of external hair care composition. Patent CN113633585A. 2021."
+                        },
+                        {
+                            "Citation": "Shifei, Z. Coffee lipstick for relieving cheilitis and preparation method thereof. Patent CN112137916A. 2020."
+                        },
+                        {
+                            "Citation": "Guifeng, T., Guangpan, X. Colorless and transparent color-changing lip cream and preparation method thereof. Patent CN112274460A. 2021."
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
